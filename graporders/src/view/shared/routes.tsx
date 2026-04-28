@@ -49,7 +49,7 @@ const screenRoutes = [
   },
 
   {
-    path: "/verify",
+    path: "/proof",
     loader: () => import("src/view/pages/proof/proof"),
     permissionRequired: permissions.categoryRead,
     exact: true,
