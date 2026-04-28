@@ -47,24 +47,24 @@ services:
     depends_on:
       - backend
 
-  web1:
-    container_name: namles-web1
-    build:
-      context: ./graporders
-      dockerfile: Dockerfile
-      args:
-        - BUILDKIT_INLINE_CACHE=1
-    ports:
-      - "3018:80"
-    restart: unless-stopped
-    volumes:
-      - ./graporders:/app
-      - /app/node_modules
-    stdin_open: true
-    environment:
-      CHOKIDAR_USEPOLLING: "true"
-    depends_on:
-      - backend
+  # web1:
+  #   container_name: namles-web1
+  #   build:
+  #     context: ./graporders
+  #     dockerfile: Dockerfile
+  #     args:
+  #       - BUILDKIT_INLINE_CACHE=1
+  #   ports:
+  #     - "3018:80"
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ./graporders:/app
+  #     - /app/node_modules
+  #   stdin_open: true
+  #   environment:
+  #     CHOKIDAR_USEPOLLING: "true"
+  #   depends_on:
+  #     - backend
 
 volumes:
   phone:
