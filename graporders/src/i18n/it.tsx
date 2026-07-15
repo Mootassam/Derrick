@@ -287,18 +287,18 @@ const it = {
 
         withdraw: {
             title: "Prelievo",
-            announcement: "L'importo minimo di prelievo è $20. Tutti i prelievi vengono elaborati entro 30 minuti.",
+            announcement: "L'importo minimo di prelievo è $5. Tutti i prelievi vengono elaborati entro 30 minuti.",
             withdrawAmount: "Importo Prelievo",
             withdrawPassword: "Password Prelievo",
             availableBalance: "Saldo disponibile",
             confirm: "Conferma",
             rulesDescription: "Descrizione Regole",
             rules: {
-                minimum: "(1) Il prelievo minimo è di $20 ",
+                minimum: "(1) Il prelievo minimo è di $5 ",
                 paymentTime: "(2) Il pagamento verrà effettuato entro l'ora successiva, dopo l'approvazione della richiesta di prelievo.",
                 orderCompletion: "(3) L'invio incompleto degli ordini giornalieri è soggetto a nessun prelievo, tutti i prodotti devono essere inviati per il prelievo"
             },
-            amountPlaceholder: "Inserisci importo (min. $20)",
+            amountPlaceholder: "Inserisci importo (min. $5)",
             selectMethod: "Seleziona metodo di prelievo",
             methods: {
                 crypto: "Criptovaluta",

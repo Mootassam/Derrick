@@ -379,18 +379,18 @@ const en = {
 
     withdraw: {
       title: "Withdraw",
-      announcement: "The minimum withdrawal amount is $20. All withdrawals are processed within 30 minutes.",
+      announcement: "The minimum withdrawal amount is $5. All withdrawals are processed within 30 minutes.",
       withdrawAmount: "Withdrawal Amount",
       withdrawPassword: "Withdraw Password",
       availableBalance: "Available balance",
       confirm: "Confirm",
       rulesDescription: "Rules Description",
       rules: {
-        minimum: "(1) Minimum withdraw is $20",
+        minimum: "(1) Minimum withdraw is $5",
         paymentTime: "(2) The payment will be made within the next 1 hour, after withdrawal application has been approved.",
         orderCompletion: "(3) Incomplete daily order submission is subjected to no withdrawal, all products must be submitted for withdrawal"
       },
-      amountPlaceholder: "Enter amount (min. $20)",
+      amountPlaceholder: "Enter amount (min. $5)",
       selectMethod: "Select Withdrawal Method",
       methods: {
         crypto: "Cryptocurrency",
@@ -645,7 +645,7 @@ const en = {
         },
         withdrawals: {
           title: "About Withdrawals",
-          content: "<p>After completing your daily tasks, you may submit a withdrawal request (minimum withdrawal amount: $20). Before doing so, please ensure your withdrawal information is linked on the platform.</p><p>Click the \"Withdraw\" button, enter the amount you wish to withdraw, and input your withdrawal password. Withdrawals are typically processed and credited within 30 minutes; however, the exact time may vary depending on your bank or payment provider.</p><p><strong>Please note:</strong> Withdrawal processing hours are from <strong>9:00 AM to 9:00 PM</strong> daily.</p>"
+          content: "<p>After completing your daily tasks, you may submit a withdrawal request (minimum withdrawal amount: $5). Before doing so, please ensure your withdrawal information is linked on the platform.</p><p>Click the \"Withdraw\" button, enter the amount you wish to withdraw, and input your withdrawal password. Withdrawals are typically processed and credited within 30 minutes; however, the exact time may vary depending on your bank or payment provider.</p><p><strong>Please note:</strong> Withdrawal processing hours are from <strong>9:00 AM to 9:00 PM</strong> daily.</p>"
         },
         luxuryOrders: {
           title: "Regarding Luxury Orders",

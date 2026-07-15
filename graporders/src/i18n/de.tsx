@@ -287,18 +287,18 @@ const de = {
     withdraw: {
       title: "Auszahlung",
 
-      announcement: "Der Mindestauszahlungsbetrag beträgt $20. Alle Auszahlungen werden innerhalb von 30 Minuten bearbeitet.",
+      announcement: "Der Mindestauszahlungsbetrag beträgt $5. Alle Auszahlungen werden innerhalb von 30 Minuten bearbeitet.",
       withdrawAmount: "Auszahlungsbetrag",
       withdrawPassword: "Auszahlungspasswort",
       availableBalance: "Verfügbares Guthaben",
       confirm: "Bestätigen",
       rulesDescription: "Regelbeschreibung",
       rules: {
-        minimum: "(1) Mindestauszahlung beträgt $20 ",
+        minimum: "(1) Mindestauszahlung beträgt $5 ",
         paymentTime: "(2) Die Zahlung wird innerhalb der nächsten Stunde nach Genehmigung des Auszahlungsantrags getätigt.",
         orderCompletion: "(3) Unvollständige tägliche Auftragserfüllung führt zu keiner Auszahlung, alle Produkte müssen für die Auszahlung eingereicht werden"
       },
-      amountPlaceholder: "Betrag eingeben (min. $20)",
+      amountPlaceholder: "Betrag eingeben (min. $5)",
       selectMethod: "Auszahlungsmethode wählen",
       methods: {
         crypto: "Kryptowährung",

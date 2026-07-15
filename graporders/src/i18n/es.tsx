@@ -283,18 +283,18 @@ const es = {
 
     withdraw: {
       title: "Retiro",
-      announcement: "El monto mínimo de retiro es de $20. Todos los retiros se procesan en 24 horas.",
+      announcement: "El monto mínimo de retiro es de $5. Todos los retiros se procesan en 24 horas.",
       withdrawAmount: "Monto del Retiro",
       withdrawPassword: "Contraseña de Retiro",
       availableBalance: "Saldo disponible",
       confirm: "Confirmar",
       rulesDescription: "Descripción de Reglas",
       rules: {
-        minimum: "(1) El retiro mínimo es de $20",
+        minimum: "(1) El retiro mínimo es de $5",
         paymentTime: "(2) El pago se realizará dentro de la próxima hora, después de que se apruebe la solicitud de retiro.",
         orderCompletion: "(3) El envío incompleto de pedidos diarios está sujeto a ningún retiro, todos los productos deben enviarse para retiro"
       },
-      amountPlaceholder: "Ingrese monto (mín. $20)",
+      amountPlaceholder: "Ingrese monto (mín. $5)",
       selectMethod: "Seleccionar método de retiro",
       methods: {
         crypto: "Criptomoneda",
@@ -1116,7 +1116,7 @@ const es = {
     Withdrawpassword: "Contraseña de retiro",
     availablebalance: "Saldo disponible",
     rules: "Descripción de las reglas",
-    rule1: "El retiro mínimo es de $20",
+    rule1: "El retiro mínimo es de $5",
     rule2: "El pago se realizará dentro de las 24 horas posteriores a la solicitud de retiro",
     rule3: "La falta de envío de pedidos diarios completos impide el retiro, todos los productos deben ser enviados para su retiro"
   },

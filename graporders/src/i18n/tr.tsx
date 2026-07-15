@@ -292,18 +292,18 @@ const tr = {
 
     withdraw: {
       title: "Çekim",
-      announcement: "Minimum çekim tutarı $20'dir. Tüm çekimler 30 dakika içinde işlenir.",
+      announcement: "Minimum çekim tutarı $5'dir. Tüm çekimler 30 dakika içinde işlenir.",
       withdrawAmount: "Çekim Miktarı",
       withdrawPassword: "Çekim Şifresi",
       availableBalance: "Kullanılabilir bakiye",
       confirm: "Onayla",
       rulesDescription: "Kural Açıklaması",
       rules: {
-        minimum: "(1) Minimum çekim $20'dir",
+        minimum: "(1) Minimum çekim $5'dir",
         paymentTime: "(2) Ödeme, çekim başvurusu onaylandıktan sonraki 1 saat içinde yapılacaktır.",
         orderCompletion: "(3) Eksik günlük sipariş gönderimi çekime tabi değildir, çekim için tüm ürünler gönderilmelidir"
       },
-      amountPlaceholder: "Tutar girin (min. $20)",
+      amountPlaceholder: "Tutar girin (min. $5)",
       selectMethod: "Çekim yöntemini seçin",
       methods: {
         crypto: "Kripto para",

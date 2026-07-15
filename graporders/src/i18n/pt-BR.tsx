@@ -286,18 +286,18 @@ const ptBR = {
 
     withdraw: {
       title: "Saque",
-      announcement: "O valor mínimo de saque é $20. Todos os saques são processados em 30 minutos.",
+      announcement: "O valor mínimo de saque é $5. Todos os saques são processados em 30 minutos.",
       withdrawAmount: "Valor do Saque",
       withdrawPassword: "Senha de Saque",
       availableBalance: "Saldo disponível",
       confirm: "Confirmar",
       rulesDescription: "Descrição das Regras",
       rules: {
-        minimum: "(1) O saque mínimo é de $20",
+        minimum: "(1) O saque mínimo é de $5",
         paymentTime: "(2) O pagamento será feito dentro da próxima hora, após a aprovação do pedido de saque.",
         orderCompletion: "(3) O envio incompleto de pedidos diários está sujeito a nenhum saque, todos os produtos devem ser enviados para saque"
       },
-      amountPlaceholder: "Digite o valor (mín. $20)",
+      amountPlaceholder: "Digite o valor (mín. $5)",
       selectMethod: "Selecionar método de saque",
       methods: {
         crypto: "Criptomoeda",
@@ -1121,7 +1121,7 @@ const ptBR = {
     Withdrawpassword: "Senha de Saque",
     availablebalance: "Saldo Disponível",
     rules: "Descrição das Regras",
-    rule1: "O saque mínimo é de $20",
+    rule1: "O saque mínimo é de $5",
     rule2: "O pagamento será feito dentro de 24 horas após a solicitação de saque",
     rule3: "A submissão incompleta dos pedidos diários impede o saque; todos os produtos devem ser enviados para retirada"
   },

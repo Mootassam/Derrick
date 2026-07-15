@@ -261,18 +261,18 @@ const fr = {
 
     withdraw: {
       title: "Retrait",
-      announcement: "Le montant minimum de retrait est de  $20. Tous les retraits sont traités dans un délai de 30 minutes.",
+      announcement: "Le montant minimum de retrait est de  $5. Tous les retraits sont traités dans un délai de 30 minutes.",
       withdrawAmount: "Montant du retrait",
       withdrawPassword: "Mot de passe de retrait",
       availableBalance: "Solde disponible",
       confirm: "Confirmer",
       rulesDescription: "Description des règles",
       rules: {
-        minimum: "(1) Le retrait minimum est de $20",
+        minimum: "(1) Le retrait minimum est de $5",
         paymentTime: "(2) Le paiement sera effectué dans l'heure suivante, après l'approbation de la demande de retrait.",
         orderCompletion: "(3) La soumission incomplète des commandes quotidiennes est soumise à aucun retrait, tous les produits doivent être soumis pour le retrait"
       },
-      amountPlaceholder: "Entrez le montant (min. $20)",
+      amountPlaceholder: "Entrez le montant (min. $5)",
       selectMethod: "Sélectionner la méthode de retrait",
       methods: {
         crypto: "Cryptomonnaie",
