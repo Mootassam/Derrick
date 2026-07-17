@@ -1,0 +1,4649 @@
+{
+  "count": 1197,
+  "items": [
+    {
+      "nid": 1117686,
+      "alias": "car/ferrari/246-dino/1974/1117686",
+      "seller_id": 142342,
+      "seller_type": "Dealer",
+      "seller_name": "KGC Automobiles",
+      "uid": 142342,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/142342/cars_images/142342-1117686-car-20260706_105022-dino_246_gts-87.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 47000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 3,
+      "competition": 0,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1974,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1974 Ferrari 246 'Dino'  - 246 GTS"
+    },
+    {
+      "nid": 1119079,
+      "alias": "car/ferrari/f8/2021/1119079",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1119079-car-20260716_163017-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 15336,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F8",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Ferrari F8  - tributo garantie bis 2028!"
+    },
+    {
+      "nid": 1119078,
+      "alias": "car/ferrari/246-dino/1972/1119078",
+      "seller_id": 31421,
+      "seller_type": "Dealer",
+      "seller_name": "Movendi - The spirit of classic cars GmbH ",
+      "uid": 31421,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31421/cars_images/31421-1119078-car-20260716_162004-ferrari_246_gt_m_serie_31.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 395000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 89604,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1972,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1972 Ferrari 246 'Dino'  - GT M-Serie"
+    },
+    {
+      "nid": 1119076,
+      "alias": "car/ferrari/308/1976/1119076",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1119076-car-20260716_161651-ferrari_308_gt4_dino_gruen_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 12700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 3,
+      "competition": 0,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1976,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "DE",
+        "listing_type": "Saloon"
+      },
+      "title": "1976 Ferrari 308  - gt 4 dino - seltene farbkombi, concours-zustand!"
+    },
+    {
+      "nid": 1119075,
+      "alias": "car/ferrari/308/1979/1119075",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1119075-car-20260716_160515-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 48600,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1979,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1979 Ferrari 308  - gts, 85% 1. lack, einmaliger sammlerzustand!"
+    },
+    {
+      "nid": 1119074,
+      "alias": "car/ferrari/400/1980/1119074",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1119074-car-20260716_155900-img_1669s.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 61615,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 10170,
+      "manufactured_year": 1980,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "400",
+        "country": "DE",
+        "listing_type": "Saloon"
+      },
+      "title": "1980 Ferrari 400  -  i-originalauslieferungszustand."
+    },
+    {
+      "nid": 1119072,
+      "alias": "car/ferrari/365/1973/1119072",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1119072-car-20260716_154935-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 94343,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1973 Ferrari 365  - GTB 4 Daytona - 1st lack, seltener originalzustand, red book"
+    },
+    {
+      "nid": 1119064,
+      "alias": "car/ferrari/f355/1996/1119064",
+      "seller_id": 95265,
+      "seller_type": "Dealer",
+      "seller_name": "Bavaria Motors NV",
+      "uid": 95265,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/95265/cars_images/95265-1119064-car-20260716_151249-dsc00922.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 185900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 53765,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3126,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F355",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1996 Ferrari F355  - GTS / Rosso Corsa / Manual / Full History"
+    },
+    {
+      "nid": 1119055,
+      "alias": "car/ferrari/gtc4lusso/2017/1119055",
+      "seller_id": 170449,
+      "seller_type": "Dealer",
+      "seller_name": "JORCAR",
+      "uid": 170449,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/170449/cars_images/170449-1119055-car-20260716_133941-img_4683.jpg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 89000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 11899,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "GTC4Lusso",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Ferrari GTC4Lusso  - T"
+    },
+    {
+      "nid": 1119031,
+      "alias": "car/ferrari/f50/1995/1119031",
+      "seller_id": 231037,
+      "seller_type": "Dealer",
+      "seller_name": "Pro Luxury Car Switzerland Dervisic",
+      "uid": 231037,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231037/cars_images/231037-1119031-car-20260716_080210-photo-2026-07-16-09-01-30.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 7500000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 25000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3128,
+      "manufactured_year": 1995,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F50",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1995 Ferrari F50"
+    },
+    {
+      "nid": 1119006,
+      "alias": "car/ferrari/365/1968/1119006",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/ceea69b51030472b389944d75186a9c3.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4769,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1968,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1968 Ferrari 365"
+    },
+    {
+      "nid": 1118994,
+      "alias": "car/ferrari/f12/2017/1118994",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/ff0cd18faecc0d76405ab54eab307c40.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 3300000,
+          "high": 3800000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1059,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 6473,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F12",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2017 Ferrari F12"
+    },
+    {
+      "nid": 1118984,
+      "alias": "car/ferrari/246-dino/1972/1118984",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/06f0d4360c544ac72b844bb99154d9aa.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 375000,
+          "high": 450000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 41792,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1972,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1972 Ferrari 246 'Dino'"
+    },
+    {
+      "nid": 1118995,
+      "alias": "car/ferrari/f12/2017/1118995",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/ff0cd18faecc0d76405ab54eab307c40_0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 3300000,
+          "high": 3800000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1059,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 6473,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F12",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2017 Ferrari F12"
+    },
+    {
+      "nid": 1118985,
+      "alias": "car/ferrari/246-dino/1972/1118985",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/06f0d4360c544ac72b844bb99154d9aa_0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 375000,
+          "high": 450000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 41792,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1972,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1972 Ferrari 246 'Dino'"
+    },
+    {
+      "nid": 1118974,
+      "alias": "car/ferrari/250/1961/1118974",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/4199b320a008e820a0e76a05e987e74b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1961,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1961 Ferrari 250"
+    },
+    {
+      "nid": 1118973,
+      "alias": "car/ferrari/250/1961/1118973",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/4199b320a008e820a0e76a05e987e74b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1961,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1961 Ferrari 250"
+    },
+    {
+      "nid": 1118972,
+      "alias": "car/ferrari/250/1963/1118972",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/e10a6a724c86ccc8ca8cd0f066fdb8c2.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1963 Ferrari 250"
+    },
+    {
+      "nid": 1118970,
+      "alias": "car/ferrari/166206-dino/1966/1118970",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/2ce5982d1cf5c03d665c94351b504b5e.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3118,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "166/206 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1966 Ferrari 166/206 'Dino'"
+    },
+    {
+      "nid": 1118969,
+      "alias": "car/ferrari/225/1952/1118969",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/728e571c5a684d0fe2329d0c8a81a052.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3051,
+      "manufactured_year": 1952,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "225",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1952 Ferrari 225"
+    },
+    {
+      "nid": 1118922,
+      "alias": "car/ferrari/308/1977/1118922",
+      "seller_id": 31280,
+      "seller_type": "Dealer",
+      "seller_name": "Very Superior Old Cars - VSOC BV",
+      "uid": 31280,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31280/cars_images/31280-1118922-car-20260715_143323-ferrari_308_gtb_kopie.jpg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 115000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 109000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1977,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1977 Ferrari 308  - GTB ‘Argento Auteuil’ 49 years of single ownership! Straight from its first and only owner who bought the car new at the age of 35!"
+    },
+    {
+      "nid": 1118913,
+      "alias": "car/ferrari/365/1969/1118913",
+      "seller_id": 42606,
+      "seller_type": "Dealer",
+      "seller_name": "Kessel Auto Lugano SA",
+      "uid": 42606,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42606/cars_images/42606-1118913-car-20260715_114939-img_20260123_074337.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 355000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 8950,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 4,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1969 Ferrari 365  - 365 GT"
+    },
+    {
+      "nid": 1118896,
+      "alias": "car/ferrari/f355/1997/1118896",
+      "seller_id": 233788,
+      "seller_type": "Dealer",
+      "seller_name": "Hillen Exclusive Cars",
+      "uid": 233788,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233788/cars_images/feed_1101844/754730_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 169500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 43867,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3126,
+      "manufactured_year": 1997,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F355",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1997 Ferrari F355  - F355  Spider u-frei*Dt. Auslieferung*6-Gang*Klima"
+    },
+    {
+      "nid": 1118882,
+      "alias": "car/ferrari/275/1966/1118882",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/da150b386500cb8d4fb1bf28b1ef2482.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2700000,
+          "high": 3000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 52270,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3079,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "275",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1966 Ferrari 275"
+    },
+    {
+      "nid": 1118860,
+      "alias": "car/ferrari/daytona-sp3/2023/1118860",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/9e05bb8a17606ccba10b2d7eb5ab6d53.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 10000000,
+          "high": 12000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 19987,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Daytona SP3",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2023 Ferrari Daytona SP3  - Daytona SP3"
+    },
+    {
+      "nid": 1118818,
+      "alias": "car/ferrari/portofino/2023/1118818",
+      "seller_id": 31846,
+      "seller_type": "Dealer",
+      "seller_name": "British & Sportscars",
+      "uid": 31846,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31846/cars_images/31846-1118818-car-20260714_153012-dsc00612.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 244800,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6097,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 13567,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Portofino",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Ferrari Portofino  - M "
+    },
+    {
+      "nid": 1118817,
+      "alias": "car/ferrari/parts/1990/1118817",
+      "seller_id": 123980,
+      "seller_type": "Dealer",
+      "seller_name": "Mugello Cars",
+      "uid": 123980,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/123980/cars_images/123980-1118817-car-20260714_152143-2mb_-_f40_front_clip_2.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3747,
+      "manufactured_year": 1990,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Parts",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1990 Ferrari Parts  - Front Bonnet"
+    },
+    {
+      "nid": 1118813,
+      "alias": "car/ferrari/roma/2021/1118813",
+      "seller_id": 232569,
+      "seller_type": "Dealer",
+      "seller_name": "Silvauto S.p.a",
+      "uid": 232569,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/232569/cars_images/232569-1118813-car-20260714_131111-a1.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 185300,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 17033,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 7,
+      "competition": 0,
+      "make": 145,
+      "model": 15335,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Roma",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Ferrari Roma  -  (2021) UFFICIALE ITALIA – 17.033KM DA NUOVA – DISPONIBILITA’ IMMEDIATA – UNICOPROPRIETARIO – SUPERPREZZO"
+    },
+    {
+      "nid": 1118801,
+      "alias": "car/ferrari/575/2003/1118801",
+      "seller_id": 31953,
+      "seller_type": "Dealer",
+      "seller_name": "Gassmann GmbH",
+      "uid": 31953,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31953/cars_images/feed_363141/43409_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 41050,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3116,
+      "manufactured_year": 2003,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "575",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2003 Ferrari 575  - 575 M Maranello"
+    },
+    {
+      "nid": 1118780,
+      "alias": "car/ferrari/512/1993/1118780",
+      "seller_id": 32294,
+      "seller_type": "Dealer",
+      "seller_name": "E&R Classics",
+      "uid": 32294,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32294/cars_images/feed_874764/c0a6d4e13d42c8e4002b33a11157ea17.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 189950,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 89043,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1993,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1993 Ferrari 512  - TR | Historie Bekend | Europese Auto | 1993"
+    },
+    {
+      "nid": 1118775,
+      "alias": "car/ferrari/246-dino/1973/1118775",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/c05989dd20bbcf9795f800c5107da2e7.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1973 Ferrari 246 'Dino'"
+    },
+    {
+      "nid": 1118774,
+      "alias": "car/ferrari/575/2004/1118774",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/fe881b8a4725ddc7bc97b1fed01fd7d8.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 130000,
+          "high": 160000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 16893,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3116,
+      "manufactured_year": 2004,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "575",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2004 Ferrari 575"
+    },
+    {
+      "nid": 1118793,
+      "alias": "car/ferrari/599/2008/1118793",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/df27fe7cbadf82504cc1bf0d1f756104.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 275000,
+          "high": 325000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10994,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 4145,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "599",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2008 Ferrari 599"
+    },
+    {
+      "nid": 1118766,
+      "alias": "car/ferrari/f430/2008/1118766",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/3c39fe4b1522d789bdb91feff4825469.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 146900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 48247,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3573,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F430",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2008 Ferrari F430"
+    },
+    {
+      "nid": 1118754,
+      "alias": "car/ferrari/512/1981/1118754",
+      "seller_id": 32650,
+      "seller_type": "Dealer",
+      "seller_name": "Speed 8 Classics BV",
+      "uid": 32650,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32650/cars_images/32650-1118754-car-20260713_214907-dsc07699.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 279000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 44705,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 3,
+      "competition": 0,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1981,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "BE",
+        "listing_type": "Coupé"
+      },
+      "title": "1981 Ferrari 512  - 512BB"
+    },
+    {
+      "nid": 1118684,
+      "alias": "car/ferrari/308/1975/1118684",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118672/2c1ca3f0d4a75431676c59a4c443a7cf.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 62000,
+          "high": 69000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118298,
+      "auction_alias": "auction/classic-car-auctions-classics-sports-cars-breedenbroek-closing-july-22",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 39147,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1975,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34523/auctions/Classics/ferrari-dino-308-gt4-1975",
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1975 Ferrari 308"
+    },
+    {
+      "nid": 1118661,
+      "alias": "car/ferrari/250/1959/1118661",
+      "seller_id": 211714,
+      "seller_type": "Dealer",
+      "seller_name": "MOTIKON",
+      "uid": 211714,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/211714/cars_images/211714-1118661-car-20260713_150551-1.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 525000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4888,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 3,
+      "competition": 0,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1959,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "1959 Ferrari 250  - GT Coupé Pininfarina"
+    },
+    {
+      "nid": 1118649,
+      "alias": "car/ferrari/360/1999/1118649",
+      "seller_id": 213469,
+      "seller_type": "Dealer",
+      "seller_name": "San Matteo Garage",
+      "uid": 213469,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/213469/cars_images/213469-1118649-car-20260713_125305-screenshot_2026-07-13_124908.png?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 115000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 38000,
+        "unit": "kilometer"
+      },
+      "colour": 13,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3055,
+      "manufactured_year": 1999,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "360",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "1999 Ferrari 360  - FERRARI 360 MODENA"
+    },
+    {
+      "nid": 1118640,
+      "alias": "car/ferrari/488/2018/1118640",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1118637/a830fcf794fb79e627dfc82fa41c4f9c.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 320000,
+          "high": 400000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118632,
+      "auction_alias": "auction/sothebys-sealed-sealed-july-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 11445,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "488",
+        "country": "CH",
+        "listing_type": "Other"
+      },
+      "title": "2018 Ferrari 488  - 488 GTB 70th Anniversary"
+    },
+    {
+      "nid": 1118643,
+      "alias": "car/ferrari/365/1972/1118643",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1118637/6ad7271bd08cce7c2a61f7ab0ca21d05.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2300000,
+          "high": 2800000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118632,
+      "auction_alias": "auction/sothebys-sealed-sealed-july-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1972,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "NL",
+        "listing_type": "Other"
+      },
+      "title": "1972 Ferrari 365  - 365 GTS/4 Daytona Spider"
+    },
+    {
+      "nid": 1118639,
+      "alias": "car/ferrari/f50/1996/1118639",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1118637/641b38fb29905ad5b937c2b4ae8ff154.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 5000000,
+          "high": 6000000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118632,
+      "auction_alias": "auction/sothebys-sealed-sealed-july-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3128,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F50",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1996 Ferrari F50  - F50"
+    },
+    {
+      "nid": 1118629,
+      "alias": "car/ferrari/296/2024/1118629",
+      "seller_id": 143251,
+      "seller_type": "Dealer",
+      "seller_name": "Autoluce Modena ",
+      "uid": 143251,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/143251/cars_images/143251-1118629-car-20260713_101436-_dsc7788.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 17035,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "296",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2024 Ferrari 296  - GTB | VAT Exposed"
+    },
+    {
+      "nid": 1118625,
+      "alias": "car/ferrari/296/2023/1118625",
+      "seller_id": 231592,
+      "seller_type": "Dealer",
+      "seller_name": "The Francorchamps Motors Collection",
+      "uid": 231592,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231592/cars_images/231592-1118625-car-20260713_091957-sny03910.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 1,
+      "make": 145,
+      "model": 17035,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "296",
+        "country": "BE",
+        "listing_type": "Coupé"
+      },
+      "title": "2023 Ferrari 296  - GT3 - \"51\""
+    },
+    {
+      "nid": 1118569,
+      "alias": "car/ferrari/250/1962/1118569",
+      "seller_id": 92602,
+      "seller_type": "Dealer",
+      "seller_name": "Fantasy Junction",
+      "uid": 92602,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/92602/cars_images/feed_439209/26ceb083627e2daf3fc9ba6580b1d1b8.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1962,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1962 Ferrari 250"
+    },
+    {
+      "nid": 1077739,
+      "alias": "car/ferrari/812/2022/1077739",
+      "seller_id": 229237,
+      "seller_type": "Dealer",
+      "seller_name": "Supercar Group GmbH",
+      "uid": 229237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/229237/cars_images/unbenannt_3.png?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 419812,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 352783.193277311,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9090,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2022 Ferrari 812  - GTS//SUSP.-LIFTER//TITAN-EXHAUST//SURROUND-VIEW"
+    },
+    {
+      "nid": 1118541,
+      "alias": "car/ferrari/812/2021/1118541",
+      "seller_id": 31122,
+      "seller_type": "Dealer",
+      "seller_name": "DK Engineering",
+      "uid": 31122,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31122/cars_images/feed_308499/90ebcfdf140f6704dda788fb51342226.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 112,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Ferrari 812  - A Tailor Made Homage to 166 MM/53 0146E"
+    },
+    {
+      "nid": 1118461,
+      "alias": "car/ferrari/360/2000/1118461",
+      "seller_id": 232375,
+      "seller_type": "Dealer",
+      "seller_name": "Fleming's Ultimate Garage",
+      "uid": 232375,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/232375/cars_images/feed_1088812/e095e3d3cf33f0eb6ff973875362f434.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 129995,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32181,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3055,
+      "manufactured_year": 2000,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "360",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2000 Ferrari 360  - Modena Coupe"
+    },
+    {
+      "nid": 1118447,
+      "alias": "car/ferrari/250/1959/1118447",
+      "seller_id": 92602,
+      "seller_type": "Dealer",
+      "seller_name": "Fantasy Junction",
+      "uid": 92602,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/92602/cars_images/feed_439209/cf7c4be290ad61a7f6712a85d016fb11.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1959,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1959 Ferrari 250"
+    },
+    {
+      "nid": 1118439,
+      "alias": "car/ferrari/f12/2013/1118439",
+      "seller_id": 227291,
+      "seller_type": "Dealer",
+      "seller_name": "Route 66 Auctions",
+      "uid": 227291,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227291/cars_images/feed_1039195/a84fcb4384a8bdedd3383f3b9363fd13.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 131500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 999999,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 6473,
+      "manufactured_year": 2013,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F12",
+        "country": "NL",
+        "listing_type": "Other"
+      },
+      "title": "2013 Ferrari F12  - berlinetta | 2013 | Route 66 Auctions"
+    },
+    {
+      "nid": 1118416,
+      "alias": "car/ferrari/testarossa/1987/1118416",
+      "seller_id": 169410,
+      "seller_type": "Dealer",
+      "seller_name": "MECANICUS",
+      "uid": 169410,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/169410/cars_images/169410-1118416-car-20260710_182716-01.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 219900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 45000,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3138,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Testarossa",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "1987 Ferrari Testarossa  - Ferrari Testarossa *Monodado / Verde Scuro Metalizzato*"
+    },
+    {
+      "nid": 1118392,
+      "alias": "car/ferrari/f430/2009/1118392",
+      "seller_id": 143251,
+      "seller_type": "Dealer",
+      "seller_name": "Autoluce Modena ",
+      "uid": 143251,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/143251/cars_images/143251-1118392-car-20260710_151605-_dsc7694.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 140000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3573,
+      "manufactured_year": 2009,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F430",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2009 Ferrari F430  - F1 Coupé"
+    },
+    {
+      "nid": 1118388,
+      "alias": "car/ferrari/california/2014/1118388",
+      "seller_id": 33307,
+      "seller_type": "Dealer",
+      "seller_name": "GTO MOTORS",
+      "uid": 33307,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33307/cars_images/33307-1118388-car-20260713_102209-1_lfd_-_copia.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 131000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 69200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 4966,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "California",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2014 Ferrari California  - T 3.9"
+    },
+    {
+      "nid": 1118229,
+      "alias": "car/ferrari/250/1954/1118229",
+      "seller_id": 31185,
+      "seller_type": "Dealer",
+      "seller_name": "Axel Schuette Fine Cars e.K.",
+      "uid": 31185,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31185/cars_images/31185-1118229-car-20260709_161050-ferrari_250_gt_europa_-_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1150000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 11,
+      "condition": 7,
+      "competition": 0,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1954 Ferrari 250  - Europa GT"
+    },
+    {
+      "nid": 1118355,
+      "alias": "car/ferrari/512/1980/1118355",
+      "seller_id": 225170,
+      "seller_type": "Dealer",
+      "seller_name": "SML CarGroup GmbH",
+      "uid": 225170,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225170/cars_images/225170-1118355-car-20260710_111207-bb512_fdw_7590.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 279000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 24000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1980,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1980 Ferrari 512  - 512BB"
+    },
+    {
+      "nid": 1118284,
+      "alias": "car/ferrari/308/1981/1118284",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/3233cc38fe44d2b3226e169e0c2fc17d.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 89500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 42673,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1981,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1981 Ferrari 308  - GTSi \"Rosso Corsa\""
+    },
+    {
+      "nid": 1118275,
+      "alias": "car/ferrari/348/1994/1118275",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/f2be0769b16c207d2185f8236b349807.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 450000,
+          "high": 500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 22072,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3054,
+      "manufactured_year": 1994,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "348",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1994 Ferrari 348"
+    },
+    {
+      "nid": 1118292,
+      "alias": "car/ferrari/365/1975/1118292",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/873673a6b1f83855941ca2f59e27410f.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 325000,
+          "high": 375000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 15645,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1975,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1975 Ferrari 365"
+    },
+    {
+      "nid": 1118288,
+      "alias": "car/ferrari/f355/1997/1118288",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/6d3b18881688d15cb58367bf1b74c7e5.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 150000,
+          "high": 180000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 38362,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3126,
+      "manufactured_year": 1997,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F355",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1997 Ferrari F355"
+    },
+    {
+      "nid": 1118290,
+      "alias": "car/ferrari/365/1973/1118290",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/3a42d9564ba59ccda88b1a57cacdbd32.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 175000,
+          "high": 225000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 8390,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1973 Ferrari 365"
+    },
+    {
+      "nid": 1118291,
+      "alias": "car/ferrari/365/1973/1118291",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/013261faade4a1bf2e4e395e2edd1aca.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 200000,
+          "high": 250000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 64150,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1973 Ferrari 365"
+    },
+    {
+      "nid": 1118264,
+      "alias": "car/ferrari/275/1965/1118264",
+      "seller_id": 92602,
+      "seller_type": "Dealer",
+      "seller_name": "Fantasy Junction",
+      "uid": 92602,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/92602/cars_images/feed_439209/0f7c70b9657b4f1a7f90e15f7f55dc22.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3079,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "275",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1965 Ferrari 275"
+    },
+    {
+      "nid": 1118265,
+      "alias": "car/ferrari/246-dino/1974/1118265",
+      "seller_id": 92602,
+      "seller_type": "Dealer",
+      "seller_name": "Fantasy Junction",
+      "uid": 92602,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/92602/cars_images/feed_439209/978cc28ff2e75c629b7ac124fc8a9cd0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1974,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1974 Ferrari 246 'Dino'"
+    },
+    {
+      "nid": 1118258,
+      "alias": "car/ferrari/luce/2026/1118258",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/8a7b79ec4fb8b0b7b9cd46d1063f82ec.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1100000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 20681,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Luce",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2026 Ferrari Luce  - Luce 'Tailor Made'"
+    },
+    {
+      "nid": 1118240,
+      "alias": "car/ferrari/testarossa/1985/1118240",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1118240-car-20260709_172143-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50968,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3138,
+      "manufactured_year": 1985,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Testarossa",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1985 Ferrari Testarossa  - monospecchio - erstauslieferung auto becker, otto kern.\t"
+    },
+    {
+      "nid": 1118236,
+      "alias": "car/ferrari/550/1998/1118236",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1118236-car-20260709_165234-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 62501,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3115,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "550",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1998 Ferrari 550  - maranello - ersthand, erstlack, ch-auslieferung."
+    },
+    {
+      "nid": 1118233,
+      "alias": "car/ferrari/330/1966/1118233",
+      "seller_id": 31730,
+      "seller_type": "Dealer",
+      "seller_name": "Modena Motorsport GmbH",
+      "uid": 31730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31730/cars_images/31730-1118233-car-20260709_163854-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13849,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3094,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "330",
+        "country": "DE",
+        "listing_type": "Saloon"
+      },
+      "title": "1966 Ferrari 330  - gt 2+2, ac und servo ab werk!"
+    },
+    {
+      "nid": 1118222,
+      "alias": "car/ferrari/250/1961/1118222",
+      "seller_id": 31280,
+      "seller_type": "Dealer",
+      "seller_name": "Very Superior Old Cars - VSOC BV",
+      "uid": 31280,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31280/cars_images/31280-1100414-car-20260302_152442-vsoc_-_ferrari_gt_250-2.jpg?1784239203",
+      "has_video": true,
+      "country": "NL",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 22128,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 3,
+      "competition": 0,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1961,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1961 Ferrari 250  - GT Pininfarina Cabriolet Series II. Matching numbers, Ferrari Classiche Certified. Comes with factory Hardtop"
+    },
+    {
+      "nid": 1118219,
+      "alias": "car/ferrari/512/1984/1118219",
+      "seller_id": 31280,
+      "seller_type": "Dealer",
+      "seller_name": "Very Superior Old Cars - VSOC BV",
+      "uid": 31280,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31280/cars_images/31280-1109896-car-20260513_163853-vsoc_-_newsflash-6.jpg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 330000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1984,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1984 Ferrari 512  - 512 BBi 'Grigio Ferro' - Superb Ferrari 512 BBi, full service history and only 32.000 km! Sold new through Ferrari Paris Charles Pozzi"
+    },
+    {
+      "nid": 1118214,
+      "alias": "car/ferrari/456/2000/1118214",
+      "seller_id": 142883,
+      "seller_type": "Dealer",
+      "seller_name": "Heritage Motors Cars",
+      "uid": 142883,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/142883/cars_images/142883-1118214-car-20260709_114102-hmc_ferrari_456_gta-3.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 49900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 106500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3110,
+      "manufactured_year": 2000,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "456",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2000 Ferrari 456  - 456"
+    },
+    {
+      "nid": 1118180,
+      "alias": "car/ferrari/599/2011/1118180",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/203c0103a0f3f34d34af4934ad1486b9.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 5250000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5440,
+        "unit": "kilometer"
+      },
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 4145,
+      "manufactured_year": 2011,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "599",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2011 Ferrari 599"
+    },
+    {
+      "nid": 1118179,
+      "alias": "car/ferrari/f430/2006/1118179",
+      "seller_id": 32467,
+      "seller_type": "Dealer",
+      "seller_name": "Wim Prins",
+      "uid": 32467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32467/cars_images/feed_292131/0354e97c6fee3bd3f223bcffb0adc05a.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 124500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 64000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3573,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F430",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Ferrari F430  - 4.3 V8 | Challenge wheels | Top condition | Ceramic | Carbon Seats"
+    },
+    {
+      "nid": 1118175,
+      "alias": "car/ferrari/512/1995/1118175",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/cd769c83630fef962679adc14eedbdab.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 570000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 37700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1995,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "1995 Ferrari 512"
+    },
+    {
+      "nid": 1118164,
+      "alias": "car/ferrari/330/1966/1118164",
+      "seller_id": 42606,
+      "seller_type": "Dealer",
+      "seller_name": "Kessel Auto Lugano SA",
+      "uid": 42606,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42606/cars_images/feed_501562/7c40c073cecf8085219fd4a86f57fe6d.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 400000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3094,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "330",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1966 Ferrari 330"
+    },
+    {
+      "nid": 1118168,
+      "alias": "car/ferrari/550/1998/1118168",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/109f46cf4710900c1d9e0f18b30bb8bb.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 450000,
+          "high": 550000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 527,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3115,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "550",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1998 Ferrari 550"
+    },
+    {
+      "nid": 1118125,
+      "alias": "car/ferrari/f355/1999/1118125",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/b583c0c3830f29aa67e381d31af635fd.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3126,
+      "manufactured_year": 1999,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F355",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1999 Ferrari F355"
+    },
+    {
+      "nid": 1118127,
+      "alias": "car/ferrari/308/1979/1118127",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/dd2d53de6455a6b78b98d4de19f0ced3.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1979,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1979 Ferrari 308"
+    },
+    {
+      "nid": 1118128,
+      "alias": "car/ferrari/250/1964/1118128",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/5c47f7ae61776a687559b2d7fb6e024e.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1964,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1964 Ferrari 250"
+    },
+    {
+      "nid": 1118152,
+      "alias": "car/ferrari/f355/1997/1118152",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/499e2134762a5134998ea0e58c0e7e05.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3126,
+      "manufactured_year": 1997,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F355",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1997 Ferrari F355"
+    },
+    {
+      "nid": 1118133,
+      "alias": "car/ferrari/246-dino/1972/1118133",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/4e36d22a5f2c6478957188b2f09cf208.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 4579,
+      "manufactured_year": 1972,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "246 'Dino'",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1972 Ferrari 246 'Dino'"
+    },
+    {
+      "nid": 1118135,
+      "alias": "car/ferrari/575/2005/1118135",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/4b4abcfc1c83e4b2467de72ba65b20cc.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3116,
+      "manufactured_year": 2005,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "575",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2005 Ferrari 575"
+    },
+    {
+      "nid": 1118137,
+      "alias": "car/ferrari/275/1965/1118137",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/fe5d6f2461482b31d1163f56aa681c41.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2000000,
+          "high": 2200000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3079,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "275",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1965 Ferrari 275  - 275 GTB"
+    },
+    {
+      "nid": 1118097,
+      "alias": "car/ferrari/456/2003/1118097",
+      "seller_id": 154307,
+      "seller_type": "Dealer",
+      "seller_name": "CarJager",
+      "uid": 154307,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/154307/cars_images/154307-1118097-car-20260708_181100-ferrari-456-coupe-exteriors-0.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 145000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 45257,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3110,
+      "manufactured_year": 2003,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "456",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2003 Ferrari 456  - 456 M GT Scaglietti Bicolore"
+    },
+    {
+      "nid": 1118078,
+      "alias": "car/ferrari/parts/1998/1118078",
+      "seller_id": 123980,
+      "seller_type": "Dealer",
+      "seller_name": "Mugello Cars",
+      "uid": 123980,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/123980/cars_images/123980-1118078-car-20260708_140305-2mb_-_355_luggage_set_3.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3747,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Parts",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1998 Ferrari Parts  - F355 Luggage"
+    },
+    {
+      "nid": 1118072,
+      "alias": "car/ferrari/daytona-sp3/2024/1118072",
+      "seller_id": 233612,
+      "seller_type": "Dealer",
+      "seller_name": "SCUDERIA BELGICA",
+      "uid": 233612,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233612/cars_images/233612-1118072-car-20260708_130156-black_sp3.png?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 19987,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Daytona SP3",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2024 Ferrari Daytona SP3"
+    },
+    {
+      "nid": 1118067,
+      "alias": "car/ferrari/599/2011/1118067",
+      "seller_id": 233492,
+      "seller_name": "Auto Veloce Roma Srl",
+      "uid": 233492,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233492/cars_images/feed_1102300/837aea6de99f7939447e77f6555f48dd.jpeg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 279000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 4145,
+      "manufactured_year": 2011,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "599",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2011 Ferrari 599"
+    },
+    {
+      "nid": 1118054,
+      "alias": "car/ferrari/sf90/2026/1118054",
+      "seller_id": 37543,
+      "seller_type": "Dealer",
+      "seller_name": "TPE Ltd.",
+      "uid": 37543,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/37543/cars_images/sf90_xx_-_3.png?1784239203",
+      "has_video": false,
+      "country": "JP",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 240000000,
+          "currency": "JPY"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 90,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 14995,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "SF90",
+        "country": "JP",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2026 Ferrari SF90  - XX Spider"
+    },
+    {
+      "nid": 1118038,
+      "alias": "car/ferrari/12cilindri/2025/1118038",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/623f3e6d14b807114efec11a6f010aa3.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 2149995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4000,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 19973,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "12Cilindri",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2025 Ferrari 12Cilindri"
+    },
+    {
+      "nid": 1118034,
+      "alias": "car/ferrari/296/2024/1118034",
+      "seller_id": 32467,
+      "seller_type": "Dealer",
+      "seller_name": "Wim Prins",
+      "uid": 32467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32467/cars_images/feed_292131/b0809c67f7caa12102d26689bed1faa6.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 324500,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 268181.818181818,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 15165,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 17035,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "296",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2024 Ferrari 296  - 3.0 V6"
+    },
+    {
+      "nid": 1118020,
+      "alias": "car/ferrari/348/1991/1118020",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/22dfa301ac268e8fce216c36dbcbd715.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 60000,
+          "high": 70000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3054,
+      "manufactured_year": 1991,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "348",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1991 Ferrari 348"
+    },
+    {
+      "nid": 1118004,
+      "alias": "car/ferrari/512/1984/1118004",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/c21cf26947d30e7c2aa5d24ab61e9d4d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 300000,
+          "high": 350000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33466,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 11072,
+      "manufactured_year": 1984,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "512",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1984 Ferrari 512"
+    },
+    {
+      "nid": 1118003,
+      "alias": "car/ferrari/360/2004/1118003",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/0235eb982aa201dd7a7ef479712edb25.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 200000,
+          "high": 250000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 20223,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3055,
+      "manufactured_year": 2004,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "360",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2004 Ferrari 360"
+    },
+    {
+      "nid": 1117999,
+      "alias": "car/ferrari/288-gto/1985/1117999",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/69705ef77c3cfe1c22f64c38affaf684.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 9000000,
+          "high": 11000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3082,
+      "manufactured_year": 1985,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "288 GTO",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1985 Ferrari 288 GTO  - 288 GTO"
+    },
+    {
+      "nid": 1117964,
+      "alias": "car/ferrari/308/1981/1117964",
+      "seller_id": 32057,
+      "seller_type": "Dealer",
+      "seller_name": "Marreyt Classics",
+      "uid": 32057,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32057/cars_images/32057-1117964-car-20260707_145746-fer306gtb.1.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 99950,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21061,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1981,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "BE",
+        "listing_type": "Coupé"
+      },
+      "title": "1981 Ferrari 308  - GTBi"
+    },
+    {
+      "nid": 1117921,
+      "alias": "car/ferrari/f430/2006/1117921",
+      "seller_id": 31351,
+      "seller_type": "Dealer",
+      "seller_name": "Carugati Automobiles SA",
+      "uid": 31351,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31351/cars_images/31351-1117921-car-20260707_103532-01.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 1,
+      "make": 145,
+      "model": 3573,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "F430",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Ferrari F430  - F430 GTC - 1 of 38"
+    },
+    {
+      "nid": 1117903,
+      "alias": "car/ferrari/458/2015/1117903",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/ce299ff5aa4eb504c5e8dfd95b523f95.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2200000,
+          "high": 2500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 175,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 8140,
+      "manufactured_year": 2015,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "458",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2015 Ferrari 458"
+    },
+    {
+      "nid": 1117870,
+      "alias": "car/ferrari/308/1976/1117870",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/401b5d0b135e20baf8646ba7ac029e74.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1976,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1976 Ferrari 308"
+    },
+    {
+      "nid": 1117873,
+      "alias": "car/ferrari/812/2024/1117873",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/04d823f549590911a1fea38f75cd948b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2024 Ferrari 812"
+    },
+    {
+      "nid": 1117836,
+      "alias": "car/ferrari/360/2002/1117836",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/d2defea1e1b0988c1e58dcb23c5f46af.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 150000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 47400,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3055,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "360",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2002 Ferrari 360"
+    },
+    {
+      "nid": 1117771,
+      "alias": "car/ferrari/365/1969/1117771",
+      "seller_id": 191498,
+      "seller_type": "Dealer",
+      "seller_name": "Broad Arrow Private Sales, A Hagerty Company",
+      "uid": 191498,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/191498/cars_images/feed_885115/7e475d7a7b36dd303b189176bd856d16.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 525000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32441,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3103,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "365",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1969 Ferrari 365"
+    },
+    {
+      "nid": 1117741,
+      "alias": "car/ferrari/360/2004/1117741",
+      "seller_id": 31463,
+      "seller_type": "Dealer",
+      "seller_name": "Mechatronik",
+      "uid": 31463,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31463/cars_images/31463-1117741-car-20260706_153538-1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9999,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 1,
+      "make": 145,
+      "model": 3055,
+      "manufactured_year": 2004,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "360",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2004 Ferrari 360  - GTC"
+    },
+    {
+      "nid": 1117722,
+      "alias": "car/ferrari/575/2006/1117722",
+      "seller_id": 160423,
+      "seller_type": "Dealer",
+      "seller_name": "Asphalt Classics",
+      "uid": 160423,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/160423/cars_images/160423-1093250-car-20260107_115013-575_superamerica_bleu_tdf-1.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 394900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 3116,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "575",
+        "country": "FR",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2006 Ferrari 575  - Superamerica"
+    },
+    {
+      "nid": 1117712,
+      "alias": "car/ferrari/812/2021/1117712",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/6108_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1560000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 8800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2021 Ferrari 812  - GTS "
+    },
+    {
+      "nid": 1117635,
+      "alias": "car/ferrari/308/1977/1117635",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/6426d2ec2a3037050aa1f0c6a18ff998.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 39950,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 145,
+      "model": 3086,
+      "manufactured_year": 1977,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "308",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1977 Ferrari 308"
+    },
+    {
+      "nid": 1117567,
+      "alias": "car/ferrari/superamerica/2005/1117567",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/4f5a697a23709e72b151b60224562ce1.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 900000,
+          "high": 1200000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 16925,
+      "manufactured_year": 2005,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Superamerica",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2005 Ferrari Superamerica  - Superamerica"
+    },
+    {
+      "nid": 1117568,
+      "alias": "car/ferrari/250/1958/1117568",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/299e7966250469548ce23319dab4d3d8.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 4000000,
+          "high": 5000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 3052,
+      "manufactured_year": 1958,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "250",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1958 Ferrari 250  - 250 GT Cabriolet Series I"
+    },
+    {
+      "nid": 1117478,
+      "alias": "car/ferrari/purosangue/2023/1117478",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/c7f87f37500ae50d19fa2e7b019e34ec.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1949995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6600,
+        "unit": "kilometer"
+      },
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 16836,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "Purosangue",
+        "country": "AE",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Ferrari Purosangue"
+    },
+    {
+      "nid": 1117480,
+      "alias": "car/ferrari/812/2021/1117480",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/5be94b362c23f2fce33ffc58e9dc01b5.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1699995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4300,
+        "unit": "kilometer"
+      },
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2021 Ferrari 812"
+    },
+    {
+      "nid": 1117422,
+      "alias": "car/ferrari/812/2019/1117422",
+      "seller_id": 33307,
+      "seller_type": "Dealer",
+      "seller_name": "GTO MOTORS",
+      "uid": 33307,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33307/cars_images/33307-1117422-car-20260713_162649-1_lfd_edit_-_copia.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 348000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 145,
+      "model": 12827,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Ferrari",
+        "model": "812",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Ferrari 812  - Superfast"
+    }
+  ]
+}

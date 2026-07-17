@@ -8,7 +8,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
  */
 require("dotenv").config();
 const api_1 = __importDefault(require("./api"));
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8082;
 api_1.default.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
 });

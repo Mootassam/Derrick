@@ -1,0 +1,4647 @@
+{
+  "count": 291,
+  "items": [
+    {
+      "nid": 949811,
+      "alias": "car/bentley/r-type/1955/949811",
+      "seller_id": 139772,
+      "seller_type": "Dealer",
+      "seller_name": "Hageman Motorcars",
+      "uid": 139772,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/139772/cars_images/139772-949811-car-20240430_232833-bc22ld_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 850000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 1248,
+      "manufactured_year": 1955,
+      "analytics": {
+        "make": "Bentley",
+        "model": "R Type",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "1955 Bentley R Type  - Continental H.J. Mulliner Fastback"
+    },
+    {
+      "nid": 1119058,
+      "alias": "car/bentley/continental/2002/1119058",
+      "seller_id": 31672,
+      "seller_type": "Dealer",
+      "seller_name": "Niki Hasler AG - Official Ferrari Dealer",
+      "uid": 31672,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31672/cars_images/31672-1119058-car-20260716_142236-img_9537.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 275000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 65000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2002 Bentley Continental  - Continental T"
+    },
+    {
+      "nid": 1092271,
+      "alias": "car/bentley/continental/1996/1092271",
+      "seller_id": 31672,
+      "seller_type": "Dealer",
+      "seller_name": "Niki Hasler AG - Official Ferrari Dealer",
+      "uid": 31672,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31672/cars_images/31672-1092271-car-20251223_163438-img_2055.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 350000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 69250,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1996 Bentley Continental  - Continental T"
+    },
+    {
+      "nid": 1118998,
+      "alias": "car/bentley/s2/1961/1118998",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/92240545c02be32486b479d39d4fc382.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 21750,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 1250,
+      "manufactured_year": 1961,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S2",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1961 Bentley S2  - Right-Hand-Drive"
+    },
+    {
+      "nid": 1118863,
+      "alias": "car/bentley/continental-gt/2024/1118863",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/be05e97149fdcf89d0e88632ac389e5a.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 175000,
+          "high": 225000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2024 Bentley Continental GT  - Continental GT V8 S"
+    },
+    {
+      "nid": 1118777,
+      "alias": "car/bentley/speed-six/1930/1118777",
+      "seller_id": 31134,
+      "seller_type": "Dealer",
+      "seller_name": "Fiskens",
+      "uid": 31134,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31134/cars_images/feed_705115/8a4f31723f0f0a77ce1e495cbb755040.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2029,
+      "manufactured_year": 1930,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Speed Six",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1930 Bentley Speed Six"
+    },
+    {
+      "nid": 1118727,
+      "alias": "car/bentley/arnage/2000/1118727",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118682/2ea5c6b124cfefbd63c666b7b2c9cce9.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 25000,
+          "high": 29000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118381,
+      "auction_alias": "auction/classic-car-auctions-exclusives-youngtimers-breedenbroek-many-low-mileage-closing-july-21",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 158713,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2000,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34564/auctions/Classics/bentley-arnage-2000",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "2000 Bentley Arnage"
+    },
+    {
+      "nid": 1118728,
+      "alias": "car/bentley/flying-spur/2005/1118728",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118682/aa68e2dae0d5ad1e92dd72080a19aca5.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 22000,
+          "high": 28000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118381,
+      "auction_alias": "auction/classic-car-auctions-exclusives-youngtimers-breedenbroek-many-low-mileage-closing-july-21",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 127480,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11818,
+      "manufactured_year": 2005,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34565/auctions/Classics/bentley-flying-spur-2005",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Flying Spur",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "2005 Bentley Flying Spur"
+    },
+    {
+      "nid": 1118732,
+      "alias": "car/bentley/arnage/2006/1118732",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118682/53961429f0ef2de982479143f59fa116.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 33000,
+          "high": 39000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118381,
+      "auction_alias": "auction/classic-car-auctions-exclusives-youngtimers-breedenbroek-many-low-mileage-closing-july-21",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 71037,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2006,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34569/auctions/Classics/bentley-arnage-2006",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "2006 Bentley Arnage"
+    },
+    {
+      "nid": 1118738,
+      "alias": "car/bentley/arnage/2003/1118738",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118682/eead150fb47a8a503aba7ceb0205e070.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 35000,
+          "high": 39000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118381,
+      "auction_alias": "auction/classic-car-auctions-exclusives-youngtimers-breedenbroek-many-low-mileage-closing-july-21",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 78725,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2003,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34577/auctions/Classics/bentley-arnage-lang-2003",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "2003 Bentley Arnage"
+    },
+    {
+      "nid": 1118648,
+      "alias": "car/bentley/bentayga/2016/1118648",
+      "seller_id": 213469,
+      "seller_type": "Dealer",
+      "seller_name": "San Matteo Garage",
+      "uid": 213469,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/213469/cars_images/213469-1118648-car-20260713_124207-screenshot_2026-07-13_123533.png?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 118000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 36000,
+        "unit": "kilometer"
+      },
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2016 Bentley Bentayga  - BENTLEY BENTAYGA"
+    },
+    {
+      "nid": 1118169,
+      "alias": "car/bentley/turbo/1997/1118169",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/62e6a185d6515c6f58e4ce3f7f27b06f.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 15000,
+          "high": 20000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 95700,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1253,
+      "manufactured_year": 1997,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-195a---1997-bentley-turbo-rt-400-lwb/?lot=20098",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Turbo",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1997 Bentley Turbo"
+    },
+    {
+      "nid": 1118171,
+      "alias": "car/bentley/mulsanne/2012/1118171",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/09370926a296ad32c6d9aca10c4d3f27.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 45000,
+          "high": 52000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 36500,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 2012,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-254a---2012-bentley-mulsanne/?lot=20096",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "2012 Bentley Mulsanne"
+    },
+    {
+      "nid": 1118123,
+      "alias": "car/bentley/r-type/1954/1118123",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/fbeb74b388fce77a5e3727013b257001.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1248,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Bentley",
+        "model": "R Type",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1954 Bentley R Type"
+    },
+    {
+      "nid": 1118143,
+      "alias": "car/bentley/azure/1996/1118143",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/657b3e3055f82a31f8730cfdc0a3f2a3.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1241,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Azure",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1996 Bentley Azure"
+    },
+    {
+      "nid": 1117998,
+      "alias": "car/bentley/4-12-litre/1931/1117998",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/f805fba64eb93c8de8babeaab95663e7.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1239,
+      "manufactured_year": 1931,
+      "analytics": {
+        "make": "Bentley",
+        "model": "4 1/2 Litre",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1931 Bentley 4 1/2 Litre"
+    },
+    {
+      "nid": 1117828,
+      "alias": "car/bentley/continental-gt/2022/1117828",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/c756e0bb02a00f90895e0532e8f33a7b.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 149950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4000,
+        "unit": "mile"
+      },
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2022 Bentley Continental GT  - V8"
+    },
+    {
+      "nid": 1117675,
+      "alias": "car/bentley/s1/1958/1117675",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/24ef456359d9c67545526db49451ccc7.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 39000,
+          "high": 50000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 55268,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1249,
+      "manufactured_year": 1958,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-253---1958-bentley-s1/?lot=20078",
+      "analytics": {
+        "make": "Bentley",
+        "model": "S1",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1958 Bentley S1"
+    },
+    {
+      "nid": 1117625,
+      "alias": "car/bentley/continental-gt/2007/1117625",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/b4f11bae0d3e20a3aa4e5c7ae330d5a1.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 112000,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2007,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-184---2007-bentley-continental-gtc/?lot=20075",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2007 Bentley Continental GT"
+    },
+    {
+      "nid": 1117390,
+      "alias": "car/bentley/bentayga/2022/1117390",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/8e61726fa45a4bd73683bbe24174fde5.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 799995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 30500,
+        "unit": "kilometer"
+      },
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "AE",
+        "listing_type": "SUV"
+      },
+      "title": "2022 Bentley Bentayga"
+    },
+    {
+      "nid": 1117265,
+      "alias": "car/bentley/brooklands/2008/1117265",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/03879366637bb77954f33a4a255813d1.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 110000,
+          "high": 125000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26000,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 4307,
+      "manufactured_year": 2008,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-249---2008-bentley-brooklands/?lot=20068",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Brooklands",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2008 Bentley Brooklands"
+    },
+    {
+      "nid": 1117224,
+      "alias": "car/bentley/continental/1990/1117224",
+      "seller_id": 83205,
+      "seller_type": "Dealer",
+      "seller_name": "AD Sportscars",
+      "uid": 83205,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/83205/cars_images/83205-1117224-car-20260701_112250-_dsc7222.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 97900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 77730,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1990,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1990 Bentley Continental  - Convertible | Dealer Maintained"
+    },
+    {
+      "nid": 1116581,
+      "alias": "car/bentley/r-type/1953/1116581",
+      "seller_id": 31693,
+      "seller_type": "Dealer",
+      "seller_name": "Grand Prix Classics",
+      "uid": 31693,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31693/cars_images/31693-1116581-car-20260630_232719-img_2936.jpg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 1248,
+      "manufactured_year": 1953,
+      "analytics": {
+        "make": "Bentley",
+        "model": "R Type",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1953 Bentley R Type  - Continental 2 Door Saloon"
+    },
+    {
+      "nid": 1116984,
+      "alias": "car/bentley/3-12-litre/1935/1116984",
+      "seller_id": 226579,
+      "seller_type": "Dealer",
+      "seller_name": "SuperStratos Enterprise AG",
+      "uid": 226579,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/226579/cars_images/226579/1780491151785/2f4610906214add52ce22b04432c560b.webp?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 79800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 14,
+      "competition": 0,
+      "make": 116,
+      "model": 1778,
+      "manufactured_year": 1935,
+      "analytics": {
+        "make": "Bentley",
+        "model": "3 1/2 Litre",
+        "country": "CH"
+      },
+      "title": "1935 Bentley 3 1/2 Litre"
+    },
+    {
+      "nid": 1116980,
+      "alias": "car/bentley/azure/2002/1116980",
+      "seller_id": 226579,
+      "seller_type": "Dealer",
+      "seller_name": "SuperStratos Enterprise AG",
+      "uid": 226579,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/226579/cars_images/226579/1780496297780/36da0b6947d713459b2c4a64352cc013.webp?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 84800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 43000,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "competition": 0,
+      "make": 116,
+      "model": 1241,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Azure",
+        "country": "CH"
+      },
+      "title": "2002 Bentley Azure"
+    },
+    {
+      "nid": 1116991,
+      "alias": "car/bentley/turbo/1987/1116991",
+      "seller_id": 226579,
+      "seller_type": "Dealer",
+      "seller_name": "SuperStratos Enterprise AG",
+      "uid": 226579,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/226579/cars_images/226579/1780495162699/730e0cc60f9729a3208746d896af727a.webp?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 19800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 135000,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "competition": 0,
+      "make": 116,
+      "model": 1253,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Turbo",
+        "country": "CH"
+      },
+      "title": "1987 Bentley Turbo"
+    },
+    {
+      "nid": 1116849,
+      "alias": "car/bentley/arnage/2007/1116849",
+      "seller_id": 229040,
+      "seller_type": "Dealer",
+      "seller_name": "Leuba Collection",
+      "uid": 229040,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/229040/cars_images/229040-1116849-car-20260627_123853-img_3114.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 39900,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 36910.2682701203,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49872,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "CH",
+        "listing_type": "Saloon"
+      },
+      "title": "2007 Bentley Arnage  - Arnage R - RESERVED !"
+    },
+    {
+      "nid": 1116832,
+      "alias": "car/bentley/continental-gt/2022/1116832",
+      "seller_id": 33412,
+      "seller_type": "Dealer",
+      "seller_name": "Hallier Classic Cars GmbH",
+      "uid": 33412,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33412/cars_images/feed_195478/157382296_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 189900,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 159579.831932773,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18711,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Bentley Continental GT  - Continental GTV8, Mulliner Driving Specification..."
+    },
+    {
+      "nid": 1116808,
+      "alias": "car/bentley/continental/1992/1116808",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/b1a9f7333262939c35ed1856a25e8db7.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1992,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1992 Bentley Continental"
+    },
+    {
+      "nid": 1116607,
+      "alias": "car/bentley/continental/1993/1116607",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/7be4c4c3d35639f318fe375d77ffa51f.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 14000,
+          "high": 18000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 75000,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1993,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-195---1993-bentley-continental-r/?lot=20012",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1993 Bentley Continental"
+    },
+    {
+      "nid": 1116606,
+      "alias": "car/bentley/azure/1997/1116606",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/efe85b4bd33fd9e82aba06faf20e2a62.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 38000,
+          "high": 46000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 102650,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1241,
+      "manufactured_year": 1997,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-264---1997-bentley-azure/?lot=19979",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Azure",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1997 Bentley Azure"
+    },
+    {
+      "nid": 1116603,
+      "alias": "car/bentley/speed-six/1929/1116603",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/57e1c30de62f09b305079e146e1620d0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2029,
+      "manufactured_year": 1929,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Speed Six",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1929 Bentley Speed Six"
+    },
+    {
+      "nid": 1116589,
+      "alias": "car/bentley/continental-gt/2022/1116589",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/0a9d96635ce7747a6510e722fe70c825.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 149950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13900,
+        "unit": "mile"
+      },
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2022 Bentley Continental GT  - GTC V8 Azure"
+    },
+    {
+      "nid": 1116543,
+      "alias": "car/bentley/4-14-litre/1939/1116543",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/eed880858fa823236125962c70e3ffc4.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 80000,
+          "high": 100000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1779,
+      "manufactured_year": 1939,
+      "analytics": {
+        "make": "Bentley",
+        "model": "4 1/4 Litre",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1939 Bentley 4 1/4 Litre"
+    },
+    {
+      "nid": 1116539,
+      "alias": "car/bentley/continental/1988/1116539",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/0c5eab5a77e956b6a9f5d85f6c79ec5d.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 70000,
+          "high": 80000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1988,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1988 Bentley Continental"
+    },
+    {
+      "nid": 1116486,
+      "alias": "car/bentley/4-12-litre/1927/1116486",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/ad81eaa540b90c29258ff45ab744b922.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 425000,
+          "high": 525000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1239,
+      "manufactured_year": 1927,
+      "analytics": {
+        "make": "Bentley",
+        "model": "4 1/2 Litre",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1927 Bentley 4 1/2 Litre"
+    },
+    {
+      "nid": 1116389,
+      "alias": "car/bentley/t1/1967/1116389",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/bf38f8be0e6a0eff91aeb72441deffd1.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 13000,
+          "high": 19000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 38390,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1780,
+      "manufactured_year": 1967,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-127---1967-bentley-t-series-two-door-coup-by-mulliner-park-ward/?lot=20000",
+      "analytics": {
+        "make": "Bentley",
+        "model": "T1",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1967 Bentley T1"
+    },
+    {
+      "nid": 1116372,
+      "alias": "car/bentley/turbo/1994/1116372",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/84ea919c6cb7622b60bd999e1c7eef1f.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 9000,
+          "high": 12000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 77651,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1253,
+      "manufactured_year": 1994,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-162---1994-bentley-turbo-r/?lot=19960",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Turbo",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1994 Bentley Turbo"
+    },
+    {
+      "nid": 1116377,
+      "alias": "car/bentley/azure/2006/1116377",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/9ff2341925c2833e1f4de47be2168aec.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 75000,
+          "high": 90000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33900,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1241,
+      "manufactured_year": 2006,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-269---2006-bentley-azure/?lot=19978",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Azure",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2006 Bentley Azure"
+    },
+    {
+      "nid": 1116320,
+      "alias": "car/bentley/continental/1995/1116320",
+      "seller_id": 31431,
+      "seller_type": "Dealer",
+      "seller_name": "Vantage Motorworks, Inc.",
+      "uid": 31431,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31431/cars_images/feed_611206/47c19452b6bea18b5123dd84bedfaa84.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 23405,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1995,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "US",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1995 Bentley Continental  - Convertible"
+    },
+    {
+      "nid": 1116325,
+      "alias": "car/bentley/continental-gt/2025/1116325",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/c9d7273a50a5981b62f42a9e7f834dfb.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1499995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 900,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Bentley Continental GT"
+    },
+    {
+      "nid": 1116215,
+      "alias": "car/bentley/r-type/1953/1116215",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/f3bb057bb265600f9f49f2a8b59755cf.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 800000,
+          "high": 1200000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 81435,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 1248,
+      "manufactured_year": 1953,
+      "analytics": {
+        "make": "Bentley",
+        "model": "R Type",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1953 Bentley R Type"
+    },
+    {
+      "nid": 1116107,
+      "alias": "car/bentley/continental/2000/1116107",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/9be0c0a66dd40a336249c7d736285117.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 59950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 106000,
+        "unit": "mile"
+      },
+      "colour": 11,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 2000,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2000 Bentley Continental  - R Mulliner Widebody"
+    },
+    {
+      "nid": 1116108,
+      "alias": "car/bentley/mulsanne/2016/1116108",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/ba30b644fd051931918be633557e17b6.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 94950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 43000,
+        "unit": "mile"
+      },
+      "colour": 9,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2016 Bentley Mulsanne  - Speed V8"
+    },
+    {
+      "nid": 1116079,
+      "alias": "car/bentley/turbo/1990/1116079",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/7f0a1ca4295ae0a1f8c1e5817cd6b57f.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 166000,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1253,
+      "manufactured_year": 1990,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-110---1990-bentley-turbo-r/?lot=19936",
+      "analytics": {
+        "make": "Bentley",
+        "model": "Turbo",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1990 Bentley Turbo"
+    },
+    {
+      "nid": 1115806,
+      "alias": "car/bentley/continental/1988/1115806",
+      "seller_id": 31431,
+      "seller_type": "Dealer",
+      "seller_name": "Vantage Motorworks, Inc.",
+      "uid": 31431,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31431/cars_images/feed_611206/2368c86576e4f853f246ed9651843e5d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 46050,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1988,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "US",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1988 Bentley Continental  - 2 Door"
+    },
+    {
+      "nid": 1115743,
+      "alias": "car/bentley/eight/1984/1115743",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/8ded839cd1516654a46c21f3b633b5c8.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 18750,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 100515,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1245,
+      "manufactured_year": 1984,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Eight",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "1984 Bentley Eight  - Saloon \"Acrylic White over Parchment\""
+    },
+    {
+      "nid": 1115658,
+      "alias": "car/bentley/s1/1956/1115658",
+      "seller_id": 31212,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Automobiles Worldwide Ltd",
+      "uid": 31212,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31212/cars_images/31212-1115658-car-20260618_144649-img_7307.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 75018,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 1249,
+      "manufactured_year": 1956,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S1",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1956 Bentley S1  - Standard Steel Saloon"
+    },
+    {
+      "nid": 1115398,
+      "alias": "car/bentley/6-12-litre/1927/1115398",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/96ec23904eefdea01788852bcc6b734c.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 600000,
+          "high": 800000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 4381,
+      "manufactured_year": 1927,
+      "analytics": {
+        "make": "Bentley",
+        "model": "6 1/2 Litre",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1927 Bentley 6 1/2 Litre  - 6½-Litre Short Chassis \"Bob-Tail\" Tourer"
+    },
+    {
+      "nid": 1114914,
+      "alias": "car/bentley/continental-gt/2016/1114914",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/42b1040992faef14875c98988ae0d281.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2016 Bentley Continental GT  - GT V8S"
+    },
+    {
+      "nid": 1077026,
+      "alias": "car/bentley/t1/1969/1077026",
+      "seller_id": 32260,
+      "seller_type": "Dealer",
+      "seller_name": "Albion Motorcars",
+      "uid": 32260,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32260/cars_images/albi40401_0.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 44500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 34800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 1780,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Bentley",
+        "model": "T1",
+        "country": "BE",
+        "listing_type": "Saloon"
+      },
+      "title": "1969 Bentley T1  - European specification LHD"
+    },
+    {
+      "nid": 1114219,
+      "alias": "car/bentley/continental-gt/2007/1114219",
+      "seller_id": 172467,
+      "seller_type": "Dealer",
+      "seller_name": "Carrosso Classic- & Sportscars",
+      "uid": 172467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/172467/cars_images/feed_814551/075fab109ef655bf87658a6b0e0087c9.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 49500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 97184,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2007 Bentley Continental GT  - 6.0 W12"
+    },
+    {
+      "nid": 1114035,
+      "alias": "car/bentley/s3/1962/1114035",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/2e3b02bf1dfb284d7e7078fe498fd469.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 25000,
+          "high": 30000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 64000,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1251,
+      "manufactured_year": 1962,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-224---1962-bentley-s3/?lot=19856",
+      "analytics": {
+        "make": "Bentley",
+        "model": "S3",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1962 Bentley S3"
+    },
+    {
+      "nid": 1113773,
+      "alias": "car/bentley/r-type/1954/1113773",
+      "seller_id": 234846,
+      "seller_type": "Dealer",
+      "seller_name": "Made-in-US.com",
+      "uid": 234846,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234846/cars_images/feed_1113125/637d6d914a3b92a2db41e424a113db1d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 13000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 25,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 7,
+      "competition": null,
+      "make": 116,
+      "model": 1248,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Bentley",
+        "model": "R Type",
+        "country": "US",
+        "listing_type": "Saloon"
+      },
+      "title": "1954 Bentley R Type  - R-Type\nSaloon"
+    },
+    {
+      "nid": 1113142,
+      "alias": "car/bentley/mulsanne/1984/1113142",
+      "seller_id": 234846,
+      "seller_name": "Made-in-US.com",
+      "uid": 234846,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234846/cars_images/feed_1113125/b820a61ab88e3b95c9ccb4dd1936b4a8.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 13000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 99,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 7,
+      "competition": null,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 1984,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "US",
+        "listing_type": "Saloon"
+      },
+      "title": "1984 Bentley Mulsanne  - Mulsanne\nSaloon"
+    },
+    {
+      "nid": 1113000,
+      "alias": "car/bentley/continental-gt/2007/1113000",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/715cfd3e1ae760c6376fa3f412132235.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 36500,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2007 Bentley Continental GT  - GTC Convertible"
+    },
+    {
+      "nid": 1112999,
+      "alias": "car/bentley/s3/1963/1112999",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/82c2fc0030c7330fc294bc7c63dde0bf.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 46500,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 1251,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S3",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1963 Bentley S3  - Left-Hand-Drive"
+    },
+    {
+      "nid": 1112906,
+      "alias": "car/bentley/continental/1988/1112906",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/222bfa9c7f9fb916a87c1b1636ceab0d.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 45000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1988,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1988 Bentley Continental  - Convertible"
+    },
+    {
+      "nid": 1112905,
+      "alias": "car/bentley/continental/1993/1112905",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/2c2013562c48b12f8a8fd7da7c869d09.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 17000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1993,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1993 Bentley Continental  - IV Convertible"
+    },
+    {
+      "nid": 1112809,
+      "alias": "car/bentley/mulsanne/2011/1112809",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/04d0abb05b292428ab4aa2d4ad8afa33.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 134900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18650,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 2011,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "FR",
+        "listing_type": "Saloon"
+      },
+      "title": "2011 Bentley Mulsanne  - (II) V8 6.75 513"
+    },
+    {
+      "nid": 1112766,
+      "alias": "car/bentley/azure/2007/1112766",
+      "seller_id": 154307,
+      "seller_type": "Dealer",
+      "seller_name": "CarJager",
+      "uid": 154307,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/154307/cars_images/154307-1112766-car-20260604_180127-bentley-azure-cabriolet-roadster-exteriors-0.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 169900,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 1241,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Azure",
+        "country": "FR",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2007 Bentley Azure  - phase II"
+    },
+    {
+      "nid": 1112623,
+      "alias": "car/bentley/continental-gt/2009/1112623",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/a871f2a7653f9610cd7f846aadd3448d.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 59900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 118900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2009,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2009 Bentley Continental GT  - Continental GTC Speed 6.0"
+    },
+    {
+      "nid": 1112627,
+      "alias": "car/bentley/continental-gt/2006/1112627",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/5d89ae9efeef83cb446596e810fc69d0.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 26900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 82900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Bentley Continental GT  - Continental GT 6.0"
+    },
+    {
+      "nid": 1112496,
+      "alias": "car/bentley/bentayga/2016/1112496",
+      "seller_id": 234006,
+      "seller_type": "Dealer",
+      "seller_name": "Casa GTO",
+      "uid": 234006,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234006/cars_images/234006-1112496-car-20260603_103813-l1031790.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 98800,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 81900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "IT",
+        "listing_type": "SUV"
+      },
+      "title": "2016 Bentley Bentayga  - 6.0 W12"
+    },
+    {
+      "nid": 1112223,
+      "alias": "car/bentley/flying-spur/2006/1112223",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/4120c2a40eb6fa4a14aead027887da40.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 12750,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 11818,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Flying Spur",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2006 Bentley Flying Spur"
+    },
+    {
+      "nid": 1112000,
+      "alias": "car/bentley/s3/1965/1112000",
+      "seller_id": 31212,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Automobiles Worldwide Ltd",
+      "uid": 31212,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31212/cars_images/31212-1112000-car-20260529_182700-img_6860.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 28000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 1251,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S3",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1965 Bentley S3  - Standard Steel Saloon"
+    },
+    {
+      "nid": 1111856,
+      "alias": "car/bentley/continental/2000/1111856",
+      "seller_id": 55840,
+      "seller_type": "Dealer",
+      "seller_name": " Eleven Cars",
+      "uid": 55840,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/55840/cars_images/55840-1111856-car-20260528_124220-11_187.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 220000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 45000,
+        "unit": "kilometer"
+      },
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 2000,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "FR",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2000 Bentley Continental  - SC"
+    },
+    {
+      "nid": 1111768,
+      "alias": "car/bentley/3-4-12-litre/1924/1111768",
+      "seller_id": 32296,
+      "seller_type": "Dealer",
+      "seller_name": "Charles Prince Classic Cars",
+      "uid": 32296,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32296/cars_images/32296-1111768-car-20260527_103338-_1320319web.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 2,
+      "colour": 6,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 5095,
+      "manufactured_year": 1924,
+      "analytics": {
+        "make": "Bentley",
+        "model": "3/ 4 1/2 Litre",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1924 Bentley 3/ 4 1/2 Litre  - Le Mans"
+    },
+    {
+      "nid": 1111674,
+      "alias": "car/bentley/continental-gt/2006/1111674",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/3c6efe330b85f3db64cc04bc96034009.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 39900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 154900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Bentley Continental GT"
+    },
+    {
+      "nid": 1111564,
+      "alias": "car/bentley/mulsanne/2017/1111564",
+      "seller_id": 104095,
+      "seller_type": "Dealer",
+      "seller_name": "Euro Prestige Imports llc",
+      "uid": 104095,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/104095/cars_images/104095-1111564-car-20260523_183841-20260523_085259.jpg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 117250,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 30244,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "US",
+        "listing_type": "Saloon"
+      },
+      "title": "2017 Bentley Mulsanne  - Original MSRP $345k"
+    },
+    {
+      "nid": 1111557,
+      "alias": "car/bentley/continental-gt/2013/1111557",
+      "seller_id": 230980,
+      "seller_type": "Dealer",
+      "seller_name": "FASTBACK MOTORS GENEVA",
+      "uid": 230980,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230980/cars_images/230980-1111557-car-20260523_160606-img_8019.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 79900,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 73913.0434782609,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 69700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2013,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2013 Bentley Continental GT  - GTC V8"
+    },
+    {
+      "nid": 1111554,
+      "alias": "car/bentley/continental-gt/2014/1111554",
+      "seller_id": 225168,
+      "seller_type": "Dealer",
+      "seller_name": "Autopark Uznach AG",
+      "uid": 225168,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225168/cars_images/225168-1111554-car-20260523_110757-dsc09128.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 99800,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 92321.9241443108,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 56799,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2014 Bentley Continental GT  - Continental GTC 4.0 V8 S"
+    },
+    {
+      "nid": 1014180,
+      "alias": "car/bentley/s1/1956/1014180",
+      "seller_id": 31212,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Automobiles Worldwide Ltd",
+      "uid": 31212,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31212/cars_images/31212-1014180-car-20240531_173326-img_3044.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 73000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 1249,
+      "manufactured_year": 1956,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S1",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1956 Bentley S1  - Park Ward Continental Convertible"
+    },
+    {
+      "nid": 1110959,
+      "alias": "car/bentley/mark-vi/1952/1110959",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/f292e16037ac3bc5bf7b94cf3f79c011.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 49950,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2698,
+      "manufactured_year": 1952,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mark VI",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1952 Bentley Mark VI  - Coupe Right-Hand-Drive"
+    },
+    {
+      "nid": 1110824,
+      "alias": "car/bentley/continental-gt/2013/1110824",
+      "seller_id": 136065,
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/52ad74346bc8d28f89e28dc4481d306b.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 89900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 59050,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2013,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2013 Bentley Continental GT  - (II) V8 4.0 507"
+    },
+    {
+      "nid": 1110784,
+      "alias": "car/bentley/mulsanne/2015/1110784",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/64b920ddd25b3727fa4933dfcd42d358.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 149900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 29200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 116,
+      "model": 5070,
+      "manufactured_year": 2015,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "country": "FR",
+        "listing_type": "Saloon"
+      },
+      "title": "2015 Bentley Mulsanne  - Speed V8 6.75 537"
+    },
+    {
+      "nid": 1110564,
+      "alias": "car/bentley/brooklands/1997/1110564",
+      "seller_id": 31825,
+      "seller_type": "Dealer",
+      "seller_name": "Touring Garage AG",
+      "uid": 31825,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31825/cars_images/31825-1110564-car-20260518_172816-1_bentley_brooklands_vorne.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 26500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 146000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 4307,
+      "manufactured_year": 1997,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Brooklands",
+        "country": "CH",
+        "listing_type": "Saloon"
+      },
+      "title": "1997 Bentley Brooklands  - Turbo"
+    },
+    {
+      "nid": 1110267,
+      "alias": "car/bentley/arnage/2007/1110267",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/04c137199b26d02268a28a3edd44ea63.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 64500,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 53305.785123967,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 87980,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "2007 Bentley Arnage  - T \"Diamond Black\" VAT CAR!"
+    },
+    {
+      "nid": 1110343,
+      "alias": "car/bentley/turbo/1989/1110343",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/8b1bf6a8409f72550ae195d82b841b2d.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 34750,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 101791,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1253,
+      "manufactured_year": 1989,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Turbo",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "1989 Bentley Turbo  - R Saloon \"Service at Jack Barclay\""
+    },
+    {
+      "nid": 1110193,
+      "alias": "car/bentley/3-12-litre/1933/1110193",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/d1b80797f7c449fd70ca728705129a19.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 345000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 46698,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1778,
+      "manufactured_year": 1933,
+      "analytics": {
+        "make": "Bentley",
+        "model": "3 1/2 Litre",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1933 Bentley 3 1/2 Litre"
+    },
+    {
+      "nid": 1110022,
+      "alias": "car/bentley/4-14-litre/1937/1110022",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/67ef57369a5d06d3cb7400de92c110c3.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1779,
+      "manufactured_year": 1937,
+      "analytics": {
+        "make": "Bentley",
+        "model": "4 1/4 Litre",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1937 Bentley 4 1/4 Litre"
+    },
+    {
+      "nid": 1109236,
+      "alias": "car/bentley/t1/1970/1109236",
+      "seller_id": 32296,
+      "seller_type": "Dealer",
+      "seller_name": "Charles Prince Classic Cars",
+      "uid": 32296,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32296/cars_images/32296-1109236-car-20260507_125703-20f5e2eb-e8c6-47fb-bbdc-d569ed782a45.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 88000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 5,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 1780,
+      "manufactured_year": 1970,
+      "analytics": {
+        "make": "Bentley",
+        "model": "T1",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1970 Bentley T1  - Two Door FHC Mulliner Park Ward "
+    },
+    {
+      "nid": 1108806,
+      "alias": "car/bentley/continental-gt/2006/1108806",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/c0f86037ee48b1cfebc0ed25640d8272.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 49950,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 63197,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Bentley Continental GT  - W12 Mulliner \"The Mulliner Driving Specification\""
+    },
+    {
+      "nid": 1108658,
+      "alias": "car/bentley/3-12-litre/1935/1108658",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/76378ebf90ac1a6749fa8a5fe5589957.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 199500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 44051,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1778,
+      "manufactured_year": 1935,
+      "analytics": {
+        "make": "Bentley",
+        "model": "3 1/2 Litre",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1935 Bentley 3 1/2 Litre"
+    },
+    {
+      "nid": 1108723,
+      "alias": "car/bentley/speed-8/1948/1108723",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/854435c99fe660431d64bc8c3499adb7.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 305000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10186,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 6662,
+      "manufactured_year": 1948,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Speed 8",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1948 Bentley Speed 8"
+    },
+    {
+      "nid": 1111090,
+      "alias": "car/bentley/bentayga/2018/1111090",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/60137539930b1b8d7d5279a7a45e8d20.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 98500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 106500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2018 Bentley Bentayga  - Bentayga V8 Diesel"
+    },
+    {
+      "nid": 1111095,
+      "alias": "car/bentley/bentayga/2018/1111095",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/3b13a8a8ab9c39ab3cb350ac0384e06c.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 104500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 68800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2018 Bentley Bentayga  - Bentayga W12"
+    },
+    {
+      "nid": 1111137,
+      "alias": "car/bentley/continental-gt/2019/1111137",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/dfd62a07e7e7844bcc36e325e9ab05a7.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 164500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Bentley Continental GT  - Continental GT 6.0 W12"
+    },
+    {
+      "nid": 1111149,
+      "alias": "car/bentley/continental-gt/2012/1111149",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/10f416d37fafd36f24cce769bc92a60f.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 74500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 95500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2012,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2012 Bentley Continental GT  - Continental GTC 6.0 W12"
+    },
+    {
+      "nid": 1111238,
+      "alias": "car/bentley/continental-gt/2023/1111238",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/3fa8fd70c834eb53475f36c0f6d90310.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 288500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Bentley Continental GT  - Continental GTC 6.0 W12 Speed"
+    },
+    {
+      "nid": 1108338,
+      "alias": "car/bentley/continental/1999/1108338",
+      "seller_id": 233612,
+      "seller_type": "Dealer",
+      "seller_name": "SCUDERIA BELGICA",
+      "uid": 233612,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233612/cars_images/233612-1108338-car-20260501_132652-photoroom_20260501_122102.png?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 37000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1999,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "BE",
+        "listing_type": "Coupé"
+      },
+      "title": "1999 Bentley Continental  - SC  (Sedanca Coupe)"
+    },
+    {
+      "nid": 1107511,
+      "alias": "car/bentley/continental/1998/1107511",
+      "seller_id": 32509,
+      "seller_type": "Dealer",
+      "seller_name": "Beverly Hills Car Club",
+      "uid": 32509,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32509/cars_images/feed_1095856/8888cab37a52b5fe040e49a3edf9684d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 79950,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 2513,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1998 Bentley Continental"
+    },
+    {
+      "nid": 1099771,
+      "alias": "car/bentley/continental-gt/2013/1099771",
+      "seller_id": 229430,
+      "seller_type": "Dealer",
+      "seller_name": "Amian Collection Cars",
+      "uid": 229430,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/229430/cars_images/r5108857-bearbeitet.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 19950,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2013,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2013 Bentley Continental GT  - C Supersports *ISR-Look*"
+    },
+    {
+      "nid": 1099559,
+      "alias": "car/bentley/continental-gt/2014/1099559",
+      "seller_id": 229430,
+      "seller_type": "Dealer",
+      "seller_name": "Amian Collection Cars",
+      "uid": 229430,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/229430/cars_images/230322_bentley_continental_gt-7.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 92700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2014 Bentley Continental GT  - C V8 S"
+    },
+    {
+      "nid": 1107081,
+      "alias": "car/bentley/continental-gt/2020/1107081",
+      "seller_id": 233788,
+      "seller_type": "Dealer",
+      "seller_name": "Hillen Exclusive Cars",
+      "uid": 233788,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233788/cars_images/feed_1101844/740773_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 128900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 92443,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2020 Bentley Continental GT  - Continental GT  V8 Mulliner BLACKLINE CarbonPaket"
+    },
+    {
+      "nid": 1108161,
+      "alias": "car/bentley/bentayga/2019/1108161",
+      "seller_id": 225168,
+      "seller_name": "Autopark Uznach AG",
+      "uid": 225168,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225168/cars_images/feed_1089553/e208c0ba4356aab9025efa1b13c5ade4.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 94800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 81000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2019 Bentley Bentayga  - Bentayga V6 Hybrid"
+    },
+    {
+      "nid": 1108127,
+      "alias": "car/bentley/bentayga/2018/1108127",
+      "seller_id": 225168,
+      "seller_name": "Autopark Uznach AG",
+      "uid": 225168,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225168/cars_images/feed_1089553/c5c6db481a6dfbdb379c4ebf9ee7546d.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 94800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 87000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2018 Bentley Bentayga  - Bentayga V8 Mulliner"
+    },
+    {
+      "nid": 1108022,
+      "alias": "car/bentley/bentayga/2024/1108022",
+      "seller_id": 225168,
+      "seller_name": "Autopark Uznach AG",
+      "uid": 225168,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225168/cars_images/feed_1089553/26f9adc6391320033f0c2fd74cb12364.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 222800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26899,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 11913,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2024 Bentley Bentayga  - Bentayga S"
+    },
+    {
+      "nid": 1093357,
+      "alias": "car/bentley/continental-gt/2019/1093357",
+      "seller_id": 31692,
+      "seller_type": "Dealer",
+      "seller_name": "The School Garage",
+      "uid": 31692,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31692/cars_images/feed_1093317/3d4462a7b30fcfe1694669aa63878220.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 24000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Bentley Continental GT  - 6.0 W12 Coupe"
+    },
+    {
+      "nid": 1093348,
+      "alias": "car/bentley/continental-gt/2004/1093348",
+      "seller_id": 31692,
+      "seller_type": "Dealer",
+      "seller_name": "The School Garage",
+      "uid": 31692,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31692/cars_images/feed_1093317/0ae7baf0b3e3694af7b1daffcd11be42.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 24950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 39000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2004,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2004 Bentley Continental GT  - 6.0 W12 Coupe"
+    },
+    {
+      "nid": 1093352,
+      "alias": "car/bentley/arnage/2001/1093352",
+      "seller_id": 31692,
+      "seller_name": "The School Garage",
+      "uid": 31692,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31692/cars_images/feed_1093317/8b7efcc002ffa7e484362256c76a28ca.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 29950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 57000,
+        "unit": "mile"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2001,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2001 Bentley Arnage  - Lemans series Ltd Edition."
+    },
+    {
+      "nid": 1093356,
+      "alias": "car/bentley/s3/1963/1093356",
+      "seller_id": 31692,
+      "seller_type": "Dealer",
+      "seller_name": "The School Garage",
+      "uid": 31692,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31692/cars_images/feed_1093317/a6239a688f6c1563e4daaecdd7feb44c.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 165950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 11,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 1251,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Bentley",
+        "model": "S3",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1963 Bentley S3  - Flying Spur by HJ Mulliner"
+    },
+    {
+      "nid": 1093349,
+      "alias": "car/bentley/arnage/2005/1093349",
+      "seller_id": 31692,
+      "seller_name": "The School Garage",
+      "uid": 31692,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31692/cars_images/feed_1093317/e33f5c57d78b06e5b080e945105b5d1f.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 29995,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 55000,
+        "unit": "mile"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 1240,
+      "manufactured_year": 2005,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Arnage",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2005 Bentley Arnage  - T Mulliner"
+    },
+    {
+      "nid": 1106075,
+      "alias": "car/bentley/continental-gt/2015/1106075",
+      "seller_id": 33412,
+      "seller_type": "Dealer",
+      "seller_name": "Hallier Classic Cars GmbH",
+      "uid": 33412,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33412/cars_images/feed_195478/157164247_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 104900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 55650,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2015,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2015 Bentley Continental GT  - Continental GTC Speed W12, sehr gepflegt, 467 KW..."
+    },
+    {
+      "nid": 1105895,
+      "alias": "car/bentley/continental-gt/2004/1105895",
+      "seller_id": 97348,
+      "seller_type": "Dealer",
+      "seller_name": "Gulfblue.it",
+      "uid": 97348,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/97348/cars_images/dji_20260331115813_0814_d_luca_de_antoni_lr_wtmk.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 68000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 128000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2004,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2004 Bentley Continental GT  - Neptune blue"
+    },
+    {
+      "nid": 1105492,
+      "alias": "car/bentley/continental-gt/2022/1105492",
+      "seller_id": 154890,
+      "seller_type": "Dealer",
+      "seller_name": "Louwman Exclusive Cars",
+      "uid": 154890,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/154890/cars_images/feed_703197/bc84423f96ebd4cf3e7c7bbcbda44310.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 235650,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 37331,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 116,
+      "model": 12245,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2022 Bentley Continental GT  - 4.0 V8 | Mulliner | Red Roof | B&amp;O |"
+    },
+    {
+      "nid": 1105188,
+      "alias": "car/bentley/6-12-litre/1928/1105188",
+      "seller_id": 32296,
+      "seller_type": "Dealer",
+      "seller_name": "Charles Prince Classic Cars",
+      "uid": 32296,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32296/cars_images/32296-1105188-car-20260408_125533-w-p1320400.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 2,
+      "colour": 6,
+      "condition": 3,
+      "competition": 0,
+      "make": 116,
+      "model": 4381,
+      "manufactured_year": 1928,
+      "analytics": {
+        "make": "Bentley",
+        "model": "6 1/2 Litre",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1928 Bentley 6 1/2 Litre  - Uprated to Speed Six"
+    },
+    {
+      "nid": 1104437,
+      "alias": "car/bentley/speed-8/1949/1104437",
+      "seller_id": 233788,
+      "seller_type": "Dealer",
+      "seller_name": "Hillen Exclusive Cars",
+      "uid": 233788,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233788/cars_images/feed_1101844/726118_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 320000,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 268907.56302521,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 20153,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 116,
+      "model": 6662,
+      "manufactured_year": 1949,
+      "analytics": {
+        "make": "Bentley",
+        "model": "Speed 8",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1949 Bentley Speed 8  -   Speed 8 - Racing Green Engineering"
+    }
+  ]
+}

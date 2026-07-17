@@ -9,9 +9,10 @@ import UserRepository from "./userRepository";
 import RecordRepository from "./recordRepository";
 import Error405 from "../../errors/Error405";
 import Error400 from "../../errors/Error400";
-import axios from "axios";
 import Records from "../models/records";
 import Dates from "../utils/Dates";
+import fs from "fs";
+import path from "path";
 class ProductRepository {
 
 
@@ -42,34 +43,32 @@ class ProductRepository {
   }
 
 
-  private static async fetchData(value: any, id) {
-    const url = `https://www.classicdriver.com/en/api/search/cars?&offset=0&currency=USD&make=${id}&type=car&price_from=all&price_to=all&year_from=all&year_to=all&sort=newest`;
+  private static async fetchData(value: any, vipNumber: number) {
+    const filePath = path.join(
+      __dirname,
+      "..",
+      "data",
+      "vipCars",
+      `VIP${vipNumber}.json`
+    );
 
     try {
-      const response = await axios.get(url);
-      console.log("🚀 ~ ProductRepository ~ fetchData ~ response:", response.data.items)
+      const raw = fs.readFileSync(filePath, "utf-8");
+      const data = JSON.parse(raw);
 
-      // The actual data is nested under dataView.dataRaw
-      const dataRaw = response?.data?.items;
+      const dataRaw = data?.items;
       if (!dataRaw) {
-        console.warn("No dataRaw found in response");
+        console.warn(`No items found in ${filePath}`);
         return [];
       }
 
-      // Parse the JSON string
-  
-
-      // Extract the array of hotels – adjust the key if needed
       const cars = dataRaw || [];
       if (!Array.isArray(cars)) {
-        console.warn("parsed data does not contain airbnbHotels array");
+        console.warn(`${filePath} does not contain a cars array`);
         return [];
       }
-      console.log("🚀 ~ ProductRepository ~ fetchData ~ cars:", cars)
 
-      // Map each hotel to your desired output format
       const values = cars.map((item) => ({
-        // Use the first subtitle as the title, fallback to 'No Title'
         title: item.title || 'No Title',
         image: item.img || 'No Image',
         commission: value.comisionrate,
@@ -79,7 +78,7 @@ class ProductRepository {
 
       return values;
     } catch (error) {
-      console.error('Error fetching data from Kaggle:', error);
+      console.error(`Error reading local data from ${filePath}:`, error);
       throw error;
     }
   }
@@ -96,31 +95,30 @@ class ProductRepository {
     const randomPrice = (Math.random() * (max - min) + min).toFixed(2);
     return randomPrice;
   }
-  // VIP 1 - Amazon Canada Products
+  // VIP 1 - Lamborghini
   static async Vip1(value: any) {
-
-    return await ProductRepository.fetchData(value, '169');
+    return await ProductRepository.fetchData(value, 1);
   }
 
-  // VIP 2 - Home and Kitchen
+  // VIP 2 - Ferrari
   static async Vip2(value: any) {
-    return await ProductRepository.fetchData(value, '145');
+    return await ProductRepository.fetchData(value, 2);
   }
 
-  // VIP 3 - Car Parts
+  // VIP 3 - Bentley
 
   static async Vip3(value: any) {
-    return await ProductRepository.fetchData(value, '116');
+    return await ProductRepository.fetchData(value, 3);
   }
 
-  // VIP 4 - Air Conditioners
+  // VIP 4 - Aston Martin
   static async Vip4(value: any) {
-    return await ProductRepository.fetchData(value, '110');
+    return await ProductRepository.fetchData(value, 4);
   }
 
-  // VIP 5 - Grocery and Gourmet Foods
+  // VIP 5 - Bugatti
   static async Vip5(value: any) {
-    return await ProductRepository.fetchData(value, '125');
+    return await ProductRepository.fetchData(value, 5);
   }
 
 

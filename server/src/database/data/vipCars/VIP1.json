@@ -1,0 +1,4642 @@
+{
+  "count": 272,
+  "items": [
+    {
+      "nid": 1118927,
+      "alias": "car/lamborghini/aventador/2022/1118927",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/1487_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 2490000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9783,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2022 Lamborghini Aventador  - LP 780-4 Ultimae Roadster"
+    },
+    {
+      "nid": 1118811,
+      "alias": "car/lamborghini/countach/1987/1118811",
+      "seller_id": 32386,
+      "seller_type": "Dealer",
+      "seller_name": "Brian Classic & Company ",
+      "uid": 32386,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32386/cars_images/32386-1108021-car-20260430_154642-1_34_front_ds.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6900,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1987 Lamborghini Countach  - 5000 QV Downdraught, 6,900KM from new, 3 Owner car"
+    },
+    {
+      "nid": 1118631,
+      "alias": "car/lamborghini/islero/1969/1118631",
+      "seller_id": 83205,
+      "seller_type": "Dealer",
+      "seller_name": "AD Sportscars",
+      "uid": 83205,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/83205/cars_images/83205-1118631-car-20260713_102016-_jmi0257.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 77500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 3,
+      "competition": 0,
+      "make": 169,
+      "model": 1464,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Islero",
+        "country": "BE",
+        "listing_type": "Saloon"
+      },
+      "title": "1969 Lamborghini Islero  - | Delivered to Lamborghini Family | S Engine Prototype"
+    },
+    {
+      "nid": 1118573,
+      "alias": "car/lamborghini/miura/1968/1118573",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/e14ba24eb3f1d6e2920c5cd47b8b093d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 3200000,
+          "high": 3600000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 7838,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 1466,
+      "manufactured_year": 1968,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Miura",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1968 Lamborghini Miura"
+    },
+    {
+      "nid": 1118425,
+      "alias": "car/lamborghini/countach/1979/1118425",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/796236569db0a0a7ea6533e776b6b937.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2200000,
+          "high": 2600000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1979,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1979 Lamborghini Countach  - Countach LP400 S Series I"
+    },
+    {
+      "nid": 1118426,
+      "alias": "car/lamborghini/murcielago/2003/1118426",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/1942b022a5d368d6de23bcb8ec298f39.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 850000,
+          "high": 1200000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2003,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2003 Lamborghini Murciélago  - Murciélago 40th Anniversary"
+    },
+    {
+      "nid": 1118423,
+      "alias": "car/lamborghini/diablo/1991/1118423",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/26824aafda60f9ced507a66ec0ec6d80.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 550000,
+          "high": 700000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 1991,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1991 Lamborghini Diablo  - Diablo"
+    },
+    {
+      "nid": 1118424,
+      "alias": "car/lamborghini/murcielago/2010/1118424",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/e0583ffb1617c8308baecffce5b8e485.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1750000,
+          "high": 2250000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2010,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2010 Lamborghini Murciélago  - Murciélago LP 670-4 SV"
+    },
+    {
+      "nid": 1118287,
+      "alias": "car/lamborghini/diablo/1991/1118287",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/843bf4421471e6ffa367a8f3282c3003.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 325000,
+          "high": 375000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 12846,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 1991,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1991 Lamborghini Diablo"
+    },
+    {
+      "nid": 1118269,
+      "alias": "car/lamborghini/diablo/2000/1118269",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/c09813ec01f80cfd6c038a72fda2eec6.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 549950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 29000,
+        "unit": "mile"
+      },
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 2000,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2000 Lamborghini Diablo  - VT 6.0"
+    },
+    {
+      "nid": 1118000,
+      "alias": "car/lamborghini/sian/2021/1118000",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/e70029f708dad05bc4a6e475b6168f83.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2200000,
+          "high": 2600000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 15316,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Sian",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2021 Lamborghini Sian  - Sián FKP 37"
+    },
+    {
+      "nid": 1117837,
+      "alias": "car/lamborghini/gallardo/2007/1117837",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/8eb10fb180f28bf73dfeb43d42f23913.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 164900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 31170,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2007 Lamborghini Gallardo"
+    },
+    {
+      "nid": 1117618,
+      "alias": "car/lamborghini/countach/1984/1117618",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/531215920a71d77788dcc3d2c394fb8d.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 699950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18000,
+        "unit": "mile"
+      },
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1984,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1984 Lamborghini Countach  - LP5000 S"
+    },
+    {
+      "nid": 1117559,
+      "alias": "car/lamborghini/350-gt/1965/1117559",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/e0881f7d383292ad23afde72cee19517.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 500000,
+          "high": 600000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2127,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "350 GT",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1965 Lamborghini 350 GT  - 350 GT"
+    },
+    {
+      "nid": 1117474,
+      "alias": "car/lamborghini/urus/2026/1117474",
+      "seller_id": 154890,
+      "seller_type": "Dealer",
+      "seller_name": "Louwman Exclusive Cars",
+      "uid": 154890,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/154890/cars_images/feed_703197/c8c69fceee8ba04115dd8b4557613264.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 423440,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 349950.413223141,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 7172,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 6,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "NL",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Lamborghini Urus  - 4.0 V8 Hybrid SE | Verde Hydra Matt | Interior Carbon Pack | 5Y Maintanance Pack"
+    },
+    {
+      "nid": 1117417,
+      "alias": "car/lamborghini/murcielago/2007/1117417",
+      "seller_id": 228088,
+      "seller_type": "Dealer",
+      "seller_name": "Daytona Automobil",
+      "uid": 228088,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/228088/cars_images/dsc_4571_3.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 289500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 38000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "2007 Lamborghini Murciélago  - LP640 Coupé | Giallo Orion"
+    },
+    {
+      "nid": 1117172,
+      "alias": "car/lamborghini/temerario/2026/1117172",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/6a3614152ee5915d9b9af3ef191f7b7b.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1724995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 8,
+      "condition": 4,
+      "competition": null,
+      "make": 169,
+      "model": 20484,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Temerario",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Lamborghini Temerario"
+    },
+    {
+      "nid": 1117075,
+      "alias": "car/lamborghini/diablo/1991/1117075",
+      "seller_id": 211714,
+      "seller_type": "Dealer",
+      "seller_name": "MOTIKON",
+      "uid": 211714,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/211714/cars_images/211714-1117075-car-20260630_120930-1.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 315000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 57763,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 1991,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "1991 Lamborghini Diablo  - Prima Series, €45,000 Engine rebuild"
+    },
+    {
+      "nid": 1117060,
+      "alias": "car/lamborghini/350-gt/1965/1117060",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/d042f98ec549211da0bb0f86e9af1ebe.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 600000,
+          "high": 700000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13215,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2127,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "350 GT",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1965 Lamborghini 350 GT"
+    },
+    {
+      "nid": 1116827,
+      "alias": "car/lamborghini/miura/1969/1116827",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/59a7fea6e8c006d852f9b6ee812a90ba.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 37573,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1466,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Miura",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1969 Lamborghini Miura"
+    },
+    {
+      "nid": 1116815,
+      "alias": "car/lamborghini/huracan/2016/1116815",
+      "seller_id": 227291,
+      "seller_type": "Dealer",
+      "seller_name": "Route 66 Auctions",
+      "uid": 227291,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227291/cars_images/feed_1039195/4d6cb20bd20fa8051a17e5cadd219885.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 95500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 999999,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "NL",
+        "listing_type": "Other"
+      },
+      "title": "2016 Lamborghini Huracán"
+    },
+    {
+      "nid": 1116694,
+      "alias": "car/lamborghini/temerario/2026/1116694",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/9bd802bbaa75317aef3e6c05c3ed00d7.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1799995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 2,
+      "condition": 4,
+      "competition": null,
+      "make": 169,
+      "model": 20484,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Temerario",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Lamborghini Temerario"
+    },
+    {
+      "nid": 1116560,
+      "alias": "car/lamborghini/diablo/1996/1116560",
+      "seller_id": 233492,
+      "seller_name": "Auto Veloce Roma Srl",
+      "uid": 233492,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233492/cars_images/feed_1102300/5aeb2707f2cecb21aade97c1a5228812.jpeg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1996 Lamborghini Diablo"
+    },
+    {
+      "nid": 1116469,
+      "alias": "car/lamborghini/jarama/1973/1116469",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/a5ba61176ecf652e99b1899bf4ee4607.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 35000,
+          "high": 45000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2061,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Jarama",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1973 Lamborghini Jarama"
+    },
+    {
+      "nid": 1115934,
+      "alias": "car/lamborghini/countach/1990/1115934",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/fe1ed6dd2243358fa1faf701079d882e.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 800000,
+          "high": 950000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1990,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1990 Lamborghini Countach  - Countach 25th Anniversary Edition"
+    },
+    {
+      "nid": 1115785,
+      "alias": "car/lamborghini/sian/2021/1115785",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/0310_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 10500000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1155,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 15316,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Sian",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Lamborghini Sian"
+    },
+    {
+      "nid": 1113549,
+      "alias": "car/lamborghini/countach/1986/1113549",
+      "seller_id": 174343,
+      "seller_type": "Dealer",
+      "seller_name": "YTG- Young Timers Garage Pty Ltd",
+      "uid": 174343,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/174343/cars_images/feed_1113464/5fb487a66dce40412aaee1bfb5da306a.jpeg?1784239203",
+      "has_video": false,
+      "country": "AU",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 91300,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1986,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "AU",
+        "listing_type": "Coupé"
+      },
+      "title": "1986 Lamborghini Countach  - QV 5000"
+    },
+    {
+      "nid": 1115502,
+      "alias": "car/lamborghini/sian/2020/1115502",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/eac4afd50d2b47e5ae2ef4cf8d5c76e2.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 2500000,
+          "high": 3000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 284,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 15316,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Sian",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2020 Lamborghini Sian"
+    },
+    {
+      "nid": 1115461,
+      "alias": "car/lamborghini/huracan/2022/1115461",
+      "seller_id": 139409,
+      "seller_type": "Dealer",
+      "seller_name": "KLAUSEN",
+      "uid": 139409,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/139409/cars_images/139409-1115461-car-20260616_155608-dsc08485.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 319000,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 295097.132284921,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Lamborghini Huracán  - sto"
+    },
+    {
+      "nid": 1115387,
+      "alias": "car/lamborghini/countach/1985/1115387",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/d77289bc414411255433d020ed317824.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 900000,
+          "high": 1100000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1985,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1985 Lamborghini Countach  - Countach LP5000 QV 'Downdraft'"
+    },
+    {
+      "nid": 1115353,
+      "alias": "car/lamborghini/miura/1967/1115353",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/5187806416b6a51a2aeffb78b46f2d4d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1900000,
+          "high": 2800000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1466,
+      "manufactured_year": 1967,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Miura",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1967 Lamborghini Miura  - Miura P400"
+    },
+    {
+      "nid": 1114494,
+      "alias": "car/lamborghini/countach/1990/1114494",
+      "seller_id": 37543,
+      "seller_type": "Dealer",
+      "seller_name": "TPE Ltd.",
+      "uid": 37543,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/37543/cars_images/lamborghini_countach_25th_anniversary_1990_48500km_1.png?1784239203",
+      "has_video": false,
+      "country": "JP",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 78000000,
+          "currency": "JPY"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 48500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1990,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "JP",
+        "listing_type": "Coupé"
+      },
+      "title": "1990 Lamborghini Countach  - 25th Anniversary"
+    },
+    {
+      "nid": 1114124,
+      "alias": "car/lamborghini/countach/1990/1114124",
+      "seller_id": 31674,
+      "seller_type": "Dealer",
+      "seller_name": "Kidston Motor Cars",
+      "uid": 31674,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31674/cars_images/31674-1114124-car-20260611_144955-fullsizerender.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 8,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1990,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1990 Lamborghini Countach  - 25th Anniversary"
+    },
+    {
+      "nid": 1114257,
+      "alias": "car/lamborghini/gallardo/2005/1114257",
+      "seller_id": 232569,
+      "seller_type": "Dealer",
+      "seller_name": "Silvauto S.p.a",
+      "uid": 232569,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/232569/cars_images/232569-1114257-car-20260611_083424-a1.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 94276,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2005,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "2005 Lamborghini Gallardo  - SE COUPE’ 520 E-GEAR (2005)"
+    },
+    {
+      "nid": 1114225,
+      "alias": "car/lamborghini/urus/2025/1114225",
+      "seller_id": 233560,
+      "seller_type": "Dealer",
+      "seller_name": "Carmeli Garage",
+      "uid": 233560,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/233560/cars_images/feed_1101669/c52b1b2b91671f9b9270996270a315f4.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 339900,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 278606.557377049,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 15400,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "IT",
+        "listing_type": "SUV"
+      },
+      "title": "2025 Lamborghini Urus"
+    },
+    {
+      "nid": 1113774,
+      "alias": "car/lamborghini/aventador/2020/1113774",
+      "seller_id": 234846,
+      "seller_type": "Dealer",
+      "seller_name": "Made-in-US.com",
+      "uid": 234846,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234846/cars_images/feed_1113125/33d7bda587f7a0df77bffa39a96f4611.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 59900,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 7,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "2020 Lamborghini Aventador  - Aventador\nReplica"
+    },
+    {
+      "nid": 1112621,
+      "alias": "car/lamborghini/huracan/2017/1112621",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/5c65e19fe4167fbdebe3f1ef1f8f9cae.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 229900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 28900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2017 Lamborghini Huracán  - Huracan LP610-4 Spyder DCT"
+    },
+    {
+      "nid": 1112622,
+      "alias": "car/lamborghini/urus/2023/1112622",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/e9a1c26c602b3a90446491ce088b87a8.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 259900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 27200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Urus S"
+    },
+    {
+      "nid": 1112645,
+      "alias": "car/lamborghini/urus/2018/1112645",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/c6fa385b303626d9e43ab733b1891488.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 169900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 139898,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2018 Lamborghini Urus  - Urus E-Gear"
+    },
+    {
+      "nid": 1112606,
+      "alias": "car/lamborghini/huracan/2022/1112606",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/708f043ef1e0eb56a98ff90dd53aef79.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 346900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Lamborghini Huracán  - Huracan STO Coupé DCT RWD"
+    },
+    {
+      "nid": 1112601,
+      "alias": "car/lamborghini/huracan/2022/1112601",
+      "seller_id": 230838,
+      "seller_name": "Auto Stalder AG",
+      "uid": 230838,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230838/cars_images/feed_1112577/4b704a6e97f5fba145601566d8a8948b.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 359900,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Lamborghini Huracán  - Huracan STO Coupé DCT RWD"
+    },
+    {
+      "nid": 1112730,
+      "alias": "car/lamborghini/espada/1970/1112730",
+      "seller_id": 227981,
+      "seller_type": "Dealer",
+      "seller_name": "Classix by Schiebler",
+      "uid": 227981,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227981/cars_images/227981-1112730-car-20260604_085746-lamborghini-espada-value.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 132000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 79000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 3,
+      "competition": 0,
+      "make": 169,
+      "model": 1463,
+      "manufactured_year": 1970,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Espada",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "1970 Lamborghini Espada  - S2 Top Condition!"
+    },
+    {
+      "nid": 1112418,
+      "alias": "car/lamborghini/murcielago/2009/1112418",
+      "seller_id": 234140,
+      "seller_type": "Dealer",
+      "seller_name": "Engine Room ",
+      "uid": 234140,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234140/cars_images/234140-1112418-car-20260602_152742-lamborgini_murcielago_sv_-_the_engine_room_-_noortje_blokland-1.jpg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5880,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2009,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2009 Lamborghini Murciélago  - Murcielago LP670-4 SV"
+    },
+    {
+      "nid": 1112137,
+      "alias": "car/lamborghini/murcielago/2008/1112137",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/768e29aab8c2298d5020d3f11dfc22f8.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 299500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 39355,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 8,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2008 Lamborghini Murciélago"
+    },
+    {
+      "nid": 1111857,
+      "alias": "car/lamborghini/murcielago/2007/1111857",
+      "seller_id": 228088,
+      "seller_type": "Dealer",
+      "seller_name": "Daytona Automobil",
+      "uid": 228088,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/228088/cars_images/dsc_2872_7.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 479000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11818,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "2007 Lamborghini Murciélago  - LP640 'The Perfect Example' | VAT"
+    },
+    {
+      "nid": 1080233,
+      "alias": "car/lamborghini/murcielago/2008/1080233",
+      "seller_id": 228088,
+      "seller_type": "Dealer",
+      "seller_name": "Daytona Automobil",
+      "uid": 228088,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/228088/cars_images/228088-1080233-car-20251001_095305-dsc_4019dsc_4019.jpg?1784239203",
+      "has_video": false,
+      "country": "SE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 360000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 48000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "SE",
+        "listing_type": "Coupé"
+      },
+      "title": "2008 Lamborghini Murciélago  - LP640 Coupé"
+    },
+    {
+      "nid": 1111402,
+      "alias": "car/lamborghini/gallardo/2006/1111402",
+      "seller_id": 234619,
+      "seller_type": "Dealer",
+      "seller_name": "Kauritel OÜ",
+      "uid": 234619,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234619/cars_images/feed_1111263/c07fa0a5fdf57119e2e63b5e35fed5bc.webp?1784239203",
+      "has_video": false,
+      "country": "EE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 115900,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 93467.7419354839,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 61700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "EE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2006 Lamborghini Gallardo  - Spyder"
+    },
+    {
+      "nid": 1111350,
+      "alias": "car/lamborghini/400-gt/1967/1111350",
+      "seller_id": 32386,
+      "seller_type": "Dealer",
+      "seller_name": "Brian Classic & Company ",
+      "uid": 32386,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32386/cars_images/32386-1086896-car-20251114_125228-01lamborghini400gt.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 1,
+      "colour": 3,
+      "condition": 3,
+      "competition": 0,
+      "make": 169,
+      "model": 1460,
+      "manufactured_year": 1967,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "400 GT",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1967 Lamborghini 400 GT"
+    },
+    {
+      "nid": 1111024,
+      "alias": "car/lamborghini/urus/2026/1111024",
+      "seller_id": 234287,
+      "seller_type": "Dealer",
+      "seller_name": "Auto Italy Oy ",
+      "uid": 234287,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234287/cars_images/feed_1111003/05fd3b827653cc9baf00e89e41476db9.jpeg?1784239203",
+      "has_video": false,
+      "country": "FI",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 333200,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 280000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "FI",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Lamborghini Urus  - SE 4.0 V8 MY26"
+    },
+    {
+      "nid": 1111251,
+      "alias": "car/lamborghini/aventador/2025/1111251",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/e00b6f625f93c2084b89255fb6024d74.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 548500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 4,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Lamborghini Aventador  - Aventador LP700-4 Miura Edition"
+    },
+    {
+      "nid": 1111250,
+      "alias": "car/lamborghini/espada/1973/1111250",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/eebe441e25729f1e7d3c651316e3584a.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 248500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 44500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1463,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Espada",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1973 Lamborghini Espada  - ESPADA GT400 III"
+    },
+    {
+      "nid": 1111026,
+      "alias": "car/lamborghini/huracan/2017/1111026",
+      "seller_id": 234287,
+      "seller_type": "Dealer",
+      "seller_name": "Auto Italy Oy ",
+      "uid": 234287,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234287/cars_images/feed_1111003/44ad483cc8aad91b95097b0dfd6145e0.jpeg?1784239203",
+      "has_video": false,
+      "country": "FI",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 269800,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21201,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 8,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "FI",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2017 Lamborghini Huracán  - LP610-4 Spyder"
+    },
+    {
+      "nid": 1111009,
+      "alias": "car/lamborghini/urus/2024/1111009",
+      "seller_id": 234287,
+      "seller_type": "Dealer",
+      "seller_name": "Auto Italy Oy ",
+      "uid": 234287,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234287/cars_images/feed_1111003/2e92bfaa67c07a2a57ac1bab89e528b3.jpeg?1784239203",
+      "has_video": false,
+      "country": "FI",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 284800,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 12000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "FI",
+        "listing_type": "Other"
+      },
+      "title": "2024 Lamborghini Urus  - Urus S 4.0 V8 Facelift"
+    },
+    {
+      "nid": 1110830,
+      "alias": "car/lamborghini/urus/2023/1110830",
+      "seller_id": 136065,
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/316104cddb63d50479627d1d53969a33.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 334900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "FR",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Performante 60th Anniversary V8 4.0 666"
+    },
+    {
+      "nid": 1110449,
+      "alias": "car/lamborghini/aventador/2019/1110449",
+      "seller_id": 31122,
+      "seller_type": "Dealer",
+      "seller_name": "DK Engineering",
+      "uid": 31122,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31122/cars_images/feed_308499/c99152bd359e5fe4cec61167ae3283f7.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1250,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Lamborghini Aventador  - 1,250 miles - Nero Aldebaran"
+    },
+    {
+      "nid": 1110333,
+      "alias": "car/lamborghini/espada/1973/1110333",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/315d77670993e3d4065e67eb72542487.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 125500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 68000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1463,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Espada",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1973 Lamborghini Espada"
+    },
+    {
+      "nid": 1110334,
+      "alias": "car/lamborghini/espada/1973/1110334",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/ee7abc8f063316005b4c5c1064a60580.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 40720,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1463,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Espada",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1973 Lamborghini Espada"
+    },
+    {
+      "nid": 1110335,
+      "alias": "car/lamborghini/espada/1973/1110335",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/e40a3220212bf346f2465b6e2dd52c56.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 109500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 102000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1463,
+      "manufactured_year": 1973,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Espada",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1973 Lamborghini Espada"
+    },
+    {
+      "nid": 1110350,
+      "alias": "car/lamborghini/islero/1969/1110350",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/436cc5dbeec4c6979447088265118cfc.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 298500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 75000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1464,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Islero",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1969 Lamborghini Islero  - \"Recent no expense spared maintenance\""
+    },
+    {
+      "nid": 1110001,
+      "alias": "car/lamborghini/revuelto/2025/1110001",
+      "seller_id": 76658,
+      "seller_type": "Dealer",
+      "seller_name": "Luimex International GmbH",
+      "uid": 76658,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/76658/cars_images/feed_333522/2740_1.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 599980,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 504184.87394958,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 149,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 6,
+      "competition": 0,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Lamborghini Revuelto  - Revuelto Neuwagen FULL CARBON * Beifahrerdisplay"
+    },
+    {
+      "nid": 1109991,
+      "alias": "car/lamborghini/urus/2023/1109991",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/d012d2b23599c8c132d7b57d04df03b6.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1099995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6800,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "AE",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus"
+    },
+    {
+      "nid": 1109650,
+      "alias": "car/lamborghini/aventador/2017/1109650",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/5817_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1930000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 3606,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2017 Lamborghini Aventador  -  LP 750-4 SV Roadster - 1 of 500"
+    },
+    {
+      "nid": 1109378,
+      "alias": "car/lamborghini/revuelto/2025/1109378",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/3145_1.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 2799000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2094,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Lamborghini Revuelto"
+    },
+    {
+      "nid": 1109371,
+      "alias": "car/lamborghini/aventador/2016/1109371",
+      "seller_id": 225168,
+      "seller_type": "Dealer",
+      "seller_name": "Autopark Uznach AG",
+      "uid": 225168,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225168/cars_images/225168-1109371-car-20260508_111423-dsc00588.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 349800,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 323589.26919519,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 16000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2016 Lamborghini Aventador  - LP700-4 Roadster E-Gear Pirelli Edition Grigio Titans"
+    },
+    {
+      "nid": 1109228,
+      "alias": "car/lamborghini/urus/2023/1109228",
+      "seller_id": 112311,
+      "seller_name": "biAuto s.r.l",
+      "uid": 112311,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/112311/cars_images/feed_1109216/3a3f3cbee0331a719b676bfb168dc897.jpeg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 264500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14003,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "IT",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus"
+    },
+    {
+      "nid": 1109223,
+      "alias": "car/lamborghini/murcielago/2007/1109223",
+      "seller_id": 112311,
+      "seller_name": "biAuto s.r.l",
+      "uid": 112311,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/112311/cars_images/feed_1109216/9a952ce1ef7672ba05cae26858dd4fb9.jpeg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 380000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 24526,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "IT",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2007 Lamborghini Murciélago"
+    },
+    {
+      "nid": 1109169,
+      "alias": "car/lamborghini/revuelto/2024/1109169",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/c1e46eb7484e2a69292076aeccf27a85.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 2199995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 950,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2024 Lamborghini Revuelto"
+    },
+    {
+      "nid": 768311,
+      "alias": "car/lamborghini/countach/1985/768311",
+      "seller_id": 164492,
+      "seller_type": "Dealer",
+      "seller_name": "Chelsea 1979 ",
+      "uid": 164492,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/cars_images/lamborghini_frontal_3_4.jpeg?1784239203",
+      "has_video": false,
+      "country": "ES",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 890000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 23050,
+        "unit": "kilometer"
+      },
+      "colour": 12,
+      "condition": 3,
+      "competition": 0,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1985,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "ES",
+        "listing_type": "Saloon"
+      },
+      "title": "1985 Lamborghini Countach  - LP5000 QV Downdraft"
+    },
+    {
+      "nid": 1109042,
+      "alias": "car/lamborghini/jalpa/1987/1109042",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/74a2723318942629e3110c3e8a5cc082.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 179500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 44470,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2699,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Jalpa",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1987 Lamborghini Jalpa"
+    },
+    {
+      "nid": 1108990,
+      "alias": "car/lamborghini/countach/1987/1108990",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/93b2f27fb0e518dda75aa9d4bd7f107b.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 698500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 52890,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1461,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1987 Lamborghini Countach"
+    },
+    {
+      "nid": 1108970,
+      "alias": "car/lamborghini/murcielago/2002/1108970",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/43484628ce48c31edc1f7e3f782f9907.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 359500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 60019,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2337,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Murciélago",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2002 Lamborghini Murciélago"
+    },
+    {
+      "nid": 1108913,
+      "alias": "car/lamborghini/diablo/1996/1108913",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/be5eea6f5e4c581712d6b53abd857942.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 545000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 35439,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1462,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1996 Lamborghini Diablo  - Roadster VT"
+    },
+    {
+      "nid": 1111067,
+      "alias": "car/lamborghini/aventador/2016/1111067",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/9ad48ba74f885b034beb3e3982a28da2.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 488500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 19800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2016 Lamborghini Aventador  - Aventador LP750-4 Superveloce Coupé E-Gear"
+    },
+    {
+      "nid": 1111070,
+      "alias": "car/lamborghini/revuelto/2025/1111070",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/2a100afa9f4ed650c8db8ee04f7067b0.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 534500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Lamborghini Revuelto  - Revuelto HPEV"
+    },
+    {
+      "nid": 1111075,
+      "alias": "car/lamborghini/urus/2019/1111075",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/9fd20891af4936beb67dab245d968a50.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 184500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 68900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2019 Lamborghini Urus  - Urus E-Gear"
+    },
+    {
+      "nid": 1111079,
+      "alias": "car/lamborghini/huracan/2021/1111079",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/8eeb542af1550ab0a06cbef129a9ce8b.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 268500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 17800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Lamborghini Huracán  - Huracan EVO Coupé DCT"
+    },
+    {
+      "nid": 1111080,
+      "alias": "car/lamborghini/urus/2023/1111080",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/b0778d83d01bb0551dbe1bc008601a42.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 276500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 34500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Urus Performante"
+    },
+    {
+      "nid": 1111083,
+      "alias": "car/lamborghini/urus/2023/1111083",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/5f6acc208a5f4ca8598e480cdf007ed8.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 279500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 22500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Urus Performante"
+    },
+    {
+      "nid": 1111084,
+      "alias": "car/lamborghini/urus/2025/1111084",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/0ee0a9abf67d87290d928e4be594f233.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 296500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14550,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2025 Lamborghini Urus  - Urus SE"
+    },
+    {
+      "nid": 1111085,
+      "alias": "car/lamborghini/huracan/2026/1111085",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/632c884320ecb7d1c53fdfefb10ce93e.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 418500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 250,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2026 Lamborghini Huracán  - Huracan EVO Spyder 60th"
+    },
+    {
+      "nid": 1111086,
+      "alias": "car/lamborghini/huracan/2021/1111086",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/1e14e411605b2578e9ea6a3ab718453f.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 284500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2021 Lamborghini Huracán  - Huracan EVO Spyder DCT"
+    },
+    {
+      "nid": 1111088,
+      "alias": "car/lamborghini/urus/2024/1111088",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/45bccc509fd97ec31be98ea27310a0a2.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 268500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21990,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2024 Lamborghini Urus  - Urus S"
+    },
+    {
+      "nid": 1111092,
+      "alias": "car/lamborghini/huracan/2024/1111092",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/b5a4804a3090a0f8812f933fce7b6110.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 284500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1600,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2024 Lamborghini Huracán  - Huracan Tecnica"
+    },
+    {
+      "nid": 1111094,
+      "alias": "car/lamborghini/urus/2020/1111094",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/9643a1a5d06bb82b483c7d945b0584cf.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 198500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 55600,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2020 Lamborghini Urus  - Urus E-Gear"
+    },
+    {
+      "nid": 1111096,
+      "alias": "car/lamborghini/urus/2025/1111096",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/f968da72b9af3fd8e8cbc742a71b0ef4.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 298500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4300,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2025 Lamborghini Urus  - Urus SE"
+    },
+    {
+      "nid": 1111097,
+      "alias": "car/lamborghini/urus/2026/1111097",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/b970725507213cb0d882f830364f9f2c.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 326500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 8,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Lamborghini Urus  - Urus SE"
+    },
+    {
+      "nid": 1111100,
+      "alias": "car/lamborghini/huracan/2022/1111100",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/3d6939de87d2ff1d6a667ec12643faf8.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 258500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 56800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2022 Lamborghini Huracán  - Huracan EVO Spyder DCT"
+    },
+    {
+      "nid": 1111102,
+      "alias": "car/lamborghini/huracan/2017/1111102",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/a3a1c5e8087de2923123a6be57b18974.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 236500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2017 Lamborghini Huracán  - Huracan LP610-4 Spyder DCT"
+    },
+    {
+      "nid": 1111104,
+      "alias": "car/lamborghini/aventador/2022/1111104",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/781c5a4ab45f2a1702c47cdf754d86b0.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 638500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Lamborghini Aventador  - Aventador LP780-4 Coupé E-Gear Ultimae"
+    },
+    {
+      "nid": 1111111,
+      "alias": "car/lamborghini/revuelto/2026/1111111",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/e328a08603a2d487bc56947aa37ccb52.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 628500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2750,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Lamborghini Revuelto  - Revuelto HPEV"
+    },
+    {
+      "nid": 1111112,
+      "alias": "car/lamborghini/revuelto/2026/1111112",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/2770966300ed0825e27131b1187e7263.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 658500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 750,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 13,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Lamborghini Revuelto  - Revuelto HPEV"
+    },
+    {
+      "nid": 1111123,
+      "alias": "car/lamborghini/urus/2025/1111123",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/210ddab1e302974532055404366425aa.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 298500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2025 Lamborghini Urus  - Urus SE"
+    },
+    {
+      "nid": 1111124,
+      "alias": "car/lamborghini/urus/2025/1111124",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/92abb9a9b37dd490161aefff2fc82b6a.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 285000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2025 Lamborghini Urus  - Urus S E-Gear"
+    },
+    {
+      "nid": 1111147,
+      "alias": "car/lamborghini/islero/1968/1111147",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/8ad47d76870ba41ea701fba305701ef8.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 378500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 85500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 1464,
+      "manufactured_year": 1968,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Islero",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1968 Lamborghini Islero  - ISLERO 400 GT 2+2"
+    },
+    {
+      "nid": 1111148,
+      "alias": "car/lamborghini/aventador/2017/1111148",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/7d1fce30ef3317e2c0ac194a2e71e81e.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 528500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2017 Lamborghini Aventador  - Aventador LP750-4 Superveloce Roadster E-Gear"
+    },
+    {
+      "nid": 1111152,
+      "alias": "car/lamborghini/huracan/2016/1111152",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/06a714ee25a0abdb8187f09318afc541.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 194500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2016 Lamborghini Huracán  - Huracan LP610-4 Coupé DCT"
+    },
+    {
+      "nid": 1111162,
+      "alias": "car/lamborghini/gallardo/2007/1111162",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/f9fb1c3e15e98e36d6749394301554d4.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 98500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2007 Lamborghini Gallardo  - Gallardo 5.0 V10 Coupé"
+    },
+    {
+      "nid": 1111168,
+      "alias": "car/lamborghini/aventador/2016/1111168",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/929a47ea55953881ffb8dbd2eb2bd1a8.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 368500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2016 Lamborghini Aventador  - Aventador LP700-4 Coupé E-Gear Pirelli Edition"
+    },
+    {
+      "nid": 1111170,
+      "alias": "car/lamborghini/urus/2023/1111170",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/55820a45774862a49565c1db4255b650.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 244500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Urus S"
+    },
+    {
+      "nid": 1111171,
+      "alias": "car/lamborghini/revuelto/2025/1111171",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/f39bed5639ae2f50a5d1777bfaa322f7.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 588500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 19422,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Lamborghini Revuelto  - Revuelto HPEV"
+    },
+    {
+      "nid": 1111173,
+      "alias": "car/lamborghini/urus/2023/1111173",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/474cbcc66fcf9b96b715adcda9bfd496.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 308500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1390,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 14152,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Urus",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Lamborghini Urus  - Urus S"
+    },
+    {
+      "nid": 1111182,
+      "alias": "car/lamborghini/gallardo/2006/1111182",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/8fd680b080a3fb70a75719da941037da.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 118500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Lamborghini Gallardo  - Gallardo 5.0 V10 Coupé"
+    },
+    {
+      "nid": 1111183,
+      "alias": "car/lamborghini/gallardo/2008/1111183",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/8330d14b8777679f077a9b5b2ba84d1e.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 118500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 29500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 12,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2008 Lamborghini Gallardo  - Gallardo 5.0 V10 Spyder"
+    },
+    {
+      "nid": 1111197,
+      "alias": "car/lamborghini/huracan/2019/1111197",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/03b3100956c11b4cc12e1c5ab17a29b0.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 249500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 16900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Lamborghini Huracán  - Huracan EVO Coupé DCT"
+    },
+    {
+      "nid": 1111199,
+      "alias": "car/lamborghini/aventador/2019/1111199",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/a86e1963d0a347dca64b4c95868c1a84.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 468500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 85900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Lamborghini Aventador  - Aventador LP770-4 SVJ Superveloce Coupé E-Gear"
+    },
+    {
+      "nid": 1111203,
+      "alias": "car/lamborghini/huracan/2016/1111203",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/eb082d6b2b245ef1387eb5f70323a29e.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 248500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 9050,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 8553,
+      "manufactured_year": 2016,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Huracán",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2016 Lamborghini Huracán  - Huracan LP610-4 Avio Coupé DCT"
+    },
+    {
+      "nid": 1111211,
+      "alias": "car/lamborghini/gallardo/2010/1111211",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/8589a29907d9f7b29d47e853b9ff1f22.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 144500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 54800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 2834,
+      "manufactured_year": 2010,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2010 Lamborghini Gallardo  - Gallardo LP570-4 Coupé Superleggera E-Gear"
+    },
+    {
+      "nid": 1111219,
+      "alias": "car/lamborghini/aventador/2020/1111219",
+      "seller_id": 31203,
+      "seller_name": "Lamborghini Porrentruy - Roland Affolter S.A.",
+      "uid": 31203,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31203/cars_images/feed_1111022/0952cbc35bd25f1b2644596b4de33e36.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 418500,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 34500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 169,
+      "model": 5538,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "country": "CH",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2020 Lamborghini Aventador  - Aventador S LP740-4 Roadster E-Gear"
+    }
+  ]
+}

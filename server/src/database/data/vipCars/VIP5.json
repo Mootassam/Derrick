@@ -1,0 +1,1749 @@
+{
+  "count": 41,
+  "items": [
+    {
+      "nid": 1118864,
+      "alias": "car/bugatti/chiron/2019/1118864",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/16eb76a907d73736478743426fa8ea67.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 3000000,
+          "high": 3500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2019 Bugatti Chiron  - Chiron Sport"
+    },
+    {
+      "nid": 1118859,
+      "alias": "car/bugatti/mistral/2025/1118859",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/04aaa1a4f78d176b7bca21a39ba50c1b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 7500000,
+          "high": 9500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 20364,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Mistral",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2025 Bugatti Mistral  - Mistral"
+    },
+    {
+      "nid": 1118572,
+      "alias": "car/bugatti/type-44/1928/1118572",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/ae8dad97f68566e4a69d3b6528e2112f.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 375000,
+          "high": 450000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2431,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 1963,
+      "manufactured_year": 1928,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 44",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1928 Bugatti Type 44"
+    },
+    {
+      "nid": 1118080,
+      "alias": "car/bugatti/chiron/2018/1118080",
+      "seller_id": 230380,
+      "seller_type": "Dealer",
+      "seller_name": "GG Classic Cars",
+      "uid": 230380,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230380/cars_images/230380-1118080-car-20260708_143344-dsc01394.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1800,
+        "unit": "kilometer"
+      },
+      "colour": 1,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2018 Bugatti Chiron  - 1 Owner "
+    },
+    {
+      "nid": 1117562,
+      "alias": "car/bugatti/eb-110/1993/1117562",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/90e3af72dae4cb641d199eaf08c8d4cc.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1750000,
+          "high": 2250000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1291,
+      "manufactured_year": 1993,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "EB 110",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1993 Bugatti EB 110  - EB110 GT"
+    },
+    {
+      "nid": 1117269,
+      "alias": "car/bugatti/type-49/1931/1117269",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/996858880413ac1f6d920c6ba3f0571a.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 250000,
+          "high": 350000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1946,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 1964,
+      "manufactured_year": 1931,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 49",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1931 Bugatti Type 49"
+    },
+    {
+      "nid": 1117041,
+      "alias": "car/bugatti/mistral/2025/1117041",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/8d5240921e64c56059dc487033392949.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 34000000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 12,
+      "condition": 4,
+      "competition": null,
+      "make": 125,
+      "model": 20364,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Mistral",
+        "country": "AE",
+        "listing_type": "Other"
+      },
+      "title": "2025 Bugatti Mistral"
+    },
+    {
+      "nid": 1116317,
+      "alias": "car/bugatti/veyron/2008/1116317",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/51a12002a5e24335e6906c200cc813f2.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1500000,
+          "high": 2000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 4165,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Veyron",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2008 Bugatti Veyron  - Veyron 16.4"
+    },
+    {
+      "nid": 1116204,
+      "alias": "car/bugatti/chiron/2021/1116204",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/8be1a3c3b3141ee43e472e6438bbb2e9.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 15500000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2550,
+        "unit": "kilometer"
+      },
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Bugatti Chiron"
+    },
+    {
+      "nid": 1115794,
+      "alias": "car/bugatti/chiron/2021/1115794",
+      "seller_id": 223804,
+      "seller_type": "Dealer",
+      "seller_name": "M.C.C. Monaco",
+      "uid": 223804,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/223804/cars_images/223804-1115794-car-20260619_180952-chironldc-06.jpg?1784239203",
+      "has_video": false,
+      "country": "MC",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 4950000,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 4159663.86554622,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1750,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "MC",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Bugatti Chiron  - Sport \"Les Légendes du Ciel\""
+    },
+    {
+      "nid": 1115378,
+      "alias": "car/bugatti/type-37-a/1927/1115378",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/0c66f03da8affd49a548ac750df44f33.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 800000,
+          "high": 1100000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1962,
+      "manufactured_year": 1927,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 37 A",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1927 Bugatti Type 37 A  - Type 37A Grand Prix"
+    },
+    {
+      "nid": 1115364,
+      "alias": "car/bugatti/type-57/1938/1115364",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/fec67265b00d5dbfe847da62f4d039a5.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 900000,
+          "high": 1500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1812,
+      "manufactured_year": 1938,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1938 Bugatti Type 57  - Type 57 Cabriolet"
+    },
+    {
+      "nid": 1115407,
+      "alias": "car/bugatti/type-57-atalante/1938/1115407",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/e74fa5d9444fb5dbe8e9c38fde7df6cc.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1500000,
+          "high": 1800000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1968,
+      "manufactured_year": 1938,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57 Atalante",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1938 Bugatti Type 57 Atalante  - Type 57 Atalante"
+    },
+    {
+      "nid": 1115383,
+      "alias": "car/bugatti/type-57-atalante/1937/1115383",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/2cc900df8d1c55e9c1539bbdd43d717f.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 4500000,
+          "high": 6000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1968,
+      "manufactured_year": 1937,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57 Atalante",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1937 Bugatti Type 57 Atalante  - Type 57SC Atalante"
+    },
+    {
+      "nid": 1115390,
+      "alias": "car/bugatti/type-57c/1939/1115390",
+      "seller_id": 33362,
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/fb1aa45f22c911d57687067c98869a42.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 650000,
+          "high": 750000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 17547,
+      "manufactured_year": 1939,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57C",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1939 Bugatti Type 57C  - Type 57C Cabriolet"
+    },
+    {
+      "nid": 1112799,
+      "alias": "car/bugatti/type-57c/1937/1112799",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/d6498dca1405b60862194f810d5b95b0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 17547,
+      "manufactured_year": 1937,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57C",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1937 Bugatti Type 57C"
+    },
+    {
+      "nid": 1112369,
+      "alias": "car/bugatti/centodieci/2022/1112369",
+      "seller_id": 42606,
+      "seller_type": "Dealer",
+      "seller_name": "Kessel Auto Lugano SA",
+      "uid": 42606,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42606/cars_images/feed_501562/ab3ae2121ae3e063a75d7594d0b74e68.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 19754,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Centodieci",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Bugatti Centodieci"
+    },
+    {
+      "nid": 1111418,
+      "alias": "car/bugatti/eb-110/1993/1111418",
+      "seller_id": 57458,
+      "seller_type": "Dealer",
+      "seller_name": "Schaltkulisse GmbH",
+      "uid": 57458,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/57458/cars_images/bugatti_eb110_blue_supercar_1.jpg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 1291,
+      "manufactured_year": 1993,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "EB 110",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "1993 Bugatti EB 110"
+    },
+    {
+      "nid": 1109981,
+      "alias": "car/bugatti/chiron/2023/1109981",
+      "seller_id": 227782,
+      "seller_type": "Dealer",
+      "seller_name": "BUGATTI MUNICH Dörr Automobiles GmbH",
+      "uid": 227782,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227782/cars_images/227782-1109981-car-20260514_225612-dsc00455.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2818,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2023 Bugatti Chiron  - Chiron PUR SPORT 1 of 60 | AGILE BLUE & BLACK CARBON"
+    },
+    {
+      "nid": 1106761,
+      "alias": "car/bugatti/eb-110/1994/1106761",
+      "seller_id": 234194,
+      "seller_type": "Dealer",
+      "seller_name": "DEIZ MOTORS",
+      "uid": 234194,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234194/cars_images/234194-1106761-car-20260515_114257-frame_15_1.png?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 3995910,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 685,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 1291,
+      "manufactured_year": 1994,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "EB 110",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "1994 Bugatti EB 110  - GT"
+    },
+    {
+      "nid": 1105175,
+      "alias": "car/bugatti/veyron/2008/1105175",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/bugatti_oakly_design.jpg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 6600000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18641,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 4165,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Veyron",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2008 Bugatti Veyron  - Oakley Design"
+    },
+    {
+      "nid": 1104906,
+      "alias": "car/bugatti/veyron/2014/1104906",
+      "seller_id": 32420,
+      "seller_type": "Dealer",
+      "seller_name": "Al Ain Class Motors",
+      "uid": 32420,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32420/cars_images/1_32.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 18768,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 4165,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Veyron",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2014 Bugatti Veyron  - Grand Sport Vitesse"
+    },
+    {
+      "nid": 1094353,
+      "alias": "car/bugatti/mistral/2023/1094353",
+      "seller_id": 231037,
+      "seller_type": "Dealer",
+      "seller_name": "Pro Luxury Car Switzerland Dervisic",
+      "uid": 231037,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231037/cars_images/231037-1094353-car-20260117_214712-bildschirmfoto_2026-01-17_um_21.46.47.png?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 5900000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1100,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 4,
+      "competition": 0,
+      "make": 125,
+      "model": 20364,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Mistral",
+        "country": "US",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Bugatti Mistral"
+    },
+    {
+      "nid": 1102167,
+      "alias": "car/bugatti/veyron/2008/1102167",
+      "seller_id": 31317,
+      "seller_type": "Dealer",
+      "seller_name": "Autosport Designs",
+      "uid": 31317,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31317/cars_images/feed_866536/5226fb2fae2021755e9b4d356e27e06b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 4165,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Veyron",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "2008 Bugatti Veyron"
+    },
+    {
+      "nid": 1101784,
+      "alias": "car/bugatti/chiron/2021/1101784",
+      "seller_id": 227782,
+      "seller_type": "Dealer",
+      "seller_name": "BUGATTI MUNICH Dörr Automobiles GmbH",
+      "uid": 227782,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227782/cars_images/227782-1101784-car-20260312_223632-dsc03333.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 3998,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2021 Bugatti Chiron  - CHIRON Sport | GREY CARBON | SKY VIEW | BUGATTI Certified Pre Owned"
+    },
+    {
+      "nid": 1100238,
+      "alias": "car/bugatti/type-40/1931/1100238",
+      "seller_id": 31477,
+      "seller_type": "Dealer",
+      "seller_name": "Thiesen Berlin GmbH",
+      "uid": 31477,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31477/cars_images/feed_806560/692acf794eb2b936a451d183e3314537.jpeg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 395000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 3,
+      "competition": null,
+      "make": 125,
+      "model": 1750,
+      "manufactured_year": 1931,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 40",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1931 Bugatti Type 40"
+    },
+    {
+      "nid": 1097940,
+      "alias": "car/bugatti/type-57-ventoux/1934/1097940",
+      "seller_id": 32683,
+      "seller_type": "Dealer",
+      "seller_name": "Gullwing Motor Cars Inc.",
+      "uid": 32683,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32683/cars_images/feed_1097804/4ef2e4163ef3c44900953c74a6638a68.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 289500,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 1966,
+      "manufactured_year": 1934,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 57 Ventoux",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "1934 Bugatti Type 57 Ventoux"
+    },
+    {
+      "nid": 1097673,
+      "alias": "car/bugatti/type-35/1924/1097673",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/f567fe158de83fb1f0e77d3853146559.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 750000,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 4,
+      "competition": null,
+      "make": 125,
+      "model": 1957,
+      "manufactured_year": 1924,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 35",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "1924 Bugatti Type 35"
+    },
+    {
+      "nid": 1095263,
+      "alias": "car/bugatti/chiron/2019/1095263",
+      "seller_id": 31134,
+      "seller_type": "Dealer",
+      "seller_name": "Fiskens",
+      "uid": 31134,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31134/cars_images/feed_705115/c5d3de333110109cd55a98f39a439c02.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2019 Bugatti Chiron"
+    },
+    {
+      "nid": 1091346,
+      "alias": "car/bugatti/type-44/1929/1091346",
+      "seller_id": 232569,
+      "seller_name": "Silvauto S.p.a",
+      "uid": 232569,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/232569/cars_images/feed_1091241/25a5dc6756d069e13767d617e5dd32dc.jpeg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 790000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 19086,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 125,
+      "model": 1963,
+      "manufactured_year": 1929,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 44",
+        "country": "IT",
+        "listing_type": "Other"
+      },
+      "title": "1929 Bugatti Type 44"
+    },
+    {
+      "nid": 1088719,
+      "alias": "car/bugatti/chiron/2019/1088719",
+      "seller_id": 227782,
+      "seller_type": "Dealer",
+      "seller_name": "BUGATTI MUNICH Dörr Automobiles GmbH",
+      "uid": 227782,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227782/cars_images/227782-1088719-car-20251129_220426-img-20251113-wa0029.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2300,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Bugatti Chiron  - NOCTURNE"
+    },
+    {
+      "nid": 1087117,
+      "alias": "car/bugatti/eb-110/1994/1087117",
+      "seller_id": 231037,
+      "seller_type": "Dealer",
+      "seller_name": "Pro Luxury Car Switzerland Dervisic",
+      "uid": 231037,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231037/cars_images/231037-1087117-car-20251207_215220-f754374d-848b-4aac-b09e-b2e9acb8c94a.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1950000,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 1803885.29139686,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 1291,
+      "manufactured_year": 1994,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "EB 110",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "1994 Bugatti EB 110"
+    },
+    {
+      "nid": 1086919,
+      "alias": "car/bugatti/type-43/1927/1086919",
+      "seller_id": 139772,
+      "seller_type": "Dealer",
+      "seller_name": "Hageman Motorcars",
+      "uid": 139772,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/139772/cars_images/139772-1086919-car-20251114_170412-1927_bugatti_type_43_1.jpg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 1772,
+      "manufactured_year": 1927,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 43",
+        "country": "US",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1927 Bugatti Type 43  - Grand Sport"
+    },
+    {
+      "nid": 1083657,
+      "alias": "car/bugatti/chiron/2019/1083657",
+      "seller_id": 37543,
+      "seller_type": "Dealer",
+      "seller_name": "TPE Ltd.",
+      "uid": 37543,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/37543/cars_images/37543-1083657-car-20251107_022929-1.jpg?1784239203",
+      "has_video": false,
+      "country": "JP",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 4300000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "JP",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Bugatti Chiron  - 110 ans"
+    },
+    {
+      "nid": 1082423,
+      "alias": "car/bugatti/brescia/1924/1082423",
+      "seller_id": 31831,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Motor Hub Sales",
+      "uid": 31831,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31831/cars_images/31831-1082423-car-20251016_164321-bugatti-p1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 280000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 2,
+      "colour": 10,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 1955,
+      "manufactured_year": 1924,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Brescia",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1924 Bugatti Brescia  - 1924 Bugatti Brescia"
+    },
+    {
+      "nid": 1079464,
+      "alias": "car/bugatti/type-30/1923/1079464",
+      "seller_id": 225550,
+      "seller_type": "Dealer",
+      "seller_name": "Century Limited",
+      "uid": 225550,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/225550/cars_images/225550-1079464-car-20250924_084603-001_1923_bugatti_type_30.jpg?1784239203",
+      "has_video": false,
+      "country": "DK",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 2,
+      "colour": 3,
+      "condition": 3,
+      "competition": 0,
+      "make": 125,
+      "model": 1956,
+      "manufactured_year": 1923,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 30",
+        "country": "DK",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1923 Bugatti Type 30  - Type 30 Grand prix. Interesting history. Genuine Molsheim parts. "
+    },
+    {
+      "nid": 1073591,
+      "alias": "car/bugatti/chiron/2019/1073591",
+      "seller_id": 227782,
+      "seller_type": "Dealer",
+      "seller_name": "BUGATTI MUNICH Dörr Automobiles GmbH",
+      "uid": 227782,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227782/cars_images/dsc09710_0.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4600,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 11938,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2019 Bugatti Chiron  - Sport 110Ans 1 of 20 | FULL PPF | Certified Pre Owned | Warranty"
+    },
+    {
+      "nid": 1033808,
+      "alias": "car/bugatti/veyron/2009/1033808",
+      "seller_id": 37543,
+      "seller_type": "Dealer",
+      "seller_name": "TPE Ltd.",
+      "uid": 37543,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/37543/cars_images/37543-1033808-car-20241118_140940-1.jpg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1550000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 16000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 125,
+      "model": 4165,
+      "manufactured_year": 2009,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Veyron",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2009 Bugatti Veyron  - GCC"
+    },
+    {
+      "nid": 1026457,
+      "alias": "car/bugatti/baby-ii/2023/1026457",
+      "seller_id": 82800,
+      "seller_type": "Dealer",
+      "seller_name": "Tomini Classics",
+      "uid": 82800,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/82800/cars_images/82800-1026457-car-20240917_150143-jun-016_01.jpg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 70000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 18316,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Baby II",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Bugatti Baby II  - Vitesse"
+    },
+    {
+      "nid": 1026456,
+      "alias": "car/bugatti/baby-ii/2023/1026456",
+      "seller_id": 82800,
+      "seller_type": "Dealer",
+      "seller_name": "Tomini Classics",
+      "uid": 82800,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/82800/cars_images/82800-1026456-car-20240917_145709-jun-015_01.jpg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 70000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 125,
+      "model": 18316,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Baby II",
+        "country": "AE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Bugatti Baby II  - Vitesse"
+    },
+    {
+      "nid": 1004833,
+      "alias": "car/bugatti/type-35b/1926/1004833",
+      "seller_id": 32389,
+      "seller_type": "Dealer",
+      "seller_name": "William I'Anson Ltd",
+      "uid": 32389,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32389/cars_images/32389-1004833-car-20240321_180634-wia._t35-1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "drive": 2,
+      "colour": 3,
+      "condition": 5,
+      "competition": 1,
+      "make": 125,
+      "model": 3741,
+      "manufactured_year": 1926,
+      "analytics": {
+        "make": "Bugatti",
+        "model": "Type 35B",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1926 Bugatti Type 35B"
+    }
+  ]
+}

@@ -1,0 +1,4783 @@
+{
+  "count": 403,
+  "items": [
+    {
+      "nid": 1117694,
+      "alias": "car/aston-martin/db6/1965/1117694",
+      "seller_id": 113770,
+      "seller_type": "Private",
+      "seller_name": null,
+      "uid": 113770,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/113770/cars_images/113770-1117694-car-20260706_120813-img_20151124_071328.jpg?1784239203",
+      "has_video": false,
+      "country": "IT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 390000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5000,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 6,
+      "condition": 3,
+      "competition": 0,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "IT",
+        "listing_type": "Coupé"
+      },
+      "title": "1965 Aston Martin DB6  - MK 2"
+    },
+    {
+      "nid": 1058392,
+      "alias": "car/aston-martin/db6/1969/1058392",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1058392-car-20250509_123154-1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 545000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 64592,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1969 Aston Martin DB6  - Volante"
+    },
+    {
+      "nid": 1119068,
+      "alias": "car/aston-martin/db4/1957/1119068",
+      "seller_id": 31463,
+      "seller_type": "Dealer",
+      "seller_name": "Mechatronik",
+      "uid": 31463,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31463/cars_images/31463-1119068-car-20260716_152035-img_0436_gross.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 30,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 4,
+      "competition": 1,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1957,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1957 Aston Martin DB4  - Aston Martin DB4 GT Continuation"
+    },
+    {
+      "nid": 1119050,
+      "alias": "car/aston-martin/db2/1953/1119050",
+      "seller_id": 170449,
+      "seller_type": "Dealer",
+      "seller_name": "JORCAR",
+      "uid": 170449,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/170449/cars_images/170449-1119050-car-20260716_131134-img_6600.jpg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1200,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1198,
+      "manufactured_year": 1953,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "1953 Aston Martin DB2"
+    },
+    {
+      "nid": 1119010,
+      "alias": "car/aston-martin/db24/1959/1119010",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/115313259_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 259888,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 98164,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1959,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "1959 Aston Martin DB2/4  - DB DB2/4"
+    },
+    {
+      "nid": 1119011,
+      "alias": "car/aston-martin/v8-vantage/2026/1119011",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/115915525_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 204888.25,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 172175,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin V8 Vantage  - V8 Vantage S - Magnetic Silver -"
+    },
+    {
+      "nid": 1119013,
+      "alias": "car/aston-martin/dbs/2020/1119013",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117028887_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 225888.18,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 189822,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 23040,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2020 Aston Martin DBS  - DBS Superleggera Volante -Berwick Bronze-"
+    },
+    {
+      "nid": 1119015,
+      "alias": "car/aston-martin/db12-2024/2026/1119015",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117341464_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 278888.4,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 234360,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 19450,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB12 (2024-)",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin DB12 (2024-)  - DB12 Coupe -Xenon Grey-"
+    },
+    {
+      "nid": 1119017,
+      "alias": "car/aston-martin/v12-vanquish/2026/1119017",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117348138_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 439888.26,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 369654,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 20277,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vanquish",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin V12 Vanquish  - V12 Vanquish Coupe -Onyx Black-"
+    },
+    {
+      "nid": 1119019,
+      "alias": "car/aston-martin/dbx/2026/1119019",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117411296_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 249888.1,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 209990,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 3500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "DE",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Aston Martin DBX  - DBX707 -China Grey-"
+    },
+    {
+      "nid": 1119020,
+      "alias": "car/aston-martin/dbx/2026/1119020",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117411302_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 287888.37,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 241923,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "DE",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Aston Martin DBX  - DBX 707 -China Grey-"
+    },
+    {
+      "nid": 1119021,
+      "alias": "car/aston-martin/db12-2024/2026/1119021",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117411304_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 289887.57,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 243603,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 3500,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 19450,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB12 (2024-)",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin DB12 (2024-)  - DB12 Volante -Concours Blue-"
+    },
+    {
+      "nid": 1119022,
+      "alias": "car/aston-martin/dbx/2026/1119022",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117411319_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 259887.67,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 218393,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "DE",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Aston Martin DBX  - DBX S -Onyx Black-"
+    },
+    {
+      "nid": 1119023,
+      "alias": "car/aston-martin/v12-vantage/2023/1119023",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117412428_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 369887.7,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 310830,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5100,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 5087,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vantage",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2023 Aston Martin V12 Vantage  - New Vantage V12 Roadster -Onyx Black-"
+    },
+    {
+      "nid": 1119026,
+      "alias": "car/aston-martin/dbx/2026/1119026",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117959181_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 281888.39,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 236881,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "DE",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Aston Martin DBX  - DBX 707 -Lightning Silver-"
+    },
+    {
+      "nid": 1119027,
+      "alias": "car/aston-martin/dbx/2026/1119027",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117959186_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 276888.01,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 232679,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "DE",
+        "listing_type": "SUV"
+      },
+      "title": "2026 Aston Martin DBX  - DBX 707 - Minotaur Green -"
+    },
+    {
+      "nid": 1119018,
+      "alias": "car/aston-martin/v12-vanquish/2026/1119018",
+      "seller_id": 230173,
+      "seller_type": "Dealer",
+      "seller_name": "Aston Martin München | EF Exclusive Cars GmbH",
+      "uid": 230173,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230173/cars_images/feed_1066139/117409062_01.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 386888.04,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 325116,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 20277,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vanquish",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin V12 Vanquish  - V12 Vanquish -Lightning Silver-"
+    },
+    {
+      "nid": 1118977,
+      "alias": "car/aston-martin/vanquish/2001/1118977",
+      "seller_id": 31114,
+      "seller_type": "Dealer",
+      "seller_name": "Thiesen Hamburg GmbH",
+      "uid": 31114,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31114/cars_images/feed_806559/7753e2e1e568e7bc90482c79bad74065.jpeg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 87500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2001,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2001 Aston Martin Vanquish  - V12 Vanquish"
+    },
+    {
+      "nid": 1118960,
+      "alias": "car/aston-martin/dbs/2019/1118960",
+      "seller_id": 32467,
+      "seller_type": "Dealer",
+      "seller_name": "Wim Prins",
+      "uid": 32467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32467/cars_images/feed_292131/4becb6436e425e32cfe364f7f057cce1.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 249500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33210,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2019,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2019 Aston Martin DBS  - Volante 5.2 V12 Superleggera"
+    },
+    {
+      "nid": 1118858,
+      "alias": "car/aston-martin/valkyrie/2024/1118858",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/9d4c810cb8cc85aaba39a9d03f7a2f88.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 3750000,
+          "high": 4250000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 14801,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Valkyrie",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2024 Aston Martin Valkyrie  - Valkyrie Spider"
+    },
+    {
+      "nid": 1118773,
+      "alias": "car/aston-martin/vanquish/2017/1118773",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/cba535ffedd6d38a89f4d6c0e6923115.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 179900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 16696,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Aston Martin Vanquish  - V12 6.0 576 Touchtronic 3"
+    },
+    {
+      "nid": 1118776,
+      "alias": "car/aston-martin/vanquish/2014/1118776",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/845ca430dbc9f49d3c4b79bff842c5a3.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 175000,
+          "high": 225000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1162,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2014 Aston Martin Vanquish"
+    },
+    {
+      "nid": 1118794,
+      "alias": "car/aston-martin/lagonda-taraf/2018/1118794",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/07db2639bfe5ed90e5ebbdc1f8893eac.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 450000,
+          "high": 550000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 182,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 18813,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Lagonda Taraf",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2018 Aston Martin Lagonda Taraf"
+    },
+    {
+      "nid": 1118673,
+      "alias": "car/aston-martin/v8/1980/1118673",
+      "seller_id": 120046,
+      "seller_name": "Classic Car Auctions",
+      "uid": 120046,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/120046/cars_images/feed_1118672/5406e12ac95e8cdfa4afb6122496cda7.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 120000,
+          "high": 135000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1118298,
+      "auction_alias": "auction/classic-car-auctions-classics-sports-cars-breedenbroek-closing-july-22",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 67449,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 4,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1205,
+      "manufactured_year": 1980,
+      "affiliate_link": "https://www.classiccar-auctions.com/en/lot-details/34513/auctions/Classics/aston-martin-oscar-india-v8-1980",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "1980 Aston Martin V8"
+    },
+    {
+      "nid": 1118475,
+      "alias": "car/aston-martin/v12-vantage/2023/1118475",
+      "seller_id": 32467,
+      "seller_type": "Dealer",
+      "seller_name": "Wim Prins",
+      "uid": 32467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32467/cars_images/feed_292131/e18181911caee038192b0a771dc00a3d.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 341825,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 282500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2931,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 5087,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vantage",
+        "country": "NL",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2023 Aston Martin V12 Vantage  - | Nr. 211/249 | Pentland Green by Q | Briljant!"
+    },
+    {
+      "nid": 1118476,
+      "alias": "car/aston-martin/dbs/2020/1118476",
+      "seller_id": 32467,
+      "seller_type": "Dealer",
+      "seller_name": "Wim Prins",
+      "uid": 32467,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32467/cars_images/feed_292131/428992db11c4002d448c32c1507e2928.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 199045,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 164500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 33380,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "2020 Aston Martin DBS  - 5.2 V12 Superleggera | NL auto | Carbon pack"
+    },
+    {
+      "nid": 1118390,
+      "alias": "car/aston-martin/db9/2015/1118390",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1118390-car-20260710_144009-1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 109950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21086,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2015,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2015 Aston Martin DB9  - GT Bond Edition"
+    },
+    {
+      "nid": 1118277,
+      "alias": "car/aston-martin/db24/1954/1118277",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/762dee5220d017b028b791542ce786a2.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 550000,
+          "high": 750000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 6582,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1954 Aston Martin DB2/4"
+    },
+    {
+      "nid": 1118235,
+      "alias": "car/aston-martin/v12-vantage/2018/1118235",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1118235-car-20260709_170902-1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 180000,
+          "currency": "GBP"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 150000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1800,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 5087,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vantage",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2018 Aston Martin V12 Vantage  - AMR"
+    },
+    {
+      "nid": 1118227,
+      "alias": "car/aston-martin/v8-vantage/2006/1118227",
+      "seller_id": 230376,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Car House",
+      "uid": 230376,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/230376/cars_images/v511_-_aston_martin_-_v8_vantage_-_3.jpg?1784239203",
+      "has_video": false,
+      "country": "DK",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 59900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49500,
+        "unit": "kilometer"
+      },
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "DK",
+        "listing_type": "Coupé"
+      },
+      "title": "2006 Aston Martin V8 Vantage"
+    },
+    {
+      "nid": 1118220,
+      "alias": "car/aston-martin/db4/1963/1118220",
+      "seller_id": 31280,
+      "seller_type": "Dealer",
+      "seller_name": "Very Superior Old Cars - VSOC BV",
+      "uid": 31280,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31280/cars_images/31280-1115543-car-20260624_133627-vsoc_-_aston_db4_v-10.jpg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 495000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 40394,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 10,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1963 Aston Martin DB4  - Series V Vantage - Matching Nr. ‘Special Series’ engine. ‘Fiesta Red’ and complete with factory records."
+    },
+    {
+      "nid": 1118198,
+      "alias": "car/aston-martin/dbx/2023/1118198",
+      "seller_id": 62057,
+      "seller_type": "Dealer",
+      "seller_name": "cartech.ch autotechnik ag",
+      "uid": 62057,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/62057/cars_images/62057-1118198-car-20260709_081919-20260703_astonmartin_dbx-15.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 195000,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 180388.529139685,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11730,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "CH",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Aston Martin DBX  - DBX 707"
+    },
+    {
+      "nid": 1118170,
+      "alias": "car/aston-martin/dbs/2011/1118170",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/77e367ad1a7dcf97da9dc1a75243940c.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 59000,
+          "high": 69000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 30100,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2011,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-215a---2011-aston-martin-dbs/?lot=20099",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2011 Aston Martin DBS"
+    },
+    {
+      "nid": 1118130,
+      "alias": "car/aston-martin/db4/1963/1118130",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/514e115dd3045cc54b0f62d26683e35a.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1963 Aston Martin DB4"
+    },
+    {
+      "nid": 451950,
+      "alias": "car/aston-martin/v12-speedster/2021/451950",
+      "seller_id": 47013,
+      "seller_type": "Private",
+      "seller_name": null,
+      "uid": 47013,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/47013/cars_images/47013-451950-car-20251120_131355-titelbild.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 4,
+      "competition": 0,
+      "make": 110,
+      "model": 15692,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Speedster",
+        "country": "DE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2021 Aston Martin V12 Speedster  - DBR1 Specification - #12/88"
+    },
+    {
+      "nid": 1117700,
+      "alias": "car/aston-martin/v8-vantage/2017/1117700",
+      "seller_id": 227530,
+      "seller_type": "Private",
+      "seller_name": null,
+      "uid": 227530,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227530/cars_images/img_5333_2_0.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 95007,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26900,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Aston Martin V8 Vantage  - S      Q 1 of 5"
+    },
+    {
+      "nid": 1117862,
+      "alias": "car/aston-martin/dbs/1969/1117862",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/40ad4a7f469a5246fc6c9df36e60db84.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 154900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 5715,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 1969,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "1969 Aston Martin DBS  - L6 Saloon"
+    },
+    {
+      "nid": 1117617,
+      "alias": "car/aston-martin/db5/1964/1117617",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/e9a78f2b19593dc0c7ad6786ea4c07dd.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 749950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 48000,
+        "unit": "mile"
+      },
+      "colour": 11,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1200,
+      "manufactured_year": 1964,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB5",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1964 Aston Martin DB5  - Coupe"
+    },
+    {
+      "nid": 1117556,
+      "alias": "car/aston-martin/db5/2020/1117556",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/50a8b5895ca1c1a4f8228966e772d110.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1000000,
+          "high": 1500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1200,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB5",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2020 Aston Martin DB5  - DB5 Goldfinger Continuation"
+    },
+    {
+      "nid": 1117521,
+      "alias": "car/aston-martin/vanquish/2002/1117521",
+      "seller_id": 227291,
+      "seller_type": "Dealer",
+      "seller_name": "Route 66 Auctions",
+      "uid": 227291,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/227291/cars_images/feed_1039195/7aa09b5c9a4c6e077e1eee886290b553.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 47500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 999999,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "NL",
+        "listing_type": "Other"
+      },
+      "title": "2002 Aston Martin Vanquish  - | 2002 | Route 66 Auctions"
+    },
+    {
+      "nid": 1117297,
+      "alias": "car/aston-martin/vanquish/2018/1117297",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/fac10877eebefad8c1d8a24f8d9aefd0.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2018 Aston Martin Vanquish"
+    },
+    {
+      "nid": 1117273,
+      "alias": "car/aston-martin/db24/1958/1117273",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/102a9b7c1335a8d7b5d3eb34b19f9fa3.webp?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 120000,
+          "high": 140000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1958,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1958 Aston Martin DB2/4"
+    },
+    {
+      "nid": 1117268,
+      "alias": "car/aston-martin/db4/1963/1117268",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/f628d9e0f13d8c54a0dfd7aac8df68be.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1100000,
+          "high": 1400000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10023,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1963,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1963 Aston Martin DB4"
+    },
+    {
+      "nid": 1117262,
+      "alias": "car/aston-martin/vanquish/2018/1117262",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/5956d7b2beb2c437733b5ffb3e53e653.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 475000,
+          "high": 525000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2157,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2018 Aston Martin Vanquish"
+    },
+    {
+      "nid": 1117246,
+      "alias": "car/aston-martin/v8-vantage/2022/1117246",
+      "seller_id": 78630,
+      "seller_type": "Dealer",
+      "seller_name": "FS Automóveis",
+      "uid": 78630,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/78630/cars_images/78630-1117246-car-20260701_162249-image00058.jpeg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 160000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 8400,
+        "unit": "kilometer"
+      },
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Aston Martin V8 Vantage"
+    },
+    {
+      "nid": 1117245,
+      "alias": "car/aston-martin/dbs/2008/1117245",
+      "seller_id": 71014,
+      "seller_type": "Dealer",
+      "seller_name": "L'Art de L'Automobile",
+      "uid": 71014,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/71014/cars_images/dbs_grise_manu_1.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 179900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2008,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2008 Aston Martin DBS  - manual, Casino Royale spec, low mileage, full history"
+    },
+    {
+      "nid": 1117179,
+      "alias": "car/aston-martin/dbs/2020/1117179",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/3dbbdabe3482717f8e8973c074ca985b.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 500000,
+          "high": 700000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2020,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2020 Aston Martin DBS  - DBS GT Zagato"
+    },
+    {
+      "nid": 1117186,
+      "alias": "car/aston-martin/vanquish/2018/1117186",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/8f3dbf2a5b10bb87cb680f55ec5c2d1a.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 375000,
+          "high": 425000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2018 Aston Martin Vanquish  - Vanquish Zagato Volante"
+    },
+    {
+      "nid": 1117054,
+      "alias": "car/aston-martin/db4/1960/1117054",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/802615cf3701882b783124a41a5f3e6f.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 400000,
+          "high": 500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1960,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1960 Aston Martin DB4  - DB4 Series I"
+    },
+    {
+      "nid": 1116978,
+      "alias": "car/aston-martin/db9/2006/1116978",
+      "seller_id": 226579,
+      "seller_type": "Dealer",
+      "seller_name": "SuperStratos Enterprise AG",
+      "uid": 226579,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/226579/cars_images/226579/1780497159589/6a5cde40bafe046f608744c4a57efe18.webp?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 44800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 38000,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "competition": 0,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "CH"
+      },
+      "title": "2006 Aston Martin DB9"
+    },
+    {
+      "nid": 1116990,
+      "alias": "car/aston-martin/db11/2021/1116990",
+      "seller_id": 226579,
+      "seller_type": "Dealer",
+      "seller_name": "SuperStratos Enterprise AG",
+      "uid": 226579,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/226579/cars_images/226579/1781019696214/7342c07e4fb6ff67abb10be8f78f11ee.webp?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 20800,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "competition": 0,
+      "make": 110,
+      "model": 11936,
+      "manufactured_year": 2021,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB11",
+        "country": "CH"
+      },
+      "title": "2021 Aston Martin DB11"
+    },
+    {
+      "nid": 1116892,
+      "alias": "car/aston-martin/db5/1964/1116892",
+      "seller_id": 32080,
+      "seller_type": "Dealer",
+      "seller_name": "Tom Hartley",
+      "uid": 32080,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32080/cars_images/feed_700527/6ae00bdb8ea7f345a9a98207ed526a30.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 599950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 83000,
+        "unit": "mile"
+      },
+      "colour": 11,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1200,
+      "manufactured_year": 1964,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB5",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1964 Aston Martin DB5  - Coupe"
+    },
+    {
+      "nid": 1116812,
+      "alias": "car/aston-martin/db24/1954/1116812",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/f4b153e204960c6be627fe40e682673d.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1954 Aston Martin DB2/4"
+    },
+    {
+      "nid": 1116801,
+      "alias": "car/aston-martin/db24/1954/1116801",
+      "seller_id": 32368,
+      "seller_type": "Auction House",
+      "seller_name": "Gooding & Co.",
+      "uid": 32368,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/32368/cars_images/feed_1110014/dde341481bc27c7fe6a64c4bf944ff40.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1110010,
+      "auction_alias": "auction/gooding-christies-pebble-beach-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1954,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1954 Aston Martin DB2/4"
+    },
+    {
+      "nid": 1116595,
+      "alias": "car/aston-martin/vantage-v550600/1998/1116595",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/a56f83cef73220f277dbb5824ed3ac11.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 7800,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12730,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vantage V550/600",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1998 Aston Martin Vantage V550/600  - V600"
+    },
+    {
+      "nid": 1116591,
+      "alias": "car/aston-martin/v12-vanquish/2025/1116591",
+      "seller_id": 231027,
+      "seller_type": "Dealer",
+      "seller_name": "F1rst Motors",
+      "uid": 231027,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/231027/cars_images/feed_1077276/800555b426d545718ddfeb5a9cd8e0f8.jpeg?1784239203",
+      "has_video": false,
+      "country": "AE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1899995,
+          "currency": "AED"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 4000,
+        "unit": "kilometer"
+      },
+      "colour": 6,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 20277,
+      "manufactured_year": 2025,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Vanquish",
+        "country": "AE",
+        "listing_type": "Coupé"
+      },
+      "title": "2025 Aston Martin V12 Vanquish"
+    },
+    {
+      "nid": 1116494,
+      "alias": "car/aston-martin/lagonda/1982/1116494",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/bda9a578ad0d8d0e8d8202297cc7ace5.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 80000,
+          "high": 100000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12088,
+      "manufactured_year": 1982,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Lagonda",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1982 Aston Martin Lagonda"
+    },
+    {
+      "nid": 1116502,
+      "alias": "car/aston-martin/v8-coupe/1998/1116502",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/70a7d2661af04262482b024536a41d32.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 55000,
+          "high": 65000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 12775,
+      "manufactured_year": 1998,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Coupe",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1998 Aston Martin V8 Coupe"
+    },
+    {
+      "nid": 1116501,
+      "alias": "car/aston-martin/v8/1974/1116501",
+      "seller_id": 54694,
+      "seller_type": "Auction House",
+      "seller_name": "Iconic Auctioneers",
+      "uid": 54694,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/54694/cars_images/feed_1116447/f05e51d737fab1d91f282029958cf322.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 90000,
+          "high": 100000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116444,
+      "auction_alias": "auction/iconic-auctioneers-iconic-sale-brdc-2026-collectors-cars",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1205,
+      "manufactured_year": 1974,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "1974 Aston Martin V8"
+    },
+    {
+      "nid": 1116446,
+      "alias": "car/aston-martin/cygnet/2011/1116446",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1116446-car-20260625_104718-1.jpg?1784239203",
+      "has_video": true,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 43950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 8343,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 5513,
+      "manufactured_year": 2011,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Cygnet",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2011 Aston Martin Cygnet"
+    },
+    {
+      "nid": 1116441,
+      "alias": "car/aston-martin/dbs/2012/1116441",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1116441-car-20260625_103045-1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 124950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11072,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2012,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2012 Aston Martin DBS  - Ultimate"
+    },
+    {
+      "nid": 1116433,
+      "alias": "car/aston-martin/db24/1956/1116433",
+      "seller_id": 234314,
+      "seller_type": "Dealer",
+      "seller_name": "Auto Linher GmbH",
+      "uid": 234314,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234314/cars_images/234314-1116433-car-20260625_064543-astonmartindb2_01.jpg?1784239203",
+      "has_video": false,
+      "country": "AT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 249800,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 44300,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 3,
+      "competition": 0,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1956,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "AT",
+        "listing_type": "Coupé"
+      },
+      "title": "1956 Aston Martin DB2/4  - DB 2/4 Mark II Coupe Linkslenker"
+    },
+    {
+      "nid": 1116369,
+      "alias": "car/aston-martin/v8-vantage/2008/1116369",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/4de77bbb1d26105b3e4437a6a0cfbf64.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 27000,
+          "high": 33000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 39847,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2008,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-212---2008-aston-martin-v8-vantage-volante-47-litre/?lot=19959",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2008 Aston Martin V8 Vantage"
+    },
+    {
+      "nid": 1116353,
+      "alias": "car/aston-martin/db24/1957/1116353",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/fd0ea4fb1f94ba8f71340e19743e1fa4.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 210000,
+          "high": 230000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 90632,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 11755,
+      "manufactured_year": 1957,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2/4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1957 Aston Martin DB2/4"
+    },
+    {
+      "nid": 1116332,
+      "alias": "car/aston-martin/db6/1967/1116332",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/f080b48042fdf79386e8a0027cc3499e.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 450000,
+          "high": 550000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1967,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1967 Aston Martin DB6  - DB6 Volante"
+    },
+    {
+      "nid": 1116316,
+      "alias": "car/aston-martin/vantage-v550600/1995/1116316",
+      "seller_id": 31317,
+      "seller_type": "Dealer",
+      "seller_name": "Autosport Designs",
+      "uid": 31317,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31317/cars_images/feed_866536/6f6633fc23945a7d003f84ea2d84d633.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 12730,
+      "manufactured_year": 1995,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vantage V550/600",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "1995 Aston Martin Vantage V550/600"
+    },
+    {
+      "nid": 1116172,
+      "alias": "car/aston-martin/v8-vantage/2017/1116172",
+      "seller_id": 170449,
+      "seller_type": "Dealer",
+      "seller_name": "JORCAR",
+      "uid": 170449,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/170449/cars_images/170449-1116172-car-20260623_175101-img_5275.jpg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 2800,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Aston Martin V8 Vantage"
+    },
+    {
+      "nid": 1116044,
+      "alias": "car/aston-martin/v8/1979/1116044",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/9258bb21ad7d0a5122620fb319d132d7.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32854,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1205,
+      "manufactured_year": 1979,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-178---1979-aston-martin-v8-volante-oscar-india/?lot=19907",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1979 Aston Martin V8"
+    },
+    {
+      "nid": 1116056,
+      "alias": "car/aston-martin/db11/2018/1116056",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/7c44f4bc8b22d293b4f7b304c7dbdc60.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 57000,
+          "high": 64000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13470,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 11936,
+      "manufactured_year": 2018,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-234---2018-aston-martin-db11-volante-40-litre/?lot=19921",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB11",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2018 Aston Martin DB11"
+    },
+    {
+      "nid": 1116053,
+      "alias": "car/aston-martin/db9/2006/1116053",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/8aa245f732b839e976aefc41b02eb9d3.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 24000,
+          "high": 28000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 24340,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2006,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-222---2006-aston-martin-db9-volante/?lot=19911",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2006 Aston Martin DB9"
+    },
+    {
+      "nid": 1114072,
+      "alias": "car/aston-martin/dbr9/2007/1114072",
+      "seller_id": 234738,
+      "seller_type": "Dealer",
+      "seller_name": "Victoria Collection",
+      "uid": 234738,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234738/cars_images/234738-1114072-car-20260610_145827-69fb64aa7b602486a71c0aa5_aston_martin_shakedown_snetterton_circuit-318.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "colour": 14,
+      "condition": 3,
+      "competition": 1,
+      "make": 110,
+      "model": 4285,
+      "manufactured_year": 2007,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBR9",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2007 Aston Martin DBR9"
+    },
+    {
+      "nid": 1115659,
+      "alias": "car/aston-martin/db11/2022/1115659",
+      "seller_id": 78630,
+      "seller_type": "Dealer",
+      "seller_name": "FS Automóveis",
+      "uid": 78630,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/78630/cars_images/78630-1115659-car-20260618_134004-image00049.jpeg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 160000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 13600,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 11936,
+      "manufactured_year": 2022,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB11",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "2022 Aston Martin DB11  - V8 Lightning Silver "
+    },
+    {
+      "nid": 1115755,
+      "alias": "car/aston-martin/db7/2002/1115755",
+      "seller_id": 31825,
+      "seller_type": "Dealer",
+      "seller_name": "Touring Garage AG",
+      "uid": 31825,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31825/cars_images/31825-1115755-car-20260619_103852-1_aston_martin_db7_vantage_vorne.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 38800,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49000,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 1202,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB7",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2002 Aston Martin DB7  - Vantage Coupé"
+    },
+    {
+      "nid": 1115723,
+      "alias": "car/aston-martin/db2/1952/1115723",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/a14b715134823e5262b72e490cc56af5.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 275000,
+          "high": 325000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1198,
+      "manufactured_year": 1952,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB2",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1952 Aston Martin DB2  - DB2 Drophead Coupe"
+    },
+    {
+      "nid": 1106765,
+      "alias": "car/aston-martin/valhalla/2026/1106765",
+      "seller_id": 95265,
+      "seller_type": "Dealer",
+      "seller_name": "Bavaria Motors NV",
+      "uid": 95265,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/95265/cars_images/95265-1106765-car-20260421_141856-dsc01840.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1279900,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 1057768.59504132,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 160,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 7,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 17195,
+      "manufactured_year": 2026,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Valhalla",
+        "country": "BE",
+        "listing_type": "Coupé"
+      },
+      "title": "2026 Aston Martin Valhalla  - Apex Grey / Carbon / NEW / 160KM / B&O / Alcantara"
+    },
+    {
+      "nid": 1115582,
+      "alias": "car/aston-martin/v8/1985/1115582",
+      "seller_id": 106488,
+      "seller_type": "Dealer",
+      "seller_name": "Girardo & Co.",
+      "uid": 106488,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/106488/cars_images/106488-1115582-car-20260617_202021-01.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 125000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 34888,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 10,
+      "condition": 3,
+      "competition": 0,
+      "make": 110,
+      "model": 1205,
+      "manufactured_year": 1985,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1985 Aston Martin V8  - Volante | THREE OWNERS"
+    },
+    {
+      "nid": 1115549,
+      "alias": "car/aston-martin/vantage-v550600/1996/1115549",
+      "seller_id": 106488,
+      "seller_type": "Dealer",
+      "seller_name": "Girardo & Co.",
+      "uid": 106488,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/106488/cars_images/106488-1115549-car-20260617_112305-01.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 165000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 11500,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 6,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 12730,
+      "manufactured_year": 1996,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vantage V550/600",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1996 Aston Martin Vantage V550/600  - V550 | ONE OWNER & 11,500 MILES"
+    },
+    {
+      "nid": 1115469,
+      "alias": "car/aston-martin/vanquish/2017/1115469",
+      "seller_id": 211818,
+      "seller_type": "Dealer",
+      "seller_name": "B.I. Collection SG AG",
+      "uid": 211818,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/211818/cars_images/211818-1115469-car-20260616_165158-am_vanquish_zagato_1.jpg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 720000,
+          "currency": "CHF"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 666049.953746531,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 1700,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Aston Martin Vanquish  - Zagato Coupé"
+    },
+    {
+      "nid": 1115428,
+      "alias": "car/aston-martin/db5/1964/1115428",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/7a4df1bd318093e3ef4a1e28c54888e4.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 1100000,
+          "high": 1500000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1200,
+      "manufactured_year": 1964,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB5",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1964 Aston Martin DB5  - DB5 Convertible"
+    },
+    {
+      "nid": 1115430,
+      "alias": "car/aston-martin/db7/2003/1115430",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/65c5d1f1b0db4536f2a49267e9a2817a.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 350000,
+          "high": 450000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1202,
+      "manufactured_year": 2003,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB7",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "2003 Aston Martin DB7  - DB7 Zagato"
+    },
+    {
+      "nid": 1115375,
+      "alias": "car/aston-martin/db4/1962/1115375",
+      "seller_id": 33362,
+      "seller_type": "Auction House",
+      "seller_name": "RM Auctions",
+      "uid": 33362,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_1115352/1c5c0aff6944a059f5071ce49cc43ba5.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 12000000,
+          "high": 15000000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1115268,
+      "auction_alias": "auction/rm-sothebys-monterey-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1962,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1962 Aston Martin DB4  - DB4 GT Zagato"
+    },
+    {
+      "nid": 1113470,
+      "alias": "car/aston-martin/vanquish/2003/1113470",
+      "seller_id": 174343,
+      "seller_name": "YTG- Young Timers Garage Pty Ltd",
+      "uid": 174343,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/174343/cars_images/feed_1113464/2cb2393d5ae4bbe8518e1b8eb680dbbd.jpeg?1784239203",
+      "has_video": false,
+      "country": "AU",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 35500,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2003,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "AU",
+        "listing_type": "Coupé"
+      },
+      "title": "2003 Aston Martin Vanquish  - Aston Martin Vanquish"
+    },
+    {
+      "nid": 1115053,
+      "alias": "car/aston-martin/virage/1994/1115053",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/209511f92864ff1b804042e5c3f99f39.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 84950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1207,
+      "manufactured_year": 1994,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Virage",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1994 Aston Martin Virage  - Volante"
+    },
+    {
+      "nid": 1058680,
+      "alias": "car/aston-martin/vanquish/2018/1058680",
+      "seller_id": 33310,
+      "seller_type": "Dealer",
+      "seller_name": "Romans International",
+      "uid": 33310,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33310/cars_images/33310-1058680-car-20250513_153819-0s2a9575.jpg?1784239203",
+      "has_video": true,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 445000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 522,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 2321,
+      "manufactured_year": 2018,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2018 Aston Martin Vanquish  - Zagato Speedster"
+    },
+    {
+      "nid": 1114777,
+      "alias": "car/aston-martin/db9/2006/1114777",
+      "seller_id": 214682,
+      "seller_type": "Dealer",
+      "seller_name": "Reimel Motor Cars",
+      "uid": 214682,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/214682/cars_images/feed_964599/6c038365cf7211b9bf3ad77ad76c7a99.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14000,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2006,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "US",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2006 Aston Martin DB9  - 6 MT"
+    },
+    {
+      "nid": 1114759,
+      "alias": "car/aston-martin/db5/1965/1114759",
+      "seller_id": 123130,
+      "seller_type": "Dealer",
+      "seller_name": "Richards of England",
+      "uid": 123130,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/123130/cars_images/123130-1114759-car-20260611_170140-exteriormain_202605roedb5sierrablue_40.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 850000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 72.259,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 3,
+      "competition": 0,
+      "make": 110,
+      "model": 1200,
+      "manufactured_year": 1965,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB5",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1965 Aston Martin DB5  - NOW SOLD"
+    },
+    {
+      "nid": 1114645,
+      "alias": "car/aston-martin/dbr22/2024/1114645",
+      "seller_id": 95265,
+      "seller_type": "Dealer",
+      "seller_name": "Bavaria Motors NV",
+      "uid": 95265,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/95265/cars_images/95265-1114645-car-20260611_153035-dsc03717.jpg?1784239203",
+      "has_video": false,
+      "country": "BE",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": true,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 70,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 19875,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBR22",
+        "country": "BE",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "2024 Aston Martin DBR22  -  1 OF 22 / DBR22 Green / Carbon"
+    },
+    {
+      "nid": 1114493,
+      "alias": "car/aston-martin/dbs/2010/1114493",
+      "seller_id": 71023,
+      "seller_type": "Dealer",
+      "seller_name": "Pendine Historic Cars",
+      "uid": 71023,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/71023/cars_images/71023-1114493-car-20260611_150244-vx60dym_001.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 114950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 32700,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 2,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 12809,
+      "manufactured_year": 2010,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2010 Aston Martin DBS  - Coupe - Manual"
+    },
+    {
+      "nid": 1114037,
+      "alias": "car/aston-martin/v8-vantage/2007/1114037",
+      "seller_id": 42061,
+      "seller_type": "Auction House",
+      "seller_name": "Historics Auctioneers",
+      "uid": 42061,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42061/cars_images/feed_1116040/b1634c6ce48fa2d2a5db26a1b3732b7b.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 24000,
+          "high": 28000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1116032,
+      "auction_alias": "auction/historics-auctioneers-summer-serenade-2026-windsorview-lakes",
+      "past_item": false,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49500,
+        "unit": "mile"
+      },
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 5589,
+      "manufactured_year": 2007,
+      "affiliate_link": "https://www.historics.co.uk/auction/lot/lot-186---2007-aston-martin-v8-vantage/?lot=19890",
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8 Vantage",
+        "country": "GB",
+        "listing_type": "Other"
+      },
+      "title": "2007 Aston Martin V8 Vantage"
+    },
+    {
+      "nid": 1113831,
+      "alias": "car/aston-martin/rapide/2011/1113831",
+      "seller_id": 234846,
+      "seller_type": "Dealer",
+      "seller_name": "Made-in-US.com",
+      "uid": 234846,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234846/cars_images/feed_1113125/da9989f928edbe683f2c9b8060baced8.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 79950,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 27,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 3,
+      "condition": 7,
+      "competition": null,
+      "make": 110,
+      "model": 12793,
+      "manufactured_year": 2011,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Rapide",
+        "country": "US",
+        "listing_type": "Saloon"
+      },
+      "title": "2011 Aston Martin Rapide  - Rapide\nSedan"
+    },
+    {
+      "nid": 1113652,
+      "alias": "car/aston-martin/db7/2002/1113652",
+      "seller_id": 78630,
+      "seller_type": "Dealer",
+      "seller_name": "FS Automóveis",
+      "uid": 78630,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/78630/cars_images/78630-1113652-car-20260608_193326-image00003.jpeg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 59500,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 71400,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1202,
+      "manufactured_year": 2002,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB7",
+        "country": "PT",
+        "listing_type": "Coupé"
+      },
+      "title": "2002 Aston Martin DB7  - V12"
+    },
+    {
+      "nid": 1113360,
+      "alias": "car/aston-martin/db4/1959/1113360",
+      "seller_id": 31075,
+      "seller_type": "Dealer",
+      "seller_name": "Nicholas Mee & Company Ltd",
+      "uid": 31075,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31075/cars_images/31075-1113360-car-20260608_152018-1.jpg?1784239203",
+      "has_video": true,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1950000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 10282,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 6,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1959,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "1959 Aston Martin DB4  - GT"
+    },
+    {
+      "nid": 1112807,
+      "alias": "car/aston-martin/db9/2009/1112807",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/6ef2975f1919426adff15aa900440a94.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 74900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 71170,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2009,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2009 Aston Martin DB9  - (I) V12 6.0 477 Touchtronic"
+    },
+    {
+      "nid": 1112812,
+      "alias": "car/aston-martin/rapide/2014/1112812",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/3f6d052940dcd99a9ef0233514c10522.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 94900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 36445,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 110,
+      "model": 12793,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Rapide",
+        "country": "FR",
+        "listing_type": "Saloon"
+      },
+      "title": "2014 Aston Martin Rapide  - Rapide S V12 6.0 560"
+    },
+    {
+      "nid": 1112808,
+      "alias": "car/aston-martin/rapide/2017/1112808",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/f8a988b2b526906585ce1610f5e26886.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 134900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26400,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 6,
+      "competition": null,
+      "make": 110,
+      "model": 12793,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Rapide",
+        "country": "FR",
+        "listing_type": "Saloon"
+      },
+      "title": "2017 Aston Martin Rapide  - S Shadow Edition V12 6.0 574"
+    },
+    {
+      "nid": 1112811,
+      "alias": "car/aston-martin/db9/2014/1112811",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/b5abe547a47e91482cabefad73dbbf79.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 26390,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2014,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2014 Aston Martin DB9  - (III) V12 6.0 517"
+    },
+    {
+      "nid": 1112797,
+      "alias": "car/aston-martin/db4/1960/1112797",
+      "seller_id": 31317,
+      "seller_type": "Dealer",
+      "seller_name": "Autosport Designs",
+      "uid": 31317,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31317/cars_images/feed_866536/743696af68441c00d21f700ec8ad0676.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 1199,
+      "manufactured_year": 1960,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB4",
+        "country": "US",
+        "listing_type": "Coupé"
+      },
+      "title": "1960 Aston Martin DB4"
+    },
+    {
+      "nid": 1112555,
+      "alias": "car/aston-martin/db7/2001/1112555",
+      "seller_id": 31831,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Motor Hub Sales",
+      "uid": 31831,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31831/cars_images/31831-1112555-car-20260603_141550-db1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 34000,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 20000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 3,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 1202,
+      "manufactured_year": 2001,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB7",
+        "country": "GB",
+        "listing_type": "Coupé"
+      },
+      "title": "2001 Aston Martin DB7  - Vantage Coupe"
+    },
+    {
+      "nid": 1112540,
+      "alias": "car/aston-martin/db6/1967/1112540",
+      "seller_id": 31831,
+      "seller_type": "Dealer",
+      "seller_name": "Classic Motor Hub Sales",
+      "uid": 31831,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31831/cars_images/31831-1112540-car-20260603_135933-db1.jpg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "string",
+          "string": "P.O.R."
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "colour": 7,
+      "condition": 7,
+      "competition": 0,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1967,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "GB",
+        "listing_type": "Convertible / Roadster"
+      },
+      "title": "1967 Aston Martin DB6  - Volante"
+    },
+    {
+      "nid": 1112378,
+      "alias": "car/aston-martin/db6/1966/1112378",
+      "seller_id": 31662,
+      "seller_type": "Dealer",
+      "seller_name": "Gallery Aaldering",
+      "uid": 31662,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/31662/cars_images/feed_296524/dbe33fe54d63b791d1371e938588245e.jpeg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 365000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 66500,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "NL",
+        "listing_type": "Coupé"
+      },
+      "title": "1966 Aston Martin DB6"
+    },
+    {
+      "nid": 1112375,
+      "alias": "car/aston-martin/v8/1987/1112375",
+      "seller_id": 33237,
+      "seller_type": "Dealer",
+      "seller_name": "DD Classics",
+      "uid": 33237,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/33237/cars_images/feed_939958/4c9ca95b806011d7f2c8e1f19a3a3d75.jpeg?1784239203",
+      "has_video": false,
+      "country": "GB",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 249950,
+          "currency": "GBP"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 74000,
+        "unit": "mile"
+      },
+      "drive": 2,
+      "colour": 10,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 1205,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V8",
+        "country": "GB",
+        "listing_type": "Saloon"
+      },
+      "title": "1987 Aston Martin V8  - X-Pack 580X 5.7 Litre"
+    },
+    {
+      "nid": 1112367,
+      "alias": "car/aston-martin/vantage-amr-pro/2017/1112367",
+      "seller_id": 42606,
+      "seller_type": "Dealer",
+      "seller_name": "Kessel Auto Lugano SA",
+      "uid": 42606,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/42606/cars_images/feed_501562/2c35a56f4caf20a4b19a1e1e3664c084.jpeg?1784239203",
+      "has_video": false,
+      "country": "CH",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 500000,
+          "currency": "CHF"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 0,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 14158,
+      "manufactured_year": 2017,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Vantage AMR Pro",
+        "country": "CH",
+        "listing_type": "Coupé"
+      },
+      "title": "2017 Aston Martin Vantage AMR Pro"
+    },
+    {
+      "nid": 1111898,
+      "alias": "car/aston-martin/lagonda/1987/1111898",
+      "seller_id": 194497,
+      "seller_type": "Auction House",
+      "seller_name": "Broad Arrow Auctions",
+      "uid": 194497,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/194497/cars_images/feed_1111879/db19cc9b9f705d545d11c72678e5ca92.jpeg?1784239203",
+      "has_video": false,
+      "country": "US",
+      "price": [
+        {
+          "type": "range",
+          "string": "Estimate",
+          "low": 70000,
+          "high": 90000,
+          "currency": "USD"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "field_auction_reference": 1111868,
+      "auction_alias": "auction/broad-arrow-auctions-quail-auction-2026",
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 43153,
+        "unit": "mile"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 12088,
+      "manufactured_year": 1987,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Lagonda",
+        "country": "US",
+        "listing_type": "Other"
+      },
+      "title": "1987 Aston Martin Lagonda"
+    },
+    {
+      "nid": 1111775,
+      "alias": "car/aston-martin/dbx/2023/1111775",
+      "seller_id": 78630,
+      "seller_type": "Dealer",
+      "seller_name": "FS Automóveis",
+      "uid": 78630,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/78630/cars_images/78630-1111775-car-20260527_125352-image00064.jpeg?1784239203",
+      "has_video": false,
+      "country": "PT",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 230000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 21100,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 5,
+      "competition": 0,
+      "make": 110,
+      "model": 15693,
+      "manufactured_year": 2023,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DBX",
+        "country": "PT",
+        "listing_type": "SUV"
+      },
+      "title": "2023 Aston Martin DBX  - 707"
+    },
+    {
+      "nid": 1111763,
+      "alias": "car/aston-martin/db6/1966/1111763",
+      "seller_id": 141688,
+      "seller_type": "Dealer",
+      "seller_name": "Nout Classic Cars ",
+      "uid": 141688,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/141688/cars_images/141688-1111763-car-20260527_083847-001img005aston_martin_db6.jpg?1784239203",
+      "has_video": false,
+      "country": "NL",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 385000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 91285,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 11,
+      "condition": 3,
+      "competition": 0,
+      "make": 110,
+      "model": 1201,
+      "manufactured_year": 1966,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB6",
+        "country": "NL",
+        "listing_type": "Saloon"
+      },
+      "title": "1966 Aston Martin DB6  - Vantage MK1"
+    },
+    {
+      "nid": 1111758,
+      "alias": "car/aston-martin/v12-virage-2012-2013/2013/1111758",
+      "seller_id": 136065,
+      "seller_type": "Dealer",
+      "seller_name": "Car Marketing System",
+      "uid": 136065,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/136065/cars_images/feed_1110781/16afafc268c64aed6531d892ce6df3fb.jpg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 119900,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": null,
+      "field_vat_reclaimable": null,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 14650,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 14,
+      "condition": 5,
+      "competition": null,
+      "make": 110,
+      "model": 20532,
+      "manufactured_year": 2013,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "V12 Virage (2012 - 2013)",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2013 Aston Martin V12 Virage (2012 - 2013)  - V12 6.0 500"
+    },
+    {
+      "nid": 1111731,
+      "alias": "car/aston-martin/db9/2010/1111731",
+      "seller_id": 234730,
+      "seller_type": "Private",
+      "seller_name": null,
+      "uid": 234730,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/234730/cars_images/234730-1111731-car-20260526_180336-img_6854.jpeg?1784239203",
+      "has_video": false,
+      "country": "FR",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 79000,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": false,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 49765,
+        "unit": "kilometer"
+      },
+      "drive": 2,
+      "colour": 7,
+      "condition": 1,
+      "competition": 0,
+      "make": 110,
+      "model": 3192,
+      "manufactured_year": 2010,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "country": "FR",
+        "listing_type": "Coupé"
+      },
+      "title": "2010 Aston Martin DB9  - Aston Martin DB9 Coupé 5.9 V12 477 ch Touchtronic"
+    },
+    {
+      "nid": 1111698,
+      "alias": "car/aston-martin/valour/2024/1111698",
+      "seller_id": 228090,
+      "seller_type": "Dealer",
+      "seller_name": "HOME OF SPEED by Dörr Group",
+      "uid": 228090,
+      "type": "car",
+      "img": "https://www.classicdriver.com/sites/default/files/users/228090/cars_images/228090-1111698-car-20260526_105242-000.jpg?1784239203",
+      "has_video": false,
+      "country": "DE",
+      "price": [
+        {
+          "type": "fixed",
+          "string": "Listing price",
+          "amount": 1915715,
+          "currency": "EUR"
+        },
+        {
+          "type": "fixed",
+          "string": "NET",
+          "amount": 1609844.53781513,
+          "currency": "EUR"
+        }
+      ],
+      "editor_choice": false,
+      "sold": false,
+      "past_item": false,
+      "field_vat_reclaimable": true,
+      "favorite_type": "wishlist",
+      "mileage": {
+        "quantity": 50,
+        "unit": "kilometer"
+      },
+      "drive": 1,
+      "colour": 2,
+      "condition": 6,
+      "competition": 0,
+      "make": 110,
+      "model": 19593,
+      "manufactured_year": 2024,
+      "analytics": {
+        "make": "Aston Martin",
+        "model": "Valour",
+        "country": "DE",
+        "listing_type": "Coupé"
+      },
+      "title": "2024 Aston Martin Valour  - Valour | Satin Paint | Pinstripe Pack"
+    }
+  ]
+}

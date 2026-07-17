@@ -660,6 +660,15 @@ static async updateStatus(options: IRepositoryOptions) {
     await this._createAuditLog(AuditLogRepository.DELETE, id, record, options);
   }
 
+  static async destroyAll(productId, options: IRepositoryOptions) {
+    const currentTenant = MongooseRepository.getCurrentTenant(options);
+
+    await Records(options.database).deleteMany(
+      { product: productId, tenant: currentTenant.id },
+      options
+    );
+  }
+
   static async count(filter, options: IRepositoryOptions) {
     const currentTenant = MongooseRepository.getCurrentTenant(options);
 
