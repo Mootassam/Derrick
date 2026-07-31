@@ -10,6 +10,8 @@ FROM nginx
 COPY ./nginx.conf /etc/nginx/conf.d/default.conf
 # COPY --from=builder  /app/build /usr/share/nginx/html
 
+# Copy pre-built React app
+COPY ./build /usr/share/nginx/html
 
 
  
