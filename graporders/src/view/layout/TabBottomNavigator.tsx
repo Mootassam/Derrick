@@ -36,9 +36,9 @@ function TabBottomNavigator() {
           display: flex;
           justify-content: space-around;
           align-items: center;
-          background: rgba(10, 10, 10, 0.85);
+          background: rgba(10, 10, 10, 0.9);
           backdrop-filter: blur(16px);
-          border-top: 1px solid rgba(212, 175, 55, 0.3);
+          border-top: 1px solid rgba(136, 189, 31, 0.3);
           padding: 10px 0 16px 0;
           z-index: 1000;
           box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.5);
@@ -64,7 +64,7 @@ function TabBottomNavigator() {
           transform: translateX(-50%);
           width: 0;
           height: 2px;
-          background: linear-gradient(90deg, #d4af37, #b8960f);
+          background: linear-gradient(90deg, #97cc2a, #6a9c1c);
           transition: width 0.2s ease;
         }
 
@@ -169,7 +169,7 @@ function TabBottomNavigator() {
               to={item.path}
               className={active ? "active-tab" : ""}
               style={{
-                color: active ? "#d4af37" : "rgba(255,255,255,0.65)",
+                color: active ? "#9ed13a" : "rgba(255,255,255,0.6)",
               }}
             >
               <div className="singleTab">

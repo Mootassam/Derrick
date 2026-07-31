@@ -261,13 +261,13 @@ function Profile() {
                 style={{ cursor: item.verified ? 'default' : 'pointer' }}
               >
                 <div className="item-left">
-                  <i className={item.icon} style={{ color: item.verified ? '#4caf50' : '#d4af37' }}></i>
-                  <span style={{ color: item.verified ? '#4caf50' : 'rgba(255,255,255,0.9)' }}>
+                  <i className={item.icon} style={{ color: item.verified ? '#5fcf3a' : '#9ed13a' }}></i>
+                  <span style={{ color: item.verified ? '#5fcf3a' : '#ffffff' }}>
                     {item.name}
                   </span>
                 </div>
                 {!item.verified && <i className="fas fa-chevron-right item-arrow"></i>}
-                {item.verified && <i className="fas fa-check-circle item-arrow" style={{ color: '#4caf50' }}></i>}
+                {item.verified && <i className="fas fa-check-circle item-arrow" style={{ color: '#5fcf3a' }}></i>}
               </div>
             ))}
           </div>
@@ -366,16 +366,16 @@ function Profile() {
         }
 
         .profile-container {
-          background: linear-gradient(135deg, #0a0a0a 0%, #0f0f0f 100%);
+          background: linear-gradient(135deg, #0a0a0a 0%, #0f130a 100%);
           min-height: 100vh;
           color: #ffffff;
-          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          font-family: 'Poppins', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         }
 
         /* User Info Section */
         .user-info-section {
           background: linear-gradient(145deg, #0f0f0f, #0a0a0a);
-          border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+          border-bottom: 1px solid rgba(136, 189, 31, 0.3);
           min-height: 160px;
           width: 100%;
           display: flex;
@@ -393,7 +393,7 @@ function Profile() {
           right: -20%;
           width: 200px;
           height: 200px;
-          background: radial-gradient(circle, rgba(212, 175, 55, 0.05), transparent);
+          background: radial-gradient(circle, rgba(136, 189, 31, 0.08), transparent);
           border-radius: 50%;
           pointer-events: none;
         }
@@ -404,16 +404,16 @@ function Profile() {
           border-radius: 50%;
           overflow: hidden;
           background: linear-gradient(135deg, #1e1e1e, #0a0a0a);
-          border: 2px solid #d4af37;
+          border: 2px solid #88bd1f;
           flex-shrink: 0;
           z-index: 2;
-          box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+          box-shadow: 0 0 20px rgba(136, 189, 31, 0.3);
           transition: all 0.3s ease;
         }
 
         .user-avatar:hover {
           transform: scale(1.05);
-          box-shadow: 0 0 30px rgba(212, 175, 55, 0.5);
+          box-shadow: 0 0 30px rgba(136, 189, 31, 0.5);
         }
 
         .user-avatar .images-form-item {
@@ -454,10 +454,10 @@ function Profile() {
           gap: 8px;
           font-size: 13px;
           width: fit-content;
-          background: rgba(212,175,55,0.1);
+          background: rgba(136,189,31,0.1);
           padding: 6px 14px 6px 12px;
           border-radius: 40px;
-          border: 1px solid rgba(212,175,55,0.3);
+          border: 1px solid rgba(136,189,31,0.3);
           backdrop-filter: blur(8px);
         }
 
@@ -470,12 +470,12 @@ function Profile() {
           font-family: 'Monaco', monospace;
           font-weight: 600;
           letter-spacing: 0.5px;
-          color: #d4af37;
+          color: #9ed13a;
         }
 
         .copy-icon {
           cursor: pointer;
-          color: #d4af37;
+          color: #9ed13a;
           font-size: 14px;
           transition: all 0.2s;
         }
@@ -497,10 +497,10 @@ function Profile() {
           font-size: 20px;
           font-weight: 700;
           letter-spacing: 0.5px;
-          color: #d4af37;
+          color: #9ed13a;
           padding: 0 0 12px 0;
           margin-bottom: 20px;
-          border-bottom: 2px solid rgba(212,175,55,0.4);
+          border-bottom: 2px solid rgba(136,189,31,0.35);
           display: inline-block;
           width: auto;
           font-family: 'Playfair Display', serif;
@@ -514,7 +514,7 @@ function Profile() {
           left: 0;
           width: 50px;
           height: 2px;
-          background: linear-gradient(90deg, #d4af37, transparent);
+          background: linear-gradient(90deg, #88bd1f, transparent);
         }
 
         /* Main Function - Horizontal Tiles */
@@ -548,18 +548,18 @@ function Profile() {
           display: flex;
           align-items: center;
           justify-content: center;
-          background: linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05));
-          color: #d4af37;
+          background: linear-gradient(135deg, rgba(136,189,31,0.2), rgba(136,189,31,0.05));
+          color: #9ed13a;
           font-size: 24px;
-          border: 1px solid rgba(212,175,55,0.4);
+          border: 1px solid rgba(136,189,31,0.4);
           transition: all 0.3s;
         }
 
         .main-function-item:hover .main-icon-circle {
-          background: linear-gradient(135deg, rgba(212,175,55,0.25), rgba(212,175,55,0.1));
+          background: linear-gradient(135deg, rgba(136,189,31,0.3), rgba(136,189,31,0.1));
           transform: scale(1.1);
-          border-color: #d4af37;
-          box-shadow: 0 0 15px rgba(212,175,55,0.3);
+          border-color: #88bd1f;
+          box-shadow: 0 0 15px rgba(136,189,31,0.3);
         }
 
         .main-item-label {
@@ -577,9 +577,10 @@ function Profile() {
           background: rgba(15, 15, 15, 0.6);
           backdrop-filter: blur(10px);
           border-radius: 24px;
-          border: 1px solid rgba(212,175,55,0.2);
+          border: 1px solid rgba(136,189,31,0.2);
           overflow: hidden;
           margin-bottom: 60px;
+          box-shadow: 0 4px 16px rgba(0,0,0,0.3);
         }
 
         .menu-item {
@@ -589,7 +590,7 @@ function Profile() {
           padding: 16px 20px;
           cursor: pointer;
           transition: all 0.2s;
-          border-bottom: 1px solid rgba(212,175,55,0.1);
+          border-bottom: 1px solid rgba(136,189,31,0.1);
           color: #ffffff;
         }
 
@@ -598,7 +599,7 @@ function Profile() {
         }
 
         .menu-item:hover:not(.verified) {
-          background: rgba(212,175,55,0.08);
+          background: rgba(136,189,31,0.1);
           padding-left: 24px;
         }
 
@@ -644,7 +645,7 @@ function Profile() {
           left: 0;
           width: 100%;
           height: 100%;
-          background: rgba(0,0,0,0.85);
+          background: rgba(0,0,0,0.8);
           backdrop-filter: blur(8px);
           display: flex;
           align-items: center;
@@ -659,8 +660,8 @@ function Profile() {
           width: 90%;
           max-width: 340px;
           padding: 28px;
-          box-shadow: 0 30px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(212,175,55,0.3);
-          border: 1px solid rgba(212,175,55,0.3);
+          box-shadow: 0 30px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,189,31,0.3);
+          border: 1px solid rgba(136,189,31,0.3);
           animation: modalSlideIn 0.3s ease;
         }
 
@@ -685,7 +686,7 @@ function Profile() {
         .modal-title {
           font-size: 22px;
           font-weight: 700;
-          color: #d4af37;
+          color: #9ed13a;
           font-family: 'Playfair Display', serif;
         }
 
@@ -703,20 +704,20 @@ function Profile() {
         }
 
         .modal-close:hover {
-          color: #d4af37;
-          background: rgba(212,175,55,0.1);
+          color: #9ed13a;
+          background: rgba(136,189,31,0.1);
           transform: rotate(90deg);
         }
 
         .modal-text {
           margin-bottom: 24px;
           line-height: 1.6;
-          color: rgba(255,255,255,0.8);
+          color: rgba(255,255,255,0.75);
           font-size: 14px;
         }
 
         .modal-confirm {
-          background: linear-gradient(145deg, #d4af37, #b8960f);
+          background: linear-gradient(145deg, #a3d633, #6a9c1c);
           color: #0a0a0a;
           text-align: center;
           padding: 14px;
@@ -731,8 +732,8 @@ function Profile() {
 
         .modal-confirm:hover {
           transform: translateY(-2px);
-          box-shadow: 0 8px 20px rgba(212,175,55,0.4);
-          background: linear-gradient(145deg, #e0b84d, #c9a227);
+          box-shadow: 0 8px 20px rgba(136,189,31,0.4);
+          background: linear-gradient(145deg, #b8e14a, #7bb01f);
         }
 
         /* Reputation modal */
@@ -741,7 +742,7 @@ function Profile() {
           font-weight: 800;
           text-align: center;
           margin: 16px 0 12px;
-          color: #d4af37;
+          color: #9ed13a;
           font-family: 'Playfair Display', serif;
         }
 
@@ -762,12 +763,12 @@ function Profile() {
           margin: 8px 0 20px;
           overflow: hidden;
           position: relative;
-          border: 1px solid rgba(212,175,55,0.3);
+          border: 1px solid rgba(136,189,31,0.3);
         }
 
         .progress-bar-fill {
           height: 100%;
-          background: linear-gradient(90deg, #d4af37, #f5d742);
+          background: linear-gradient(90deg, #88bd1f, #d4e88a);
           border-radius: 4px;
           transition: width 0.3s ease;
           position: relative;
@@ -844,12 +845,12 @@ function Profile() {
         }
 
         ::-webkit-scrollbar-thumb {
-          background: #d4af37;
+          background: #88bd1f;
           border-radius: 3px;
         }
 
         ::-webkit-scrollbar-thumb:hover {
-          background: #e0b84d;
+          background: #a3d633;
         }
       `}</style>
     </div>

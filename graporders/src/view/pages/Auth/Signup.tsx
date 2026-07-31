@@ -1,11 +1,9 @@
-
-import React, { useState, useEffect, useRef } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { FormProvider, useForm } from "react-hook-form";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import axios from "axios";
 
 import actions from "src/modules/auth/authActions";
 import selectors from "src/modules/auth/authSelectors";
@@ -26,12 +24,9 @@ const schema = yup.object().shape({
       required: true,
     })
     .oneOf([yup.ref("password")], i18n("auth.passwordChange.mustMatch")),
-  phoneNumber: yupFormSchemas.string(i18n("user.fields.phoneNumber"), {
-    required: true,
-  }),
   username: yupFormSchemas.string(
     i18n("user.fields.email"),
-    { required: true ,
+    { required: true,
       email: true,
     }
   ),
@@ -46,86 +41,21 @@ function Signup() {
   const loading = useSelector(selectors.selectLoading);
   const externalErrorMessage = useSelector(selectors.selectErrorMessage);
 
-  const [countries, setCountries] = useState([]);
-  const [selectedCountry, setSelectedCountry] = useState(null);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
-  const [searchTerm, setSearchTerm] = useState("");
-  const dropdownRef = useRef(null);
+  // UI-only placeholder state for the Email OTP row (verification logic to be wired later)
+  const [otpCode, setOtpCode] = useState("");
+  const [otpSent, setOtpSent] = useState(false);
 
   const [initialValues] = useState({
     email: "",
     password: "",
-    phoneNumber: "",
     withdrawPassword: "",
     invitationcode: "",
     rememberMe: true,
   });
 
-  // Fetch countries + IP country detection
   useEffect(() => {
-    const fetchCountries = async () => {
-      try {
-        const response = await axios.get(
-          "https://restcountries.com/v3.1/all?fields=name,flags,idd,cca2"
-        );
-
-        const countriesData = response.data
-          .filter((c) => c.idd?.root)
-          .map((country) => {
-            let dialCode = country.idd.root;
-            const rootOnlyCountries = ['US', 'CA', 'RU', 'KZ', 'AU'];
-            if (rootOnlyCountries.includes(country.cca2)) {
-              dialCode = country.idd.root;
-            } else if (country.idd.suffixes && country.idd.suffixes.length > 0) {
-              dialCode = country.idd.root + (country.idd.suffixes[0] || "");
-            }
-            return {
-              value: dialCode,
-              label: country.name.common,
-              code: country.cca2,
-              flag: country.flags.svg,
-            };
-          })
-          .sort((a, b) => a.label.localeCompare(b.label));
-
-        setCountries(countriesData);
-
-        try {
-          const ipResponse = await axios.get("https://ip2c.org/s");
-          const countryCode = ipResponse.data.split(";")[1];
-          const defaultCountry = countriesData.find(
-            (c) => c.code === countryCode
-          );
-          setSelectedCountry(defaultCountry || countriesData[0]);
-        } catch {
-          setSelectedCountry(countriesData[0]);
-        }
-      } catch (error) {
-        console.error("Error fetching countries:", error);
-      }
-    };
-
-    fetchCountries();
     dispatch(actions.doClearErrorMessage());
   }, [dispatch]);
-
-  // Close dropdown on outside click
-  useEffect(() => {
-    const handleClickOutside = (e) => {
-      if (dropdownRef.current && !dropdownRef.current?.contains(e.target)) {
-        setDropdownOpen(false);
-      }
-    };
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
-  }, []);
-
-  // Filter countries based on search term
-  const filteredCountries = countries.filter(country =>
-    country.label.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    country.value.includes(searchTerm) ||
-    country.code.toLowerCase().includes(searchTerm.toLowerCase())
-  );
 
   const form = useForm({
     resolver: yupResolver(schema),
@@ -133,19 +63,23 @@ function Signup() {
     defaultValues: initialValues,
   });
 
+  const handleSendOtp = () => {
+    // UI only for now — wire up the real OTP dispatch/API call later
+    setOtpSent(true);
+  };
+
   const onSubmit = ({
     email,
     password,
-    phoneNumber,
     withdrawPassword,
     invitationcode,
   }) => {
-    const fullPhoneNumber = `${selectedCountry?.value || "+1"}${phoneNumber}`;
+    // phoneNumber slot kept as a placeholder until the OTP flow replaces it
     dispatch(
       actions.doRegisterEmailAndPassword(
         email,
         password,
-        fullPhoneNumber,
+        "",
         withdrawPassword,
         invitationcode
       )
@@ -156,9 +90,7 @@ function Signup() {
     <div className="auth__page">
       <div className="auth__card">
         <div className="auth__header">
-          <div className="auth__icon">
-            <i className="fas fa-car"></i> {/* replaced Car with car */}
-          </div>
+          <img src="/logo.png" alt="Logo" className="auth__logo" />
           <h1 className="auth__title">{i18n('pages.auth.signup.createAccount')}</h1>
           <p className="auth__description">
             {i18n('pages.auth.signup.signupForAccount')}
@@ -179,84 +111,28 @@ function Signup() {
                 />
               </div>
 
-              {/* Phone Number with Country Selector */}
-              <div className="form__group phone-input-wrapper">
-                <div
-                  className={`phone-input-container ${dropdownOpen ? 'dropdown-open' : ''}`}
-                  ref={dropdownRef}
-                >
-                  <div className="phone-input-inner">
-                    {/* Country Selector */}
-                    <div
-                      className="country-selector"
-                      onClick={() => setDropdownOpen(!dropdownOpen)}
-                    >
-                      {selectedCountry && (
-                        <div className="country-selected">
-                          <img
-                            src={selectedCountry.flag}
-                            alt={selectedCountry.label}
-                            className="country-flag"
-                          />
-                          <span className="country-code">{selectedCountry.value}</span>
-                          <span className="dropdown-arrow">▾</span>
-                        </div>
-                      )}
-                    </div>
-
-                    {/* Phone Number Input */}
-                    <div className="phone-number-input">
-                      <InputFormItem
-                        type="tel"
-                        name="phoneNumber"
-                        placeholder={i18n('pages.auth.signup.phonePlaceholder')}
-                        className="auth__input phone-input"
-                      />
-                    </div>
-                  </div>
-
-                  {/* Country Dropdown */}
-                  {dropdownOpen && (
-                    <div className="country-dropdown">
-                      <div className="dropdown-search">
-                        <input
-                          type="text"
-                          placeholder={i18n('pages.auth.signup.searchCountries')}
-                          className="search-input"
-                          value={searchTerm}
-                          onChange={(e) => setSearchTerm(e.target.value)}
-                          onClick={(e) => e.stopPropagation()}
-                        />
-                      </div>
-                      <div className="dropdown-list">
-                        {filteredCountries.map((country) => (
-                          <div
-                            key={country.code}
-                            className={`country-option ${selectedCountry?.code === country.code ? "selected" : ""}`}
-                            onClick={() => {
-                              setSelectedCountry(country);
-                              setDropdownOpen(false);
-                              setSearchTerm("");
-                            }}
-                          >
-                            <img
-                              src={country.flag}
-                              alt={country.label}
-                              className="country-flag"
-                            />
-                            <span className="country-name">{country.label}</span>
-                            <span className="country-dial-code">{country.value}</span>
-                          </div>
-                        ))}
-                        {filteredCountries.length === 0 && (
-                          <div className="no-results">
-                            {i18n('pages.auth.signup.noCountriesFound')}
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  )}
+              {/* Email OTP (UI only — verification wiring comes later) */}
+              <div className="form__group otp-group">
+                <div className="otp-row">
+                  <input
+                    type="text"
+                    className="auth__input otp-input"
+                    placeholder="Enter OTP code"
+                    maxLength={6}
+                    value={otpCode}
+                    onChange={(e) => setOtpCode(e.target.value)}
+                  />
+                  <button
+                    type="button"
+                    className="otp-button"
+                    onClick={handleSendOtp}
+                  >
+                    {otpSent ? "Resend" : "Send OTP"}
+                  </button>
                 </div>
+                {otpSent && (
+                  <span className="otp-hint">Code sent to your email</span>
+                )}
               </div>
 
               {/* Withdraw Password */}
@@ -324,7 +200,7 @@ function Signup() {
           margin: 0;
           padding: 0;
           box-sizing: border-box;
-          font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          font-family: 'Poppins', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         }
 
         body {
@@ -345,7 +221,7 @@ function Signup() {
           content: '';
           position: absolute;
           inset: 0;
-          background: rgba(0, 0, 0, 0.6);
+          background: rgba(0, 0, 0, 0.65);
           backdrop-filter: blur(3px);
           z-index: 1;
         }
@@ -353,11 +229,12 @@ function Signup() {
         .auth__card {
           width: 100%;
           max-width: 480px;
-          background: rgba(10, 10, 10, 0.7);
+          background: rgba(10, 10, 10, 0.75);
           backdrop-filter: blur(16px);
           padding: 32px 24px 36px;
           z-index: 10;
-          box-shadow: 0 12px 40px rgba(212, 175, 55, 0.05);
+          box-shadow: 0 12px 40px rgba(136, 189, 31, 0.08);
+          border: 1px solid rgba(136, 189, 31, 0.15);
           border-radius: 24px;
         }
 
@@ -366,19 +243,12 @@ function Signup() {
           margin-bottom: 32px;
         }
 
-        .auth__icon {
-          font-size: 42px;
-          background: rgba(212, 175, 55, 0.15);
-          width: 74px;
-          height: 74px;
-          border-radius: 50%;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          margin: 0 auto 16px;
-          box-shadow: 0 8px 16px rgba(212, 175, 55, 0.3);
-          color: #d4af37;
-          border: 1px solid rgba(212, 175, 55, 0.5);
+        .auth__logo {
+          height: 36px;
+          width: auto;
+          margin: 0 auto 20px;
+          display: block;
+          filter: brightness(0) invert(1);
         }
 
         .auth__title {
@@ -391,7 +261,7 @@ function Signup() {
 
         .auth__description {
           font-size: 14px;
-          color: #d4af37;
+          color: #9ed13a;
           opacity: 0.9;
           letter-spacing: 0.3px;
         }
@@ -407,7 +277,7 @@ function Signup() {
         .auth__input {
           width: 100%;
           padding: 12px 18px;
-          border: 1px solid rgba(212, 175, 55, 0.3);
+          border: 1px solid rgba(136, 189, 31, 0.3);
           border-radius: 30px;
           font-size: 15px;
           background: rgba(255, 255, 255, 0.05) !important;
@@ -417,8 +287,8 @@ function Signup() {
 
         .auth__input:focus {
           outline: none;
-          border-color: #d4af37;
-          box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+          border-color: #88bd1f;
+          box-shadow: 0 0 0 3px rgba(136, 189, 31, 0.2);
           background: rgba(255, 255, 255, 0.1) !important;
         }
 
@@ -427,163 +297,49 @@ function Signup() {
           font-weight: 300;
         }
 
-        /* Phone input specific styles */
-        .phone-input-wrapper {
-          width: 100%;
-        }
-
-        .phone-input-container {
-          position: relative;
-          width: 100%;
-        }
-
-        .phone-input-inner {
-          display: flex;
-          align-items: stretch;
-          background: rgba(255, 255, 255, 0.05);
-          border: 1px solid rgba(212, 175, 55, 0.3);
-          border-radius: 30px;
-          transition: border 0.2s, box-shadow 0.2s;
-        }
-
-        .phone-input-container:focus-within .phone-input-inner {
-          border-color: #d4af37;
-          box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
-        }
-
-        .country-selector {
-          display: flex;
-          align-items: center;
-          padding-left: 12px;
-          cursor: pointer;
-          border-right: 1px solid rgba(212, 175, 55, 0.3);
-          min-width: 100px;
-        }
-
-        .country-selected {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          color: white;
-        }
-
-        .country-flag {
-          width: 24px;
-          height: 18px;
-          object-fit: cover;
-          border-radius: 3px;
-        }
-
-        .country-code {
-          font-size: 14px;
-          color: rgba(255, 255, 255, 0.9);
-        }
-
-        .dropdown-arrow {
-          color: #d4af37;
-          font-size: 16px;
-          margin-left: 4px;
-        }
-
-        .phone-number-input {
-          flex: 1;
-        }
-
-        .phone-number-input .auth__input {
-          border: none;
-          border-radius: 0 30px 30px 0;
-          background: transparent !important;
-          padding-left: 8px;
-        }
-
-        .phone-number-input .auth__input:focus {
-          box-shadow: none;
-          background: transparent !important;
-        }
-
-        /* Country dropdown */
-        .country-dropdown {
-          position: absolute;
-          top: calc(100% + 8px);
-          left: 0;
-          right: 0;
-          background: rgba(20, 20, 20, 0.95);
-          backdrop-filter: blur(12px);
-          border: 1px solid rgba(212, 175, 55, 0.3);
-          border-radius: 20px;
-          z-index: 20;
-          max-height: 320px;
+        /* Email OTP row */
+        .otp-group {
           display: flex;
           flex-direction: column;
-          box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+          gap: 6px;
         }
 
-        .dropdown-search {
-          padding: 12px;
-          border-bottom: 1px solid rgba(212, 175, 55, 0.2);
-        }
-
-        .search-input {
-          width: 100%;
-          padding: 10px 16px;
-          background: rgba(255, 255, 255, 0.1);
-          border: 1px solid rgba(212, 175, 55, 0.3);
-          border-radius: 30px;
-          color: white;
-          font-size: 14px;
-        }
-
-        .search-input:focus {
-          outline: none;
-          border-color: #d4af37;
-        }
-
-        .search-input::placeholder {
-          color: rgba(255, 255, 255, 0.5);
-        }
-
-        .dropdown-list {
-          overflow-y: auto;
-          max-height: 260px;
-          padding: 8px 0;
-        }
-
-        .country-option {
+        .otp-row {
           display: flex;
-          align-items: center;
-          gap: 12px;
-          padding: 10px 16px;
-          cursor: pointer;
-          transition: background 0.15s;
-          color: white;
+          gap: 10px;
         }
 
-        .country-option:hover,
-        .country-option.selected {
-          background: rgba(212, 175, 55, 0.15);
-        }
-
-        .country-option .country-flag {
-          width: 28px;
-          height: 20px;
-        }
-
-        .country-name {
+        .otp-input {
           flex: 1;
-          font-size: 14px;
+          letter-spacing: 4px;
+          font-weight: 600;
         }
 
-        .country-dial-code {
+        .otp-button {
+          flex-shrink: 0;
+          padding: 0 20px;
+          border-radius: 30px;
+          border: 1px solid rgba(136, 189, 31, 0.5);
+          background: rgba(136, 189, 31, 0.12);
+          color: #9ed13a;
           font-size: 13px;
-          color: #d4af37;
-          opacity: 0.8;
+          font-weight: 700;
+          letter-spacing: 0.3px;
+          cursor: pointer;
+          white-space: nowrap;
+          transition: all 0.2s;
         }
 
-        .no-results {
-          padding: 16px;
-          text-align: center;
-          color: rgba(255, 255, 255, 0.5);
-          font-style: italic;
+        .otp-button:hover {
+          background: rgba(136, 189, 31, 0.22);
+          border-color: #88bd1f;
+          color: #b8e14a;
+        }
+
+        .otp-hint {
+          font-size: 12px;
+          color: #9ed13a;
+          padding: 0 6px;
         }
 
         .auth__bottom {
@@ -592,7 +348,7 @@ function Signup() {
 
         .auth__button {
           width: 100%;
-          background: linear-gradient(145deg, #d4af37, #b8960f);
+          background: linear-gradient(145deg, #a3d633, #6a9c1c);
           border: none;
           border-radius: 34px;
           padding: 14px 18px;
@@ -601,7 +357,7 @@ function Signup() {
           font-weight: 700;
           letter-spacing: 0.5px;
           cursor: pointer;
-          box-shadow: 0 10px 22px rgba(212, 175, 55, 0.4);
+          box-shadow: 0 10px 22px rgba(136, 189, 31, 0.4);
           transition: transform 0.15s, box-shadow 0.2s, background 0.2s;
           display: flex;
           align-items: center;
@@ -613,13 +369,13 @@ function Signup() {
 
         .auth__button:hover {
           transform: scale(1.02);
-          background: linear-gradient(145deg, #e0b84d, #c9a227);
-          box-shadow: 0 14px 30px rgba(212, 175, 55, 0.6);
+          background: linear-gradient(145deg, #b8e14a, #7bb01f);
+          box-shadow: 0 14px 30px rgba(136, 189, 31, 0.55);
         }
 
         .auth__button:active {
           transform: scale(0.98);
-          box-shadow: 0 6px 16px rgba(212, 175, 55, 0.5);
+          box-shadow: 0 6px 16px rgba(136, 189, 31, 0.4);
         }
 
         .auth__button i {
@@ -632,7 +388,7 @@ function Signup() {
         }
 
         .signup-link {
-          color: #d4af37;
+          color: #9ed13a;
           font-weight: 600;
           text-decoration: none;
           margin-left: 4px;
@@ -640,7 +396,7 @@ function Signup() {
         }
 
         .signup-link:hover {
-          color: #e0b84d;
+          color: #b8e14a;
           text-decoration: underline;
         }
       `}</style>

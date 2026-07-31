@@ -25,7 +25,7 @@ function SubHeader(props) {
           top: 0;
           z-index: 100;
           width: 100%;
-          border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+          border-bottom: 1px solid rgba(136, 189, 31, 0.3);
           box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
         }
 
@@ -45,18 +45,18 @@ function SubHeader(props) {
           width: 36px;
           height: 36px;
           border-radius: 50%;
-          background: rgba(212, 175, 55, 0.1);
-          border: 1px solid rgba(212, 175, 55, 0.3);
+          background: rgba(136, 189, 31, 0.1);
+          border: 1px solid rgba(136, 189, 31, 0.3);
           transition: background 0.2s, border-color 0.2s;
         }
 
         .back-button:hover {
-          background: rgba(212, 175, 55, 0.2);
-          border-color: #d4af37;
+          background: rgba(136, 189, 31, 0.2);
+          border-color: #88bd1f;
         }
 
         .back-icon {
-          color: #d4af37;
+          color: #9ed13a;
           font-size: 18px;
         }
 

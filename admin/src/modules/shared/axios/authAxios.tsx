@@ -11,9 +11,9 @@ const authAxios = Axios.create({
   // baseURL: "http://162.0.228.113:8080/api", 
 
   // demo
-  baseURL:"http://72.62.210.173:8082/api/",
+  // baseURL:"http://72.62.210.173:8082/api/",
   //Local
-  // baseURL: 'http://localhost:8082/api/',
+  baseURL: 'http://localhost:8090/api/',
 
   paramsSerializer: function (params) {
     return Qs.stringify(params, {

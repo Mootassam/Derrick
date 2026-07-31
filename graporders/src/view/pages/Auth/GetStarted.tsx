@@ -205,7 +205,7 @@ const GetStarted: React.FC = () => {
           margin-bottom: 12px;
           letter-spacing: -0.5px;
           font-family: 'Playfair Display', serif;
-          background: linear-gradient(135deg, #fff 0%, #d4af37 100%);
+          background: linear-gradient(135deg, #fff 0%, #88bd1f 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
@@ -243,14 +243,14 @@ const GetStarted: React.FC = () => {
         }
 
         .dot:hover {
-          background-color: rgba(212, 175, 55, 0.8);
+          background-color: rgba(136, 189, 31, 0.8);
           transform: scale(1.2);
         }
 
         .dot.active {
           width: 28px;
-          background-color: #d4af37;
-          box-shadow: 0 0 12px rgba(212, 175, 55, 0.6);
+          background-color: #88bd1f;
+          box-shadow: 0 0 12px rgba(136, 189, 31, 0.6);
         }
 
         .get-started-btn {
@@ -258,7 +258,7 @@ const GetStarted: React.FC = () => {
           bottom: 24px;
           left: 20px;
           right: 20px;
-          background: linear-gradient(145deg, #d4af37, #b8960f);
+          background: linear-gradient(145deg, #88bd1f, #6a9c1c);
           border: none;
           border-radius: 40px;
           padding: 16px 20px;
@@ -268,7 +268,7 @@ const GetStarted: React.FC = () => {
           letter-spacing: 1px;
           text-align: center;
           cursor: pointer;
-          box-shadow: 0 10px 25px rgba(212, 175, 55, 0.4);
+          box-shadow: 0 10px 25px rgba(136, 189, 31, 0.4);
           transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
           line-height: 1.2;
           border: 1px solid rgba(255,255,255,0.2);
@@ -298,13 +298,13 @@ const GetStarted: React.FC = () => {
 
         .get-started-btn:hover {
           transform: translateY(-2px);
-          box-shadow: 0 15px 35px rgba(212, 175, 55, 0.6);
-          background: linear-gradient(145deg, #e0b84d, #c9a227);
+          box-shadow: 0 15px 35px rgba(136, 189, 31, 0.6);
+          background: linear-gradient(145deg, #a3d633, #729c1f);
         }
 
         .get-started-btn:active {
           transform: translateY(1px);
-          box-shadow: 0 8px 20px rgba(212, 175, 55, 0.5);
+          box-shadow: 0 8px 20px rgba(136, 189, 31, 0.5);
         }
 
         .get-started-btn i {
@@ -322,7 +322,7 @@ const GetStarted: React.FC = () => {
           content: '';
           position: absolute;
           inset: 0;
-          background: radial-gradient(circle at 20% 40%, rgba(212, 175, 55, 0.03) 0%, transparent 70%);
+          background: radial-gradient(circle at 20% 40%, rgba(136, 189, 31, 0.03) 0%, transparent 70%);
           pointer-events: none;
           z-index: 1;
         }

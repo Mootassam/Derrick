@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   backend:
-    container_name: namles-backend
+    container_name: stelantiss-backend
     build:
       context: ./server
       dockerfile: Dockerfile
@@ -10,7 +10,7 @@ services:
       args:
         - BUILDKIT_INLINE_CACHE=1
     ports:
-      - "8082:8082"
+      - "8090:8082"
     restart: unless-stopped
     volumes:
       - upload:/upload
@@ -20,23 +20,23 @@ services:
       - db
 
   db:
-    container_name: namles-db
+    container_name: stelantiss-db
     image: mongo:4.0-xenial
     ports:
-      - "2767:27017"
+      - "2790:27017"
     restart: unless-stopped
     volumes:
       - phone:/data/db
 
   web:
-    container_name: namles-web
+    container_name: stelantiss-web
     build:
       context: ./admin
       dockerfile: Dockerfile
       args:
         - BUILDKIT_INLINE_CACHE=1
     ports:
-      - "3044:80"
+      - "3090:80"
     restart: unless-stopped
     volumes:
       - ./admin:/app
@@ -47,24 +47,24 @@ services:
     depends_on:
       - backend
 
-  # web1:
-  #   container_name: namles-web1
-  #   build:
-  #     context: ./graporders
-  #     dockerfile: Dockerfile
-  #     args:
-  #       - BUILDKIT_INLINE_CACHE=1
-  #   ports:
-  #     - "3018:80"
-  #   restart: unless-stopped
-  #   volumes:
-  #     - ./graporders:/app
-  #     - /app/node_modules
-  #   stdin_open: true
-  #   environment:
-  #     CHOKIDAR_USEPOLLING: "true"
-  #   depends_on:
-  #     - backend
+  web1:
+    container_name: stelantiss-web1
+    build:
+      context: ./graporders
+      dockerfile: Dockerfile
+      args:
+        - BUILDKIT_INLINE_CACHE=1
+    ports:
+      - "3091:80"
+    restart: unless-stopped
+    volumes:
+      - ./graporders:/app
+      - /app/node_modules
+    stdin_open: true
+    environment:
+      CHOKIDAR_USEPOLLING: "true"
+    depends_on:
+      - backend
 
 volumes:
   phone:

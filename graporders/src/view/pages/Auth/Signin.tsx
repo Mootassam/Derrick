@@ -64,9 +64,7 @@ function Signin() {
 
       <div className="auth__card">
         <div className="auth__header">
-          <div className="auth__icon">
-            <i className="fas fa-car"></i> {/* replaced Car with car */}
-          </div>
+          <img src="/logo.png" alt="Logo" className="auth__logo" />
           <h1 className="auth__title">{i18n('pages.auth.signin.welcomeBack')}</h1>
           <p className="auth__description">{i18n('pages.auth.signin.signinToAccount')}</p>
         </div>
@@ -171,7 +169,7 @@ function Signin() {
           width: 48px;
           height: 48px;
           backdrop-filter: blur(8px);
-          color: #d4af37;
+          color: #88bd1f;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -179,8 +177,8 @@ function Signin() {
 
         .lang-btn:hover {
           transform: scale(1.05);
-          border-color: #e0b84d;
-          box-shadow: 0 0 15px #d4af37;
+          border-color: #a3d633;
+          box-shadow: 0 0 15px #88bd1f;
         }
 
         .auth__card {
@@ -193,7 +191,7 @@ function Signin() {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          box-shadow: 0 12px 40px rgba(212, 175, 55, 0.05);
+          box-shadow: 0 12px 40px rgba(136, 189, 31, 0.05);
         }
 
         .auth__header {
@@ -201,19 +199,12 @@ function Signin() {
           margin-bottom: 32px;
         }
 
-        .auth__icon {
-          font-size: 42px;
-          background: rgba(212, 175, 55, 0.15);
-          width: 74px;
-          height: 74px;
-          border-radius: 50%;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          margin: 0 auto 16px;
-          box-shadow: 0 8px 16px rgba(212, 175, 55, 0.3);
-          color: #d4af37;
-          border: 1px solid rgba(212, 175, 55, 0.5);
+        .auth__logo {
+          height: 40px;
+          width: auto;
+          margin: 0 auto 20px;
+          display: block;
+          filter: brightness(0) invert(1);
         }
 
         .auth__title {
@@ -226,7 +217,7 @@ function Signin() {
 
         .auth__description {
           font-size: 14px;
-          color: #d4af37;
+          color: #88bd1f;
           opacity: 0.9;
           letter-spacing: 0.3px;
         }
@@ -242,7 +233,7 @@ function Signin() {
         .auth__input {
           width: 100%;
           padding: 12px 18px;
-          border: 1px solid rgba(212, 175, 55, 0.3);
+          border: 1px solid rgba(136, 189, 31, 0.3);
           border-radius: 30px;
           font-size: 15px;
           background: rgba(255, 255, 255, 0.05);
@@ -252,8 +243,8 @@ function Signin() {
 
         .auth__input:focus {
           outline: none;
-          border-color: #d4af37;
-          box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+          border-color: #88bd1f;
+          box-shadow: 0 0 0 3px rgba(136, 189, 31, 0.2);
           background: rgba(255, 255, 255, 0.1);
         }
 
@@ -284,7 +275,7 @@ function Signin() {
         }
 
         .checkbox input[type="checkbox"] {
-          accent-color: #d4af37;
+          accent-color: #88bd1f;
           width: 16px;
           height: 16px;
         }
@@ -295,7 +286,7 @@ function Signin() {
 
         .auth__button {
           width: 100%;
-          background: linear-gradient(145deg, #d4af37, #b8960f);
+          background: linear-gradient(145deg, #88bd1f, #6a9c1c);
           border: none;
           border-radius: 34px;
           padding: 14px 18px;
@@ -304,7 +295,7 @@ function Signin() {
           font-weight: 700;
           letter-spacing: 0.5px;
           cursor: pointer;
-          box-shadow: 0 10px 22px rgba(212, 175, 55, 0.4);
+          box-shadow: 0 10px 22px rgba(136, 189, 31, 0.4);
           transition: transform 0.15s, box-shadow 0.2s, background 0.2s;
           display: flex;
           align-items: center;
@@ -316,13 +307,13 @@ function Signin() {
 
         .auth__button:hover {
           transform: scale(1.02);
-          background: linear-gradient(145deg, #e0b84d, #c9a227);
-          box-shadow: 0 14px 30px rgba(212, 175, 55, 0.6);
+          background: linear-gradient(145deg, #a3d633, #729c1f);
+          box-shadow: 0 14px 30px rgba(136, 189, 31, 0.6);
         }
 
         .auth__button:active {
           transform: scale(0.98);
-          box-shadow: 0 6px 16px rgba(212, 175, 55, 0.5);
+          box-shadow: 0 6px 16px rgba(136, 189, 31, 0.5);
         }
 
         .auth__button i {
@@ -335,7 +326,7 @@ function Signin() {
         }
 
         .signup-link {
-          color: #d4af37;
+          color: #88bd1f;
           font-weight: 600;
           text-decoration: none;
           margin-left: 4px;
@@ -343,7 +334,7 @@ function Signin() {
         }
 
         .signup-link:hover {
-          color: #e0b84d;
+          color: #a3d633;
           text-decoration: underline;
         }
       `}</style>

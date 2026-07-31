@@ -16,6 +16,15 @@ import { i18n } from "../../../i18n";
 import Message from "src/view/shared/message";
 import authActions from "src/modules/auth/authActions";
 
+// Hero media playlist: plays in order, then loops back to the start.
+// Add more entries here (type: "image" for gifs/photos, "video" for mp4s) to extend the rotation.
+const heroMedia = [
+    { type: "video", src: "/images/grap/video2.mp4" },
+  { type: "video", src: "/images/grap/video.mp4" },
+  { type: "video", src: "/images/grap/video3.mp4" },
+  { type: "video", src: "https://v1.pinimg.com/videos/mc/720p/d8/b7/54/d8b754a71dbc6161e3dd86536ffbb9ce.mp4" },
+];
+
 const Grappage = () => {
   const history = useHistory();
   const dispatch = useDispatch();
@@ -26,6 +35,19 @@ const Grappage = () => {
   const Modal = useSelector(selector.showModal);
   const [number] = useState(Dates.Number());
   const totalperday = useSelector(recordSelector.selectTotalPerday);
+  const [heroMediaIndex, setHeroMediaIndex] = useState(0);
+
+  const goToNextHeroMedia = () => {
+    setHeroMediaIndex((prev) => (prev + 1) % heroMedia.length);
+  };
+
+  useEffect(() => {
+    const current = heroMedia[heroMediaIndex];
+    if (current.type === "image") {
+      const timer = setTimeout(goToNextHeroMedia, current.duration || 6000);
+      return () => clearTimeout(timer);
+    }
+  }, [heroMediaIndex]);
 
   useEffect(() => {
     dispatch(recordListAction.doCount());
@@ -84,7 +106,29 @@ const Grappage = () => {
       <div className="luxury-grab">
         {/* Hero Section with GIF */}
         <div className="hero-section">
-          <div className="hero-gif"></div>
+          <div className="logo-badge">
+            <img src="/logo.png" alt="Logo" className="hero-logo" />
+          </div>
+          <div className="hero-gif">
+            {heroMedia[heroMediaIndex].type === "video" ? (
+              <video
+                key={heroMediaIndex}
+                className="hero-media-video"
+                src={heroMedia[heroMediaIndex].src}
+                autoPlay
+                muted
+                playsInline
+                onEnded={goToNextHeroMedia}
+                onError={goToNextHeroMedia}
+              />
+            ) : (
+              <div
+                key={heroMediaIndex}
+                className="hero-media-image"
+                style={{ backgroundImage: `url(${heroMedia[heroMediaIndex].src})` }}
+              />
+            )}
+          </div>
           <div className="hero-overlay">
             <div className="hero-content">
               <h1 className="hero-title">Find Your Dream Car</h1>
@@ -228,8 +272,8 @@ const Grappage = () => {
 
         .luxury-grab {
           min-height: 100vh;
-          background: linear-gradient(135deg, #0a0a0a 0%, #0f0f0f 50%, #0a0a0a 100%);
-          font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          background: linear-gradient(135deg, #0a0a0a 0%, #0f130a 50%, #0a0a0a 100%);
+          font-family: 'Poppins', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
           position: relative;
         }
 
@@ -241,13 +285,35 @@ const Grappage = () => {
           isolation: isolate;
         }
 
+        .logo-badge {
+          position: absolute;
+          top: 20px;
+          left: 20px;
+          background: rgba(255, 255, 255, 0.92);
+          padding: 8px 16px;
+          border-radius: 30px;
+          z-index: 3;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .hero-logo {
+          height: 20px;
+          width: auto;
+          display: block;
+        }
+
         .hero-gif {
           position: absolute;
           top: 0;
           left: 0;
           right: 0;
           bottom: 0;
-          background-image: url('/images/grap/search.gif');
+          overflow: hidden;
+        }
+
+        .hero-media-image {
+          position: absolute;
+          inset: 0;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
@@ -255,7 +321,18 @@ const Grappage = () => {
           transition: transform 0.3s ease;
         }
 
-        .hero-section:hover .hero-gif {
+        .hero-media-video {
+          position: absolute;
+          inset: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transform: scale(1.05);
+          transition: transform 0.3s ease;
+        }
+
+        .hero-section:hover .hero-media-image,
+        .hero-section:hover .hero-media-video {
           transform: scale(1.08);
         }
 
@@ -265,7 +342,7 @@ const Grappage = () => {
           left: 0;
           right: 0;
           bottom: 0;
-          background: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 40%, rgba(0,0,0,0.3) 100%);
+          background: linear-gradient(135deg, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.5) 40%, rgba(0,0,0,0.3) 100%);
           z-index: 1;
         }
 
@@ -295,7 +372,7 @@ const Grappage = () => {
           font-weight: 800;
           font-family: 'Playfair Display', serif;
           margin-bottom: 12px;
-          background: linear-gradient(135deg, #ffffff 0%, #d4af37 80%);
+          background: linear-gradient(135deg, #ffffff 0%, #a3d633 80%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
@@ -330,7 +407,7 @@ const Grappage = () => {
         .stat-item {
           background: rgba(15, 15, 15, 0.85);
           backdrop-filter: blur(12px);
-          border: 1px solid rgba(212, 175, 55, 0.25);
+          border: 1px solid rgba(136, 189, 31, 0.25);
           border-radius: 24px;
           padding: 18px 14px;
           display: flex;
@@ -338,19 +415,20 @@ const Grappage = () => {
           gap: 14px;
           transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
           cursor: pointer;
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
         }
 
         .stat-item:hover {
-          border-color: #d4af37;
+          border-color: #88bd1f;
           transform: translateY(-3px);
-          box-shadow: 0 12px 28px rgba(212, 175, 55, 0.15);
-          background: rgba(20, 20, 20, 0.9);
+          box-shadow: 0 12px 28px rgba(136, 189, 31, 0.2);
+          background: rgba(20, 20, 20, 0.92);
         }
 
         .stat-icon-wrapper {
           width: 52px;
           height: 52px;
-          background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(212, 175, 55, 0.05));
+          background: linear-gradient(135deg, rgba(136, 189, 31, 0.22), rgba(136, 189, 31, 0.06));
           border-radius: 18px;
           display: flex;
           align-items: center;
@@ -359,13 +437,13 @@ const Grappage = () => {
         }
 
         .stat-item:hover .stat-icon-wrapper {
-          background: linear-gradient(135deg, rgba(212, 175, 55, 0.3), rgba(212, 175, 55, 0.1));
+          background: linear-gradient(135deg, rgba(136, 189, 31, 0.32), rgba(136, 189, 31, 0.12));
           transform: scale(1.05);
         }
 
         .stat-icon-wrapper i {
           font-size: 26px;
-          color: #d4af37;
+          color: #9ed13a;
           transition: transform 0.2s;
         }
 
@@ -380,7 +458,7 @@ const Grappage = () => {
         .stat-label {
           display: block;
           font-size: 12px;
-          color: rgba(255, 255, 255, 0.65);
+          color: rgba(255, 255, 255, 0.6);
           margin-bottom: 6px;
           letter-spacing: 0.8px;
           text-transform: uppercase;
@@ -391,14 +469,14 @@ const Grappage = () => {
           display: block;
           font-size: 22px;
           font-weight: 800;
-          color: white;
+          color: #ffffff;
           line-height: 1.2;
           letter-spacing: -0.3px;
         }
 
         /* Main Search Button */
         .search-main-button {
-          background: linear-gradient(135deg, #d4af37 0%, #b8860b 100%);
+          background: linear-gradient(135deg, #a3d633 0%, #6a9c1c 100%);
           border: none;
           border-radius: 28px;
           padding: 18px 28px;
@@ -413,8 +491,8 @@ const Grappage = () => {
           cursor: pointer;
           transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
           margin-bottom: 28px;
-          box-shadow: 0 12px 28px rgba(212, 175, 55, 0.3);
-          border: 1px solid rgba(255, 255, 255, 0.25);
+          box-shadow: 0 12px 28px rgba(136, 189, 31, 0.4);
+          border: 1px solid rgba(255, 255, 255, 0.2);
           position: relative;
           overflow: hidden;
         }
@@ -436,8 +514,8 @@ const Grappage = () => {
 
         .search-main-button:hover {
           transform: translateY(-2px);
-          box-shadow: 0 16px 32px rgba(212, 175, 55, 0.4);
-          background: linear-gradient(135deg, #e0b84d 0%, #c9a227 100%);
+          box-shadow: 0 16px 32px rgba(136, 189, 31, 0.55);
+          background: linear-gradient(135deg, #b8e14a 0%, #7bb01f 100%);
         }
 
         .search-main-button:active {
@@ -465,7 +543,7 @@ const Grappage = () => {
         .rating-section {
           background: rgba(15, 15, 15, 0.7);
           backdrop-filter: blur(12px);
-          border: 1px solid rgba(212, 175, 55, 0.2);
+          border: 1px solid rgba(136, 189, 31, 0.2);
           border-radius: 24px;
           padding: 20px 24px;
           margin-bottom: 28px;
@@ -473,11 +551,12 @@ const Grappage = () => {
           justify-content: space-between;
           align-items: center;
           transition: all 0.3s ease;
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
         }
 
         .rating-section:hover {
-          border-color: rgba(212, 175, 55, 0.4);
-          background: rgba(20, 20, 20, 0.75);
+          border-color: rgba(136, 189, 31, 0.4);
+          background: rgba(20, 20, 20, 0.8);
         }
 
         .rating-stars {
@@ -489,14 +568,14 @@ const Grappage = () => {
         .stars-group {
           display: flex;
           gap: 5px;
-          color: #d4af37;
+          color: #9ed13a;
           font-size: 15px;
         }
 
         .rating-number {
           font-size: 28px;
           font-weight: 800;
-          color: white;
+          color: #ffffff;
           letter-spacing: -0.5px;
         }
 
@@ -515,7 +594,7 @@ const Grappage = () => {
         .view-reviews {
           background: transparent;
           border: none;
-          color: #d4af37;
+          color: #88bd1f;
           font-size: 14px;
           font-weight: 600;
           cursor: pointer;
@@ -526,7 +605,7 @@ const Grappage = () => {
         }
 
         .view-reviews:hover {
-          color: #e0b84d;
+          color: #a3d633;
           gap: 8px;
         }
 
@@ -549,25 +628,26 @@ const Grappage = () => {
         .benefit-card {
           background: rgba(15, 15, 15, 0.7);
           backdrop-filter: blur(12px);
-          border: 1px solid rgba(212, 175, 55, 0.2);
+          border: 1px solid rgba(136, 189, 31, 0.2);
           border-radius: 20px;
           padding: 18px 12px;
           text-align: center;
           transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
           cursor: pointer;
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
         }
 
         .benefit-card:hover {
-          border-color: #d4af37;
+          border-color: #88bd1f;
           transform: translateY(-3px);
-          background: rgba(20, 20, 20, 0.8);
-          box-shadow: 0 8px 20px rgba(212, 175, 55, 0.15);
+          background: rgba(20, 20, 20, 0.85);
+          box-shadow: 0 8px 20px rgba(136, 189, 31, 0.2);
         }
 
         .benefit-icon {
           width: 54px;
           height: 54px;
-          background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(212, 175, 55, 0.05));
+          background: linear-gradient(135deg, rgba(136, 189, 31, 0.22), rgba(136, 189, 31, 0.06));
           border-radius: 50%;
           display: flex;
           align-items: center;
@@ -577,13 +657,13 @@ const Grappage = () => {
         }
 
         .benefit-card:hover .benefit-icon {
-          background: linear-gradient(135deg, rgba(212, 175, 55, 0.3), rgba(212, 175, 55, 0.1));
+          background: linear-gradient(135deg, rgba(136, 189, 31, 0.32), rgba(136, 189, 31, 0.12));
           transform: scale(1.1);
         }
 
         .benefit-icon i {
           font-size: 24px;
-          color: #d4af37;
+          color: #9ed13a;
           transition: transform 0.2s;
         }
 
@@ -594,7 +674,7 @@ const Grappage = () => {
         .benefit-text h4 {
           font-size: 15px;
           font-weight: 700;
-          color: white;
+          color: #ffffff;
           margin-bottom: 6px;
           letter-spacing: -0.2px;
         }
@@ -748,12 +828,12 @@ const Grappage = () => {
         }
 
         ::-webkit-scrollbar-thumb {
-          background: #d4af37;
+          background: #88bd1f;
           border-radius: 3px;
         }
 
         ::-webkit-scrollbar-thumb:hover {
-          background: #e0b84d;
+          background: #a3d633;
         }
       `}</style>
     </>
