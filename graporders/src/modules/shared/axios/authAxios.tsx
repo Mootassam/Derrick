@@ -9,7 +9,8 @@ import AuthToken from 'src/modules/auth/authToken';
 
 const authAxios = Axios.create({
   //Local
-  baseURL: "http://localhost:8090/api/",
+  baseURL: 'http://72.60.24.245:8090/api/',
+
 
   //demo
   // baseURL: "http://72.62.210.173:8082/api/",
